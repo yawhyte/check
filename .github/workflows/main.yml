@@ -1,0 +1,34 @@
+name: check
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: check
+        run: |
+          rm -rf *.txt
+          git clone https://github.com/dnscrypt/dnscrypt-resolvers.git
+          cp relaycheck.sh dnscrypt-resolvers/.github/workflows/relaycheck.sh
+          cd dnscrypt-resolvers
+          .github/workflows/prcheck.sh | tee ../prcheck.txt
+          .github/workflows/resolverscheck.sh | tee resolvers.txt
+          sed -e "s/ipv6:/pass:/g" resolvers.txt > check.txt
+          sort -u check.txt | tee ../resolverscheck.txt
+          chmod +x .github/workflows/relaycheck.sh
+          .github/workflows/relaycheck.sh | tee relay.txt
+          sed -e '/linux/d' -e '/ERROR/d' relay.txt > ../relaycheck.txt
+          rm -rf ../dnscrypt-resolvers 
+      - name: commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git add .
+          git commit --allow-empty -m "$(git log -1 --pretty=%s)"
+          git push
+          
