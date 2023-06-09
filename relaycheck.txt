@@ -35,7 +35,7 @@ pass: anon-cs-sk
 pass: anon-cs-slovakia
 pass: anon-cs-swe
 pass: anon-cs-sydney
-pass: anon-cs-tokyo (1 retry)
+pass: anon-cs-tokyo
 pass: anon-cs-tx
 pass: anon-cs-tx2
 pass: anon-cs-tx3
