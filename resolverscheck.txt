@@ -38,7 +38,6 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -104,7 +103,6 @@ pass: dct-nl1
 pass: dct-ru1
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
-pass: dns.b33.network-dnscrypt
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
@@ -162,11 +160,11 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -187,7 +185,7 @@ pass: nextdns-ipv6
 pass: nextdns-ultralow
 pass: njalla-doh
 pass: openinternet
-pass: oszx (1 retry)
+pass: oszx
 pass: plan9dns-fl
 pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
@@ -226,6 +224,8 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
+pass: sby-doh-limotelu
+pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
@@ -247,4 +247,4 @@ pass: userspace-australia-ipv6
 pass: v.dnscrypt.uk-ipv4
 pass: v.dnscrypt.uk-ipv6
 pass: wevpn-singapore
-pass: yandex
+pass: yandex (1 retry)
