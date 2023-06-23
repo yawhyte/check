@@ -147,7 +147,7 @@ pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
-pass: doh.ffmuc.net-2
+pass: doh.ffmuc.net-2 (2 retries)
 pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
 pass: doh.tiar.app
@@ -165,6 +165,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -247,4 +248,4 @@ pass: userspace-australia-ipv6
 pass: v.dnscrypt.uk-ipv4
 pass: v.dnscrypt.uk-ipv6
 pass: wevpn-singapore
-pass: yandex (1 retry)
+pass: yandex
