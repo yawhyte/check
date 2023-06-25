@@ -93,7 +93,7 @@ pass: cs-sk
 pass: cs-slovakia
 pass: cs-swe
 pass: cs-sydney
-pass: cs-tokyo (1 retry)
+pass: cs-tokyo
 pass: cs-tx
 pass: cs-tx2
 pass: cs-tx3
@@ -101,6 +101,7 @@ pass: cs-vancouver
 pass: dct-at1
 pass: dct-nl1
 pass: dct-ru1
+pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
 pass: dns.b33.network-dnscrypt
@@ -148,7 +149,7 @@ pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
-pass: doh.ffmuc.net-2
+pass: doh.ffmuc.net-2 (2 retries)
 pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
 pass: doh.tiar.app
