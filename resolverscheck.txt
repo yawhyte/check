@@ -27,6 +27,7 @@ pass: ams-doh-nl-ipv6
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world-ipv6
+pass: circl-doh
 pass: circl-doh-ipv6
 pass: cisco
 pass: cisco-doh
@@ -37,7 +38,6 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security (1 retry)
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -73,6 +73,7 @@ pass: cs-london
 pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
+pass: cs-md
 pass: cs-mexico
 pass: cs-milan
 pass: cs-nc
@@ -103,7 +104,6 @@ pass: dct-ru1
 pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
-pass: dns.b33.network-dnscrypt
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
@@ -161,7 +161,6 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -187,7 +186,7 @@ pass: nextdns-ipv6
 pass: nextdns-ultralow
 pass: njalla-doh
 pass: openinternet
-pass: oszx
+pass: oszx (2 retries)
 pass: plan9dns-fl
 pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
