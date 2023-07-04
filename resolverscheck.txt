@@ -145,7 +145,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh-ibksturm
+pass: doh-ibksturm (1 retry)
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -186,7 +186,7 @@ pass: nextdns-ipv6
 pass: nextdns-ultralow
 pass: njalla-doh
 pass: openinternet
-pass: oszx (2 retries)
+pass: oszx (1 retry)
 pass: plan9dns-fl
 pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
@@ -239,6 +239,7 @@ pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
 pass: switch
 pass: techsaviours.org-dnscrypt
+pass: tuna-doh-ipv4
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
