@@ -1,4 +1,4 @@
-pass: adfilter-adl
+pass: adfilter-adl (1 retry)
 pass: adfilter-adl-ipv6
 pass: adfilter-per
 pass: adfilter-per-ipv6
@@ -75,13 +75,13 @@ pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
 pass: cs-md
-pass: cs-mexico (2 retries)
+pass: cs-mexico
 pass: cs-milan
 pass: cs-nc
 pass: cs-nl
 pass: cs-nl2
 pass: cs-norway
-pass: cs-nv
+pass: cs-nv (1 retry)
 pass: cs-nyc1
 pass: cs-ore
 pass: cs-poland
@@ -139,10 +139,10 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (1 retry)
+pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
-pass: doh-cleanbrowsing-adult
-pass: doh-cleanbrowsing-family
+pass: doh-cleanbrowsing-adult (3 retries)
+pass: doh-cleanbrowsing-family (1 retry)
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
@@ -162,11 +162,11 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
