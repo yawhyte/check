@@ -17,8 +17,6 @@ pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: ahadns-doh-nl
 pass: alidns-doh
-pass: altername
-pass: altername-ipv6
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-dnscrypt-nl-ipv6
@@ -38,7 +36,6 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -141,6 +138,7 @@ pass: dnspod
 pass: dnswarden-adult-doh
 pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
+pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
