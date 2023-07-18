@@ -159,11 +159,12 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
-pass: ffmuc.net (3 retries)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -193,7 +194,6 @@ pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-nj
 pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
-pass: pryv8boi
 pass: publicarray-au2-doh
 pass: qihoo360-doh
 pass: quad101
