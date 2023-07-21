@@ -12,6 +12,7 @@ pass: anon-cs-finland
 pass: anon-cs-fr
 pass: anon-cs-hungary
 pass: anon-cs-il
+pass: anon-cs-il2
 pass: anon-cs-ireland
 pass: anon-cs-london
 pass: anon-cs-madrid
