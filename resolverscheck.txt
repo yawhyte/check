@@ -22,6 +22,8 @@ pass: ams-dnscrypt-nl
 pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
+pass: bebasdns
+pass: bebasdns-security
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world-ipv6
@@ -36,6 +38,7 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
+pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -140,7 +143,7 @@ pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
-pass: doh-cleanbrowsing-security
+pass: doh-cleanbrowsing-security (3 retries)
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
@@ -159,12 +162,11 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (2 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -223,6 +225,8 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
+pass: sby-doh-limotelu
+pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
