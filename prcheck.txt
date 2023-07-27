@@ -1,3 +1,1 @@
-Present in [v3/opennic.md] but not in public-resolvers.md:
-## publicarray-au-doh
 No new entries found
