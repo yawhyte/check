@@ -1,3 +1,1 @@
-Present in [v3/opennic.md] but not in public-resolvers.md:
-## bebasdns
 No new entries found
