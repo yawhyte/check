@@ -106,6 +106,7 @@ pass: dns.sb
 pass: dns.therifleman.name
 pass: dns0
 pass: dns0-kids
+pass: dns0-unfiltered
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam-ipv6
 pass: dnscry.pt-atlanta-ipv4
@@ -221,11 +222,12 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (2 retries)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
