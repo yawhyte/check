@@ -222,7 +222,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
-pass: ffmuc.net
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -243,7 +243,10 @@ pass: meganerd-doh-ipv6
 pass: meganerd-ipv6
 pass: moedns-doh
 pass: mullvad-adblock-doh
+pass: mullvad-all-doh
+pass: mullvad-base-doh
 pass: mullvad-doh
+pass: mullvad-extend-doh
 pass: nextdns
 pass: nextdns-ipv6
 pass: nextdns-ultralow
