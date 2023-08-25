@@ -151,7 +151,6 @@ pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-newyork-ipv6
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-philadelphia-ipv6
-pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-saltlakecity-ipv6
 pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-sandefjord-ipv6
@@ -199,7 +198,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc
+pass: dnswarden-uncensor-dc (1 retry)
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -222,7 +221,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
