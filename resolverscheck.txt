@@ -37,7 +37,6 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
