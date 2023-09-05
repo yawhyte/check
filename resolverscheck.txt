@@ -69,7 +69,6 @@ pass: cs-ireland
 pass: cs-madrid
 pass: cs-manchester
 pass: cs-md
-pass: cs-mexico
 pass: cs-milan
 pass: cs-nc
 pass: cs-nl
@@ -108,7 +107,6 @@ pass: dns0-kids
 pass: dns0-unfiltered
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam-ipv6
-pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-castlegar-ipv4
 pass: dnscry.pt-castlegar-ipv6
@@ -122,7 +120,6 @@ pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-coventry-ipv6
 pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-dallas-ipv6
-pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-denver-ipv6
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-dublin-ipv6
@@ -220,6 +217,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
