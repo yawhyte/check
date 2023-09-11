@@ -219,6 +219,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -250,8 +251,8 @@ pass: openinternet
 pass: plan9dns-fl
 pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
+pass: plan9dns-mx (3 retries)
+pass: plan9dns-mx-doh (2 retries)
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-nj
 pass: plan9dns-nj-doh
