@@ -37,7 +37,6 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -61,7 +60,6 @@ pass: cs-czech
 pass: cs-dc
 pass: cs-dus1
 pass: cs-dus4
-pass: cs-finland
 pass: cs-fr
 pass: cs-hungary
 pass: cs-il
@@ -203,7 +201,6 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -219,12 +216,10 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -251,8 +246,8 @@ pass: openinternet
 pass: plan9dns-fl
 pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
-pass: plan9dns-mx (3 retries)
-pass: plan9dns-mx-doh (2 retries)
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-nj
 pass: plan9dns-nj-doh
