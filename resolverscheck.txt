@@ -168,7 +168,6 @@ pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-valdivia-ipv6
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vienna-ipv6
-pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-warsaw-ipv6
 pass: dnscrypt-de-blahdns-ipv4
 pass: dnscrypt-de-blahdns-ipv6
@@ -221,6 +220,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
