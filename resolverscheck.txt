@@ -75,7 +75,7 @@ pass: cs-milan
 pass: cs-nc
 pass: cs-nl
 pass: cs-norway
-pass: cs-nv
+pass: cs-nv (1 retry)
 pass: cs-nyc1
 pass: cs-ore
 pass: cs-poland
