@@ -23,7 +23,10 @@ pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: bebasdns
+pass: bebasdns-dnscrypt
+pass: bebasdns-family
 pass: bebasdns-security
+pass: bebasdns-unfiltered
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
@@ -274,6 +277,8 @@ pass: plan9dns-nj
 pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: pryv8boi
+pass: puredns-doh
+pass: puredns-family-doh
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
@@ -296,6 +301,7 @@ pass: quad9-doh-ip6-port5053-filter-ecs-pri
 pass: quad9-doh-ip6-port5053-filter-pri
 pass: quad9-doh-ip6-port5053-nofilter-ecs-pri
 pass: quad9-doh-ip6-port5053-nofilter-pri
+pass: rethinkdns-doh
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
