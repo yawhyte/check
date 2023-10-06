@@ -94,7 +94,7 @@ pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
 pass: dct-at1
-pass: dct-nl1
+pass: dct-nl1 (2 retries)
 pass: dct-ru1
 pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
