@@ -42,7 +42,6 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
-pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -94,7 +93,6 @@ pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
 pass: dct-at1
-pass: dct-nl1 (2 retries)
 pass: dct-ru1
 pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
@@ -195,7 +193,6 @@ pass: dnscry.pt-warsaw02-ipv6
 pass: dnscrypt-de-blahdns-ipv4
 pass: dnscrypt-de-blahdns-ipv6
 pass: dnscrypt.be
-pass: dnscrypt.ca-1
 pass: dnscrypt.ca-1-doh
 pass: dnscrypt.ca-1-doh-ipv6
 pass: dnscrypt.ca-1-ipv6
