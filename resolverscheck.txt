@@ -42,6 +42,7 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
+pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -292,7 +293,6 @@ pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
-pass: quad9-doh-ip4-port5053-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
@@ -317,7 +317,6 @@ pass: scaleway-fr-ipv6
 pass: serbica
 pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
-pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
 pass: switch
