@@ -19,9 +19,7 @@ pass: ahadns-doh-nl
 pass: alidns-doh
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
-pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
-pass: ams-doh-nl-ipv6
 pass: bebasdns
 pass: bebasdns-dnscrypt
 pass: bebasdns-family
@@ -215,7 +213,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (2 retries)
+pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -307,8 +305,6 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
-pass: sby-doh-limotelu
-pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
@@ -316,7 +312,6 @@ pass: scaleway-fr-ipv6
 pass: serbica
 pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
-pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
 pass: switch
 pass: techsaviours.org-dnscrypt

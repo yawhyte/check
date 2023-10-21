@@ -17,7 +17,7 @@ pass: anon-cs-nc
 pass: anon-cs-nl
 pass: anon-cs-norway
 pass: anon-cs-nv
-pass: anon-cs-nyc1
+pass: anon-cs-nyc1 (1 retry)
 pass: anon-cs-ore
 pass: anon-cs-poland
 pass: anon-cs-pt
