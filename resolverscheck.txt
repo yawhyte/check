@@ -155,6 +155,7 @@ pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-montreal-ipv6
 pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-mumbai-ipv6
+pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
 pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-naaldwijk-ipv6
@@ -172,7 +173,6 @@ pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-spokane-ipv6
-pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
 pass: dnscry.pt-sydney-ipv4
 pass: dnscry.pt-sydney-ipv6
@@ -237,6 +237,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
