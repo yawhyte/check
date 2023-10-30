@@ -22,10 +22,6 @@ pass: ams-dnscrypt-nl
 pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
-pass: bebasdns
-pass: bebasdns-family
-pass: bebasdns-security
-pass: bebasdns-unfiltered
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
@@ -82,7 +78,7 @@ pass: cs-ore
 pass: cs-poland
 pass: cs-pt
 pass: cs-ro
-pass: cs-rome (1 retry)
+pass: cs-rome
 pass: cs-sea
 pass: cs-serbia
 pass: cs-slovakia
@@ -214,7 +210,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (1 retry)
+pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -237,7 +233,6 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
