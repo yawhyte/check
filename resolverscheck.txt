@@ -236,6 +236,7 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
