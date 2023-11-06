@@ -92,7 +92,6 @@ pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
 pass: dct-at1
-pass: dct-nl1
 pass: dct-ru1
 pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
@@ -236,12 +235,11 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
