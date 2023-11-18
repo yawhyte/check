@@ -44,7 +44,7 @@ pass: anon-saldns03-conoha-ipv4
 pass: anon-saldns99-conoha-ipv4
 pass: anon-scaleway
 pass: anon-scaleway-ams
-pass: anon-sth-se
+pass: anon-sth-se (1 retry)
 pass: anon-techsaviours.org
 pass: anon-tiarap
 pass: anon-v.dnscrypt.uk-ipv4
