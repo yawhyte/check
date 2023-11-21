@@ -42,6 +42,7 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
+pass: cleanbrowsing-security (1 retry)
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -88,7 +89,6 @@ pass: cs-sea
 pass: cs-serbia
 pass: cs-slovakia
 pass: cs-swe
-pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
@@ -242,6 +242,7 @@ pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
+pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
@@ -310,6 +311,7 @@ pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
 pass: scaleway-fr-ipv6
+pass: serbica
 pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
