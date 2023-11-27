@@ -25,6 +25,7 @@ pass: ams-doh-nl-ipv6
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-security
+pass: bebasdns-unfiltered-dnscrypt
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -170,7 +171,7 @@ pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore-ipv6
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
-pass: dnscry.pt-spokane-ipv4
+pass: dnscry.pt-spokane-ipv4 (2 retries)
 pass: dnscry.pt-spokane-ipv6
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
@@ -237,7 +238,6 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
-pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
