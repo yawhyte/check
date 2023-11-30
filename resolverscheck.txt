@@ -42,6 +42,7 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-family
+pass: cleanbrowsing-security
 pass: cloudflare
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
@@ -153,7 +154,6 @@ pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-miami-ipv6
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-montreal-ipv6
-pass: dnscry.pt-mumbai-ipv6
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
 pass: dnscry.pt-naaldwijk-ipv4
@@ -180,7 +180,6 @@ pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
-pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo-ipv6
 pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-valdivia-ipv6
@@ -220,7 +219,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh-ibksturm
+pass: doh-ibksturm (1 retry)
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -236,11 +235,11 @@ pass: easymosdns-doh
 pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
