@@ -25,7 +25,6 @@ pass: ams-doh-nl-ipv6
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-security
-pass: bebasdns-unfiltered-dnscrypt
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -93,7 +92,6 @@ pass: cs-tx
 pass: cs-vancouver
 pass: dct-at
 pass: dct-nl
-pass: dct-ru (1 retry)
 pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
@@ -207,7 +205,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (1 retry)
+pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -237,6 +235,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -246,7 +245,7 @@ pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: libredns
 pass: libredns-noads
-pass: meganerd (1 retry)
+pass: meganerd
 pass: meganerd-doh-ipv4
 pass: meganerd-doh-ipv6
 pass: meganerd-ipv6
