@@ -89,9 +89,9 @@ pass: cs-swe
 pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
-pass: cs-vancouver
 pass: dct-at
 pass: dct-nl
+pass: dct-ru
 pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
