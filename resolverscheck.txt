@@ -91,7 +91,6 @@ pass: cs-tokyo
 pass: cs-tx
 pass: dct-at
 pass: dct-nl
-pass: dct-ru
 pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
@@ -309,7 +308,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
-pass: switch
+pass: switch (1 retry)
 pass: techsaviours.org-dnscrypt
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
