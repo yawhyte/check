@@ -64,7 +64,7 @@ pass: cs-czech
 pass: cs-dc
 pass: cs-dus1
 pass: cs-dus4
-pass: cs-fr
+pass: cs-fr (1 retry)
 pass: cs-hungary
 pass: cs-india
 pass: cs-ireland
@@ -91,6 +91,7 @@ pass: cs-tokyo
 pass: cs-tx
 pass: dct-at
 pass: dct-nl
+pass: dct-ru
 pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
@@ -204,7 +205,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc
+pass: dnswarden-uncensor-dc (1 retry)
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -229,7 +230,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -308,7 +308,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
-pass: switch (1 retry)
+pass: switch
 pass: techsaviours.org-dnscrypt
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
