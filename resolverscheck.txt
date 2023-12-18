@@ -23,8 +23,8 @@ pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: bebasdns
-pass: bebasdns-family
-pass: bebasdns-security
+pass: bebasdns-family (1 retry)
+pass: bebasdns-security (2 retries)
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -64,7 +64,7 @@ pass: cs-czech
 pass: cs-dc
 pass: cs-dus1
 pass: cs-dus4
-pass: cs-fr (1 retry)
+pass: cs-fr
 pass: cs-hungary
 pass: cs-india
 pass: cs-ireland
@@ -89,6 +89,7 @@ pass: cs-swe
 pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
+pass: cs-vancouver
 pass: dct-at
 pass: dct-nl
 pass: dct-ru
@@ -308,7 +309,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
-pass: switch
+pass: switch (1 retry)
 pass: techsaviours.org-dnscrypt
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
