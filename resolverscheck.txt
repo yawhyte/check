@@ -236,7 +236,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
+pass: ibksturm (2 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -311,6 +311,7 @@ pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
 pass: switch
+pass: techsaviours.org-dnscrypt
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
