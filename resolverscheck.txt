@@ -26,7 +26,7 @@ pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-security
 pass: bebasdns-unfiltered-doh
-pass: bortzmeyer
+pass: bortzmeyer (1 retry)
 pass: bortzmeyer-ipv6
 pass: brahma-world
 pass: brahma-world-ipv6
@@ -47,7 +47,7 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02 (1 retry)
+pass: comodo-02
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -231,6 +231,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
