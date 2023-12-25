@@ -86,6 +86,7 @@ pass: cs-rome
 pass: cs-sea
 pass: cs-serbia
 pass: cs-slovakia
+pass: cs-swe
 pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
@@ -230,11 +231,11 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
