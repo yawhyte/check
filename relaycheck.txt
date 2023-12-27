@@ -39,7 +39,6 @@ pass: anon-gombadi-singapore
 pass: anon-gombadi-sydney
 pass: anon-gombadi-tokyo
 pass: anon-inconnu
-pass: anon-kama
 pass: anon-meganerd
 pass: anon-openinternet
 pass: anon-saldns01-conoha-ipv4
