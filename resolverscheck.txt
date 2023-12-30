@@ -104,7 +104,6 @@ pass: dns.digitalsize.net
 pass: dns.digitalsize.net-ipv6
 pass: dns.ryan-palmer
 pass: dns.sb
-pass: dns.therifleman.name
 pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
@@ -206,7 +205,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (1 retry)
+pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -231,7 +230,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
