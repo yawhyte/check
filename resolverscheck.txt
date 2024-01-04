@@ -73,7 +73,7 @@ pass: cs-madrid
 pass: cs-manchester
 pass: cs-mexico
 pass: cs-milan
-pass: cs-nc
+pass: cs-nc (1 retry)
 pass: cs-nl
 pass: cs-norway
 pass: cs-nv
@@ -203,7 +203,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
-pass: dnswarden-uncensor-dc (2 retries)
+pass: dnswarden-uncensor-dc
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -228,7 +228,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
