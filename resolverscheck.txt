@@ -289,7 +289,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -355,7 +354,7 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
-pass: sby-doh-limotelu (1 retry)
+pass: sby-doh-limotelu
 pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
@@ -383,5 +382,9 @@ pass: v.dnscrypt.uk-ipv6
 pass: wevpn-singapore
 pass: wikimedia
 pass: wikimedia-ipv6
+pass: yandex
 pass: yandex-family
+pass: yandex-family-ipv6
+pass: yandex-ipv6
 pass: yandex-safe
+pass: yandex-safe-ipv6
