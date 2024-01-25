@@ -47,7 +47,7 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -64,7 +64,7 @@ pass: cs-czech
 pass: cs-dc
 pass: cs-dus1
 pass: cs-dus4
-pass: cs-fr
+pass: cs-fr (1 retry)
 pass: cs-hungary
 pass: cs-il
 pass: cs-india
