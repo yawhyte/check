@@ -25,7 +25,7 @@ pass: ams-doh-nl-ipv6
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-security
-pass: bebasdns-unfiltered-doh (1 retry)
+pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
@@ -289,7 +289,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
