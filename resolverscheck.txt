@@ -123,7 +123,7 @@ pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-chisinau-ipv6
 pass: dnscry.pt-coeurdalene-ipv4
 pass: dnscry.pt-coeurdalene-ipv6
-pass: dnscry.pt-coventry-ipv4 (3 retries)
+pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-dallas-ipv6
 pass: dnscry.pt-denver-ipv4
@@ -287,7 +287,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
