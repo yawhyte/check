@@ -198,7 +198,7 @@ pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-phoenix-ipv6
 pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portedwards-ipv6
-pass: dnscry.pt-portland-ipv4 (1 retry)
+pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-portland-ipv6
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-riga-ipv6
@@ -257,7 +257,6 @@ pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
-pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
 pass: dnslow.me
@@ -366,7 +365,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
-pass: switch
+pass: switch (1 retry)
 pass: techsaviours.org-dnscrypt
 pass: tirapan-doh-ipv4
 pass: tirapan-doh-ipv6
