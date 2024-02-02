@@ -73,7 +73,7 @@ pass: cs-madrid
 pass: cs-manchester
 pass: cs-mexico
 pass: cs-milan
-pass: cs-nc
+pass: cs-nc (1 retry)
 pass: cs-nl
 pass: cs-norway
 pass: cs-nv
@@ -103,9 +103,6 @@ pass: dns.digitalsize.net
 pass: dns.digitalsize.net-ipv6
 pass: dns.ryan-palmer
 pass: dns.sb
-pass: dns0
-pass: dns0-kids
-pass: dns0-unfiltered
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allentown-ipv4
@@ -257,6 +254,7 @@ pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
+pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
 pass: dnslow.me
@@ -286,7 +284,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -365,7 +363,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
-pass: switch (1 retry)
+pass: switch
 pass: techsaviours.org-dnscrypt
 pass: tirapan-doh-ipv4
 pass: tirapan-doh-ipv6
