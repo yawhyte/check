@@ -135,7 +135,6 @@ pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-auckland-ipv6
-pass: dnscry.pt-castlegar-ipv6
 pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chicago-ipv6
 pass: dnscry.pt-chisinau-ipv4
@@ -276,6 +275,7 @@ pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
+pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
 pass: dnslow.me
