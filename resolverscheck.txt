@@ -171,7 +171,7 @@ pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong-ipv6
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
-pass: dnscry.pt-jakarta-ipv4 (1 retry)
+pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
 pass: dnscry.pt-kharkiv-ipv4
@@ -184,7 +184,7 @@ pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
-pass: dnscry.pt-lima-ipv4
+pass: dnscry.pt-lima-ipv4 (1 retry)
 pass: dnscry.pt-lima-ipv6
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-london-ipv6
