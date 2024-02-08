@@ -2,7 +2,7 @@ pass: anon-cs-austria
 pass: anon-cs-barcelona
 pass: anon-cs-belgium
 pass: anon-cs-berlin
-pass: anon-cs-brazil (2 retries)
+pass: anon-cs-brazil
 pass: anon-cs-bulgaria
 pass: anon-cs-ch
 pass: anon-cs-ch2
@@ -143,3 +143,4 @@ pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-toronto-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vienna-ipv4
+pass: dnscry.pt-anon-warsaw02-ipv4

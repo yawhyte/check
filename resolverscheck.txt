@@ -24,7 +24,7 @@ pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: bebasdns
 pass: bebasdns-family
-pass: bebasdns-security
+pass: bebasdns-security (1 retry)
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -184,7 +184,7 @@ pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
-pass: dnscry.pt-lima-ipv4 (1 retry)
+pass: dnscry.pt-lima-ipv4
 pass: dnscry.pt-lima-ipv6
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-london-ipv6
@@ -305,6 +305,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
