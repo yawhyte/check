@@ -24,7 +24,6 @@ pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: bebasdns
 pass: bebasdns-family
-pass: bebasdns-security (1 retry)
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -56,7 +55,7 @@ pass: controld-uncensored
 pass: controld-unfiltered
 pass: cs-austria
 pass: cs-barcelona
-pass: cs-belgium
+pass: cs-belgium (1 retry)
 pass: cs-berlin
 pass: cs-brazil
 pass: cs-bulgaria
@@ -125,6 +124,9 @@ pass: dns.digitalsize.net
 pass: dns.digitalsize.net-ipv6
 pass: dns.ryan-palmer
 pass: dns.sb
+pass: dns0
+pass: dns0-kids
+pass: dns0-unfiltered
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allentown-ipv4
@@ -305,7 +307,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
