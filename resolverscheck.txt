@@ -86,10 +86,10 @@ pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
 pass: cs-md
-pass: cs-mexico
+pass: cs-mexico (1 retry)
 pass: cs-milan
 pass: cs-montreal
-pass: cs-nc
+pass: cs-nc (1 retry)
 pass: cs-nl
 pass: cs-nl2
 pass: cs-norway
@@ -261,7 +261,7 @@ pass: dnscry.pt-toronto-ipv4
 pass: dnscry.pt-toronto-ipv6
 pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-valdivia-ipv6
-pass: dnscry.pt-warsaw02-ipv4 (3 retries)
+pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-warsaw02-ipv6
 pass: dnscrypt.ca-1
 pass: dnscrypt.ca-1-doh
@@ -308,6 +308,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -387,7 +388,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
-pass: switch (2 retries)
+pass: switch
 pass: techsaviours.org-dnscrypt
 pass: tirapan-doh-ipv4
 pass: tirapan-doh-ipv6
