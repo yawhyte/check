@@ -83,7 +83,6 @@ pass: dnscry.pt-anon-allentown-ipv4
 pass: dnscry.pt-anon-amsterdam-ipv4
 pass: dnscry.pt-anon-atlanta-ipv4
 pass: dnscry.pt-anon-chicago-ipv4
-pass: dnscry.pt-anon-chisinau-ipv4
 pass: dnscry.pt-anon-coeurdalene-ipv4
 pass: dnscry.pt-anon-coventry-ipv4
 pass: dnscry.pt-anon-dallas-ipv4
@@ -143,4 +142,4 @@ pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-toronto-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vienna-ipv4
-pass: dnscry.pt-anon-warsaw02-ipv4 (2 retries)
+pass: dnscry.pt-anon-warsaw02-ipv4
