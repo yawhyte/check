@@ -23,7 +23,7 @@ pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: bebasdns
-pass: bebasdns-family
+pass: bebasdns-family (1 retry)
 pass: bebasdns-security
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
@@ -140,6 +140,7 @@ pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-auckland-ipv6
 pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chicago-ipv6
+pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-chisinau-ipv6
 pass: dnscry.pt-coeurdalene-ipv4
 pass: dnscry.pt-coeurdalene-ipv6
@@ -290,7 +291,7 @@ pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
-pass: doh.appliedprivacy.net (1 retry)
+pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
@@ -307,7 +308,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
