@@ -47,7 +47,7 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02 (1 retry)
+pass: comodo-02
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -85,7 +85,6 @@ pass: cs-london
 pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
-pass: cs-md
 pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
@@ -115,7 +114,7 @@ pass: cs-tx3
 pass: cs-vancouver
 pass: dct-nl
 pass: dct-ru
-pass: decloudus-nogoogle-tst (3 retries)
+pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
 pass: dns.b33.network-dnscrypt
@@ -134,6 +133,7 @@ pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam-ipv6
+pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-auckland-ipv6
@@ -277,7 +277,6 @@ pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
-pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
 pass: dnslow.me
@@ -307,12 +306,12 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (1 retry)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
