@@ -85,6 +85,7 @@ pass: cs-london
 pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
+pass: cs-md
 pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
@@ -114,7 +115,6 @@ pass: cs-tx3
 pass: cs-vancouver
 pass: dct-nl
 pass: dct-ru
-pass: decloudus-nogoogle-tst
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
 pass: dns.b33.network-dnscrypt
@@ -277,6 +277,7 @@ pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
 pass: dnsforfamily-doh
 pass: dnsforfamily-doh-no-safe-search
+pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
 pass: dnslow.me
@@ -306,7 +307,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
