@@ -262,14 +262,6 @@ pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-valdivia-ipv6
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-warsaw02-ipv6
-pass: dnscrypt.ca-1
-pass: dnscrypt.ca-1-doh
-pass: dnscrypt.ca-1-doh-ipv6
-pass: dnscrypt.ca-1-ipv6
-pass: dnscrypt.ca-2
-pass: dnscrypt.ca-2-doh
-pass: dnscrypt.ca-2-doh-ipv6
-pass: dnscrypt.ca-2-ipv6
 pass: dnscrypt.pl
 pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
@@ -307,6 +299,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
