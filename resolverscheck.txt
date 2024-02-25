@@ -91,6 +91,7 @@ pass: cs-milan
 pass: cs-montreal
 pass: cs-nc
 pass: cs-nl
+pass: cs-nl2
 pass: cs-norway
 pass: cs-nv
 pass: cs-nyc1
@@ -116,7 +117,6 @@ pass: dct-nl
 pass: dct-ru
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
-pass: dns.b33.network-dnscrypt
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
@@ -201,7 +201,6 @@ pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-mumbai-ipv6
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
-pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-naaldwijk-ipv6
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-newyork-ipv6
@@ -298,6 +297,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -386,7 +386,6 @@ pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
-pass: userspace-australia
 pass: userspace-australia-ipv6
 pass: v.dnscrypt.uk-ipv4
 pass: v.dnscrypt.uk-ipv6
