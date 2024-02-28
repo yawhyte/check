@@ -24,7 +24,6 @@ pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: bebasdns
 pass: bebasdns-family
-pass: bebasdns-security
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -82,7 +81,7 @@ pass: cs-india
 pass: cs-ireland
 pass: cs-la
 pass: cs-london
-pass: cs-lv (1 retry)
+pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
 pass: cs-md
@@ -249,7 +248,6 @@ pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-tampa-ipv6
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
-pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tbilisi-ipv6
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo-ipv6
@@ -298,12 +296,11 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
