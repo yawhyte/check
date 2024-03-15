@@ -101,7 +101,7 @@ pass: cs-poland
 pass: cs-pt
 pass: cs-ro
 pass: cs-rome
-pass: cs-sea (1 retry)
+pass: cs-sea
 pass: cs-serbia
 pass: cs-singapore
 pass: cs-sk
@@ -117,6 +117,7 @@ pass: dct-nl
 pass: dct-ru
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
+pass: dns.b33.network-dnscrypt
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
@@ -351,6 +352,7 @@ pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
+pass: quad9-doh-ip4-port5053-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
