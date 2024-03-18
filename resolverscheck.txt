@@ -180,7 +180,6 @@ pass: dnscry.pt-kharkiv-ipv4
 pass: dnscry.pt-kharkiv-ipv6
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv-ipv6
-pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lagos-ipv6
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
@@ -350,7 +349,6 @@ pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
-pass: quad9-doh-ip4-port5053-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port5053-filter-pri
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
 pass: quad9-doh-ip4-port5053-nofilter-pri
