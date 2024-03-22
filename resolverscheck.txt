@@ -139,7 +139,7 @@ pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-auckland-ipv6
 pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chicago-ipv6
-pass: dnscry.pt-chisinau-ipv4 (1 retry)
+pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-chisinau-ipv6
 pass: dnscry.pt-coeurdalene-ipv4
 pass: dnscry.pt-coeurdalene-ipv6
@@ -350,10 +350,8 @@ pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
-pass: quad9-doh-ip4-port5053-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port5053-filter-pri
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
-pass: quad9-doh-ip4-port5053-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
@@ -369,6 +367,8 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
+pass: sby-doh-limotelu
+pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
