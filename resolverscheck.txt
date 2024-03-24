@@ -169,7 +169,7 @@ pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-geneva-ipv6
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
-pass: dnscry.pt-hongkong-ipv4
+pass: dnscry.pt-hongkong-ipv4 (1 retry)
 pass: dnscry.pt-hongkong-ipv6
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
@@ -296,7 +296,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -342,6 +341,7 @@ pass: pryv8boi
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
+pass: quad9-dnscrypt-ip4-filter-ecs-pri (2 retries)
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
@@ -386,6 +386,7 @@ pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
+pass: userspace-australia
 pass: userspace-australia-ipv6
 pass: v.dnscrypt.uk-ipv4
 pass: v.dnscrypt.uk-ipv6
