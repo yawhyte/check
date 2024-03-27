@@ -103,7 +103,7 @@ pass: cs-ro
 pass: cs-rome
 pass: cs-sea
 pass: cs-serbia
-pass: cs-singapore
+pass: cs-singapore (1 retry)
 pass: cs-sk
 pass: cs-slovakia
 pass: cs-swe
@@ -296,7 +296,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
