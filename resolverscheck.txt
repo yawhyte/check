@@ -117,7 +117,7 @@ pass: dct-nl
 pass: dct-ru
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
-pass: dns.b33.network-dnscrypt
+pass: dns.b33.network-dnscrypt (1 retry)
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
@@ -294,10 +294,11 @@ pass: fdn-ipv6
 pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (1 retry)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
