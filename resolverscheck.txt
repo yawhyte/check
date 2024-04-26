@@ -122,7 +122,7 @@ pass: dns.digitalsize.net
 pass: dns.digitalsize.net-ipv6
 pass: dns.ryan-palmer
 pass: dns.sb
-pass: dns.sb (1 retry)
+pass: dns.sb (3 retries)
 pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
@@ -143,7 +143,6 @@ pass: dnscry.pt-chisinau-ipv6
 pass: dnscry.pt-coeurdalene-ipv4
 pass: dnscry.pt-coeurdalene-ipv6
 pass: dnscry.pt-coventry-ipv4
-pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-denver-ipv6
 pass: dnscry.pt-detroit-ipv4
@@ -264,6 +263,7 @@ pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
 pass: dnswarden-adult-doh
+pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
@@ -290,6 +290,7 @@ pass: fdn-ipv6
 pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
@@ -358,7 +359,7 @@ pass: rethinkdns-doh
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
-pass: saldns02-conoha-ipv4 (1 retry)
+pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: sby-doh-limotelu
 pass: sby-limotelu
