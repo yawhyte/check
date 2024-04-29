@@ -122,7 +122,7 @@ pass: dns.digitalsize.net
 pass: dns.digitalsize.net-ipv6
 pass: dns.ryan-palmer
 pass: dns.sb
-pass: dns.sb (2 retries)
+pass: dns.sb (1 retry)
 pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
@@ -288,13 +288,13 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
+pass: fluffycat-fr-01 (1 retry)
 pass: fluffycat-fr-02 (2 retries)
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (1 retry)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -307,7 +307,7 @@ pass: ksol.io-ns2-dnscrypt-ipv6
 pass: libredns
 pass: libredns-noads
 pass: meganerd
-pass: meganerd-doh-ipv4 (3 retries)
+pass: meganerd-doh-ipv4
 pass: meganerd-doh-ipv6
 pass: meganerd-ipv6
 pass: mullvad-adblock-doh
@@ -339,11 +339,13 @@ pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
+pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
+pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
 pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
@@ -372,7 +374,7 @@ pass: sth-dnscrypt-se
 pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
 pass: switch
-pass: techsaviours.org-dnscrypt (3 retries)
+pass: techsaviours.org-dnscrypt
 pass: tirapan-doh-ipv6
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
