@@ -21,7 +21,6 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
-pass: ams-doh-nl-ipv6
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
@@ -206,7 +205,7 @@ pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-paris-ipv6
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-philadelphia-ipv6
-pass: dnscry.pt-phoenix-ipv4
+pass: dnscry.pt-phoenix-ipv4 (1 retry)
 pass: dnscry.pt-phoenix-ipv6
 pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portedwards-ipv6
@@ -271,6 +270,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
+pass: doh-ibksturm
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
@@ -307,8 +307,6 @@ pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
 pass: libredns
 pass: libredns-noads
-pass: meganerd-doh-ipv6
-pass: meganerd-ipv6
 pass: mullvad-adblock-doh
 pass: mullvad-all-doh
 pass: mullvad-base-doh
@@ -370,11 +368,9 @@ pass: serbica
 pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
-pass: sth-dnscrypt-se-ipv6
 pass: sth-doh-se
 pass: switch
 pass: techsaviours.org-dnscrypt
-pass: tirapan-doh-ipv6
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
