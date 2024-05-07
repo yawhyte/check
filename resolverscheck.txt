@@ -21,6 +21,8 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
+pass: artikel10-doh-ipv4
+pass: artikel10-doh-ipv6
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
@@ -60,7 +62,6 @@ pass: cs-brazil
 pass: cs-bulgaria
 pass: cs-ch
 pass: cs-ch2
-pass: cs-czech
 pass: cs-dc
 pass: cs-de
 pass: cs-dk
@@ -154,14 +155,14 @@ pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt-ipv6
-pass: dnscry.pt-fremont-ipv4 (1 retry)
+pass: dnscry.pt-fremont-ipv4
 pass: dnscry.pt-fremont-ipv6
 pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-fujairah-ipv6
 pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-geneva-ipv6
 pass: dnscry.pt-helsinki-ipv4
-pass: dnscry.pt-hongkong-ipv4
+pass: dnscry.pt-hongkong-ipv4 (1 retry)
 pass: dnscry.pt-hongkong-ipv6
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
@@ -287,9 +288,10 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02 (1 retry)
+pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
 pass: he
@@ -350,6 +352,8 @@ pass: quad9-doh-ip6-port5053-filter-ecs-pri
 pass: quad9-doh-ip6-port5053-filter-pri
 pass: quad9-doh-ip6-port5053-nofilter-ecs-pri
 pass: quad9-doh-ip6-port5053-nofilter-pri
+pass: restena-doh-ipv4
+pass: restena-doh-ipv6
 pass: rethinkdns-doh
 pass: safesurfer
 pass: safesurfer-doh
