@@ -62,6 +62,7 @@ pass: cs-brazil
 pass: cs-bulgaria
 pass: cs-ch
 pass: cs-ch2
+pass: cs-czech
 pass: cs-dc
 pass: cs-de
 pass: cs-dk
@@ -162,7 +163,7 @@ pass: dnscry.pt-fujairah-ipv6
 pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-geneva-ipv6
 pass: dnscry.pt-helsinki-ipv4
-pass: dnscry.pt-hongkong-ipv4 (1 retry)
+pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong-ipv6
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
@@ -288,7 +289,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02

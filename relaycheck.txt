@@ -6,6 +6,7 @@ pass: anon-cs-brazil
 pass: anon-cs-bulgaria
 pass: anon-cs-ch
 pass: anon-cs-ch2
+pass: anon-cs-czech
 pass: anon-cs-dc
 pass: anon-cs-de
 pass: anon-cs-dk
