@@ -25,6 +25,7 @@ pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
 pass: bebasdns
 pass: bebasdns-family
+pass: bebasdns-unfiltered-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
@@ -38,7 +39,7 @@ pass: cisco-familyshield-ipv6
 pass: cisco-ipv6
 pass: cisco-ipv6-doh
 pass: cisco-sandbox
-pass: cleanbrowsing-adult
+pass: cleanbrowsing-adult (2 retries)
 pass: cleanbrowsing-family
 pass: cloudflare
 pass: cloudflare-family
@@ -84,7 +85,6 @@ pass: cs-london
 pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
-pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
 pass: cs-nc
@@ -235,6 +235,7 @@ pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
+pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-tampa-ipv6
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
@@ -287,9 +288,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01 (2 retries)
+pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
 pass: he
@@ -350,7 +351,7 @@ pass: quad9-doh-ip6-port5053-filter-ecs-pri
 pass: quad9-doh-ip6-port5053-filter-pri
 pass: quad9-doh-ip6-port5053-nofilter-ecs-pri
 pass: quad9-doh-ip6-port5053-nofilter-pri
-pass: restena-doh-ipv4
+pass: restena-doh-ipv4 (1 retry)
 pass: restena-doh-ipv6
 pass: rethinkdns-doh
 pass: safesurfer
