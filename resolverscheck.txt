@@ -85,7 +85,7 @@ pass: cs-london
 pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
-pass: cs-mexico (3 retries)
+pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
 pass: cs-nc
@@ -289,11 +289,13 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
+pass: fluffycat-fr-01
+pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
-pass: he (1 retry)
+pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
@@ -329,7 +331,7 @@ pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: pryv8boi
-pass: qihoo360-doh
+pass: qihoo360-doh (1 retry)
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
