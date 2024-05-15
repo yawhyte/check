@@ -205,7 +205,7 @@ pass: dnscry.pt-milan-ipv4
 pass: dnscry.pt-milan-ipv6
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-montreal-ipv6
-pass: dnscry.pt-mumbai-ipv4
+pass: dnscry.pt-mumbai-ipv4 (1 retry)
 pass: dnscry.pt-mumbai-ipv6
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
@@ -310,8 +310,10 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
+pass: fluffycat-fr-02 (2 retries)
 pass: google
 pass: google-ipv6
 pass: he
@@ -338,6 +340,7 @@ pass: mullvad-family-doh
 pass: nextdns
 pass: nextdns-ipv6
 pass: nextdns-ultralow
+pass: nic.cz
 pass: njalla-doh
 pass: plan9dns-fl
 pass: plan9dns-fl-doh
