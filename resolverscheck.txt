@@ -26,7 +26,7 @@ pass: artikel10-doh-ipv6
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
-pass: bortzmeyer
+pass: bortzmeyer (1 retry)
 pass: bortzmeyer-ipv6
 pass: brahma-world
 pass: brahma-world-ipv6
@@ -71,7 +71,7 @@ pass: cs-dus2
 pass: cs-dus3
 pass: cs-dus4
 pass: cs-finland
-pass: cs-fl
+pass: cs-fl (1 retry)
 pass: cs-fl2
 pass: cs-fr
 pass: cs-ga
@@ -310,9 +310,8 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-02 (1 retry)
+pass: fluffycat-fr-01
 pass: google
 pass: google-ipv6
 pass: he
@@ -385,8 +384,6 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
-pass: sby-doh-limotelu
-pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
