@@ -23,7 +23,6 @@ pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
-pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
 pass: bortzmeyer (1 retry)
@@ -71,7 +70,7 @@ pass: cs-dus2
 pass: cs-dus3
 pass: cs-dus4
 pass: cs-finland
-pass: cs-fl (1 retry)
+pass: cs-fl
 pass: cs-fl2
 pass: cs-fr
 pass: cs-ga
@@ -225,7 +224,6 @@ pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-philadelphia-ipv6
 pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-phoenix-ipv6
-pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portedwards-ipv6
 pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-portland-ipv6
@@ -311,7 +309,7 @@ pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
