@@ -23,9 +23,10 @@ pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
+pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
-pass: bortzmeyer (1 retry)
+pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
 pass: brahma-world-ipv6
@@ -224,8 +225,9 @@ pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-philadelphia-ipv6
 pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-phoenix-ipv6
+pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portedwards-ipv6
-pass: dnscry.pt-portland-ipv4
+pass: dnscry.pt-portland-ipv4 (1 retry)
 pass: dnscry.pt-portland-ipv6
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-riga-ipv6
@@ -308,7 +310,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
+pass: fluffycat-fr-01 (1 retry)
 pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
@@ -382,6 +386,7 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
+pass: sby-doh-limotelu (1 retry)
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
