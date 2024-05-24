@@ -17,6 +17,7 @@ pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: ahadns-doh-nl
 pass: alidns-doh
+pass: alidns-doh-ipv6
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-dnscrypt-nl-ipv6
@@ -227,7 +228,7 @@ pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-phoenix-ipv6
 pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portedwards-ipv6
-pass: dnscry.pt-portland-ipv4 (1 retry)
+pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-portland-ipv6
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-riga-ipv6
@@ -278,8 +279,6 @@ pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
-pass: dnsforfamily-doh
-pass: dnsforfamily-doh-no-safe-search
 pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
@@ -310,10 +309,10 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01 (1 retry)
-pass: fluffycat-fr-02 (1 retry)
+pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
 pass: he
@@ -331,6 +330,8 @@ pass: libredns
 pass: libredns-noads
 pass: meganerd
 pass: meganerd-doh
+pass: meganerd-doh-ipv6
+pass: meganerd-ipv6
 pass: mullvad-adblock-doh
 pass: mullvad-all-doh
 pass: mullvad-base-doh
@@ -386,7 +387,8 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
-pass: sby-doh-limotelu (1 retry)
+pass: sby-doh-limotelu
+pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
@@ -397,6 +399,7 @@ pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: switch
+pass: switch-ipv6
 pass: techsaviours.org-dnscrypt
 pass: tirapan-doh-ipv4
 pass: tirapan-doh-ipv6
