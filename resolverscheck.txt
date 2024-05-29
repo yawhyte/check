@@ -252,7 +252,7 @@ pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
 pass: dnscry.pt-sydney-ipv4
 pass: dnscry.pt-sydney-ipv6
-pass: dnscry.pt-taipeh-ipv4
+pass: dnscry.pt-taipeh-ipv4 (1 retry)
 pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
@@ -310,7 +310,7 @@ pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (2 retries)
 pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
