@@ -49,7 +49,6 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -77,7 +76,6 @@ pass: cs-fl
 pass: cs-fl2
 pass: cs-fr
 pass: cs-ga
-pass: cs-hungary
 pass: cs-il
 pass: cs-il2
 pass: cs-india
@@ -102,7 +100,6 @@ pass: cs-poland
 pass: cs-pt
 pass: cs-ro
 pass: cs-rome
-pass: cs-sea
 pass: cs-serbia
 pass: cs-singapore
 pass: cs-sk
@@ -309,9 +306,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
@@ -356,6 +353,7 @@ pass: plan9dns-nj
 pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
+pass: pryv8boi
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri

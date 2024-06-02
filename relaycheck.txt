@@ -62,6 +62,7 @@ pass: anon-fluffycat-fr-02
 pass: anon-gombadi-chennai
 pass: anon-gombadi-saopaulo
 pass: anon-gombadi-singapore
+pass: anon-gombadi-sydney
 pass: anon-gombadi-tokyo
 pass: anon-inconnu
 pass: anon-kama
@@ -86,6 +87,7 @@ pass: dnscry.pt-anon-auckland-ipv4
 pass: dnscry.pt-anon-budapest-ipv4
 pass: dnscry.pt-anon-chicago-ipv4
 pass: dnscry.pt-anon-chisinau-ipv4
+pass: dnscry.pt-anon-coeurdalene-ipv4
 pass: dnscry.pt-anon-coventry-ipv4
 pass: dnscry.pt-anon-dallas-ipv4
 pass: dnscry.pt-anon-denver-ipv4
@@ -137,6 +139,8 @@ pass: dnscry.pt-anon-singapore02-ipv4
 pass: dnscry.pt-anon-sofia-ipv4
 pass: dnscry.pt-anon-spokane-ipv4
 pass: dnscry.pt-anon-stockholm-ipv4
+pass: dnscry.pt-anon-sydney-ipv4
+pass: dnscry.pt-anon-taipeh-ipv4
 pass: dnscry.pt-anon-tallinn-ipv4
 pass: dnscry.pt-anon-tampa-ipv4
 pass: dnscry.pt-anon-taos-ipv4
