@@ -160,7 +160,7 @@ pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-eygelshoven-ipv6
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
-pass: dnscry.pt-frankfurt-ipv4
+pass: dnscry.pt-frankfurt-ipv4 (1 retry)
 pass: dnscry.pt-frankfurt-ipv6
 pass: dnscry.pt-fremont-ipv4
 pass: dnscry.pt-fremont-ipv6
@@ -306,11 +306,9 @@ pass: faelix-ch-ipv4
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
-pass: fdn (1 retry)
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (1 retry)
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
