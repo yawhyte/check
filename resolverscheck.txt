@@ -124,12 +124,10 @@ pass: dns.sb
 pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
-pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
 pass: dnscry.pt-amsterdam-ipv4
-pass: dnscry.pt-amsterdam-ipv6
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-auckland-ipv4
@@ -160,7 +158,7 @@ pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-eygelshoven-ipv6
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
-pass: dnscry.pt-frankfurt-ipv4 (1 retry)
+pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt-ipv6
 pass: dnscry.pt-fremont-ipv4
 pass: dnscry.pt-fremont-ipv6
@@ -233,7 +231,6 @@ pass: dnscry.pt-riga-ipv6
 pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-saltlakecity-ipv6
 pass: dnscry.pt-sandefjord-ipv4
-pass: dnscry.pt-sandefjord-ipv6
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-santaclara-ipv6
 pass: dnscry.pt-seattle-ipv4
@@ -308,7 +305,7 @@ pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
@@ -325,10 +322,6 @@ pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
 pass: libredns
 pass: libredns-noads
-pass: meganerd
-pass: meganerd-doh
-pass: meganerd-doh-ipv6
-pass: meganerd-ipv6
 pass: mullvad-adblock-doh
 pass: mullvad-all-doh
 pass: mullvad-base-doh
