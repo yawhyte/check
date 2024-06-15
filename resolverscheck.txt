@@ -256,7 +256,6 @@ pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-tampa-ipv6
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
-pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo-ipv6
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-tokyo02-ipv6
@@ -285,7 +284,6 @@ pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
-pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
 pass: doh.appliedprivacy.net
@@ -305,10 +303,10 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02 (2 retries)
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
@@ -381,12 +379,9 @@ pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: sby-doh-limotelu
 pass: sby-limotelu
-pass: scaleway-ams
 pass: scaleway-ams-ipv6
-pass: scaleway-fr
 pass: scaleway-fr-ipv6
 pass: serbica
-pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-doh-se
