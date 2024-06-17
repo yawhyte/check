@@ -4,7 +4,6 @@ pass: adfilter-per
 pass: adfilter-per-ipv6
 pass: adfilter-syd
 pass: adfilter-syd-ipv6
-pass: adfree.usableprivacy.net
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-family
@@ -154,7 +153,6 @@ pass: dnscry.pt-durham-ipv6
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf-ipv6
 pass: dnscry.pt-ebene-ipv4
-pass: dnscry.pt-ebene-ipv6
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-eygelshoven-ipv6
 pass: dnscry.pt-flint-ipv4
@@ -256,7 +254,6 @@ pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-tampa-ipv6
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
-pass: dnscry.pt-tokyo-ipv6
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-tokyo02-ipv6
 pass: dnscry.pt-toronto-ipv4
@@ -284,6 +281,7 @@ pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
+pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
 pass: doh.appliedprivacy.net
@@ -305,7 +303,7 @@ pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
@@ -378,9 +376,12 @@ pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: sby-doh-limotelu
 pass: sby-limotelu
+pass: scaleway-ams
 pass: scaleway-ams-ipv6
+pass: scaleway-fr
 pass: scaleway-fr-ipv6
 pass: serbica
+pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-doh-se
