@@ -114,6 +114,7 @@ pass: dct-nl
 pass: dct-ru
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
+pass: digitalprivacy.diy-dnscrypt
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
@@ -213,7 +214,6 @@ pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-nuremberg-ipv6
 pass: dnscry.pt-oradea-ipv4
 pass: dnscry.pt-oradea-ipv6
-pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-ottoville-ipv6
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-paris-ipv6
@@ -258,8 +258,6 @@ pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-tokyo02-ipv6
 pass: dnscry.pt-toronto-ipv4
 pass: dnscry.pt-toronto-ipv6
-pass: dnscry.pt-valdivia-ipv4
-pass: dnscry.pt-valdivia-ipv6
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vienna-ipv6
 pass: dnscry.pt-warsaw02-ipv4
@@ -291,8 +289,6 @@ pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
-pass: doh.tiar.app-doh-ipv6
-pass: doh.tiar.app-ipv6
 pass: doh.tiarap.org
 pass: doh.tiarap.org-ipv6
 pass: easymosdns-doh
@@ -301,6 +297,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
@@ -387,7 +384,6 @@ pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: switch
 pass: switch-ipv6
-pass: techsaviours.org-dnscrypt
 pass: tirapan-doh-ipv4
 pass: tirapan-doh-ipv6
 pass: tuna-doh-ipv6
