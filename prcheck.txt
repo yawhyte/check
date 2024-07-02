@@ -1,3 +1,1 @@
-** DUPLICATES FOUND in [v3/public-resolvers.md] **
-sdns://AQcAAAAAAAAADDY1LjIxLjIyOC40OCDQxXrwNIgFGirfU35Ph3G3yHrKjSOWuRc6VnbuWRTLxRcyLmRuc2NyeXB0LWNlcnQuaGV0em5lcg
-sdns://AQcAAAAAAAAAFVsyYTAxOjRmOTo2YToxYWRiOjoyXSDQxXrwNIgFGirfU35Ph3G3yHrKjSOWuRc6VnbuWRTLxRcyLmRuc2NyeXB0LWNlcnQuaGV0em5lcg
+No new entries found
