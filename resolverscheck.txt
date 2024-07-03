@@ -21,6 +21,7 @@ pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
+pass: ams-doh-nl-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
 pass: bebasdns
@@ -88,7 +89,6 @@ pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
 pass: cs-nc
-pass: cs-nl
 pass: cs-nl2
 pass: cs-norway
 pass: cs-nv
@@ -110,12 +110,12 @@ pass: cs-tx
 pass: cs-tx2
 pass: cs-tx3
 pass: cs-vancouver
+pass: dct-de
 pass: dct-nl
 pass: dct-ru
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
-pass: digitalprivacy.diy-dnscrypt-ipv6
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
@@ -130,6 +130,10 @@ pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
 pass: dnscry.pt-amsterdam-ipv4
+pass: dnscry.pt-ashburn-ipv4
+pass: dnscry.pt-ashburn-ipv6
+pass: dnscry.pt-athens-ipv4
+pass: dnscry.pt-athens-ipv6
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-auckland-ipv4
@@ -142,6 +146,8 @@ pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-chisinau-ipv6
 pass: dnscry.pt-coeurdalene-ipv4
 pass: dnscry.pt-coeurdalene-ipv6
+pass: dnscry.pt-copenhagen-ipv4
+pass: dnscry.pt-copenhagen-ipv6
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-coventry-ipv6
 pass: dnscry.pt-dallas-ipv4
@@ -150,8 +156,9 @@ pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-denver-ipv6
 pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-detroit-ipv6
+pass: dnscry.pt-dublin-ipv4
+pass: dnscry.pt-dublin-ipv6
 pass: dnscry.pt-durham-ipv4
-pass: dnscry.pt-durham-ipv6
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf-ipv6
 pass: dnscry.pt-ebene-ipv4
@@ -167,8 +174,12 @@ pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-fujairah-ipv6
 pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-geneva-ipv6
+pass: dnscry.pt-hanoi-ipv4
+pass: dnscry.pt-hanoi-ipv6
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
+pass: dnscry.pt-hochiminhcity-ipv4
+pass: dnscry.pt-hochiminhcity-ipv6
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong-ipv6
 pass: dnscry.pt-istanbul-ipv4
@@ -215,6 +226,7 @@ pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-nuremberg-ipv6
 pass: dnscry.pt-oradea-ipv4
 pass: dnscry.pt-oradea-ipv6
+pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-ottoville-ipv6
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-paris-ipv6
@@ -233,8 +245,11 @@ pass: dnscry.pt-saltlakecity-ipv6
 pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-santaclara-ipv6
+pass: dnscry.pt-saopaulo-ipv4
+pass: dnscry.pt-saopaulo-ipv6
 pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seattle-ipv6
+pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore-ipv6
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-singapore02-ipv6
@@ -250,16 +265,24 @@ pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
-pass: dnscry.pt-tampa-ipv4 (1 retry)
+pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-tampa-ipv6
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
+pass: dnscry.pt-tokyo-ipv4
+pass: dnscry.pt-tokyo-ipv6
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-tokyo02-ipv6
 pass: dnscry.pt-toronto-ipv4
 pass: dnscry.pt-toronto-ipv6
+pass: dnscry.pt-valdivia-ipv4
+pass: dnscry.pt-valdivia-ipv6
+pass: dnscry.pt-vancouver-ipv4
+pass: dnscry.pt-vancouver-ipv6
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vienna-ipv6
+pass: dnscry.pt-vilnius-ipv4
+pass: dnscry.pt-vilnius-ipv6
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-warsaw02-ipv6
 pass: dnscrypt.ca-ipv4
@@ -297,6 +320,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
@@ -346,6 +370,10 @@ pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip4-nofilter-pri
+pass: quad9-dnscrypt-ip6-filter-ecs-pri
+pass: quad9-dnscrypt-ip6-filter-pri
+pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
+pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
@@ -381,6 +409,7 @@ pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
 pass: sth-dnscrypt-se
 pass: sth-doh-se
+pass: sth-doh-se-ipv6
 pass: switch
 pass: switch-ipv6
 pass: tirapan-doh-ipv4
