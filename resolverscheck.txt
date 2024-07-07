@@ -321,10 +321,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (2 retries)
-pass: fluffycat-fr-02
+pass: fluffycat-fr-01
+pass: fluffycat-fr-02 (2 retries)
 pass: google
 pass: google-ipv6
 pass: he
