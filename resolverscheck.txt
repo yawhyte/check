@@ -4,6 +4,8 @@ pass: adfilter-per
 pass: adfilter-per-ipv6
 pass: adfilter-syd
 pass: adfilter-syd-ipv6
+pass: adfree.usableprivacy.net-ipv4
+pass: adfree.usableprivacy.net-ipv6
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-family
@@ -321,9 +323,10 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02 (2 retries)
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
@@ -398,7 +401,6 @@ pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
-pass: sby-doh-limotelu
 pass: sby-limotelu
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
@@ -406,10 +408,6 @@ pass: scaleway-fr
 pass: scaleway-fr-ipv6
 pass: serbica
 pass: sfw.scaleway-fr
-pass: sth-ads-doh-se
-pass: sth-dnscrypt-se
-pass: sth-doh-se
-pass: sth-doh-se-ipv6
 pass: switch
 pass: switch-ipv6
 pass: tirapan-doh-ipv4
