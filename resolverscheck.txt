@@ -113,7 +113,7 @@ pass: cs-serbia
 pass: cs-singapore
 pass: cs-sk
 pass: cs-slovakia
-pass: cs-swe (1 retry)
+pass: cs-swe
 pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
@@ -330,7 +330,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
@@ -422,8 +422,6 @@ pass: sth-doh-se
 pass: sth-doh-se-ipv6
 pass: switch
 pass: switch-ipv6
-pass: tirapan-doh-ipv4
-pass: tirapan-doh-ipv6
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
