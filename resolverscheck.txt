@@ -171,6 +171,7 @@ pass: dnscry.pt-dublin-ipv6
 pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf-ipv6
+pass: dnscry.pt-ebene-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-eygelshoven-ipv6
 pass: dnscry.pt-flint-ipv4
@@ -332,7 +333,7 @@ pass: fdn-ipv6
 pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02 (2 retries)
+pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
 pass: he
