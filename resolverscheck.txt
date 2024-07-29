@@ -284,7 +284,6 @@ pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-tokyo02-ipv6
 pass: dnscry.pt-toronto-ipv4
 pass: dnscry.pt-toronto-ipv6
-pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-valdivia-ipv6
 pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vancouver-ipv6
@@ -330,7 +329,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
