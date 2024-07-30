@@ -284,6 +284,7 @@ pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-tokyo02-ipv6
 pass: dnscry.pt-toronto-ipv4
 pass: dnscry.pt-toronto-ipv6
+pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-valdivia-ipv6
 pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vancouver-ipv6
