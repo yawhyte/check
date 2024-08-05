@@ -294,6 +294,8 @@ pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-warsaw02-ipv6
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
+pass: dnscrypt.pl
+pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnscrypt.uk-ipv6
 pass: dnsfilter
@@ -326,9 +328,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01 (3 retries)
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
