@@ -330,7 +330,7 @@ pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (3 retries)
+pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
