@@ -124,7 +124,6 @@ pass: cs-tx3
 pass: cs-vancouver
 pass: dct-de
 pass: dct-nl
-pass: dct-ru
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
@@ -328,9 +327,8 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (1 retry)
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
@@ -371,6 +369,7 @@ pass: plan9dns-nj
 pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
+pass: pryv8boi
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
