@@ -31,7 +31,6 @@ pass: artikel10-doh-ipv6
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
-pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
 pass: brahma-world-ipv6
@@ -74,7 +73,7 @@ pass: cs-brazil
 pass: cs-bulgaria
 pass: cs-ch
 pass: cs-ch2
-pass: cs-czech
+pass: cs-czech (2 retries)
 pass: cs-dc
 pass: cs-de
 pass: cs-dk
@@ -109,7 +108,7 @@ pass: cs-nyc2
 pass: cs-ore
 pass: cs-poland
 pass: cs-pt
-pass: cs-ro
+pass: cs-ro (1 retry)
 pass: cs-rome
 pass: cs-serbia
 pass: cs-singapore
@@ -173,7 +172,6 @@ pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf-ipv6
 pass: dnscry.pt-ebene-ipv4
-pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
 pass: dnscry.pt-frankfurt-ipv4
@@ -327,8 +325,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
