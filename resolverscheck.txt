@@ -31,6 +31,7 @@ pass: artikel10-doh-ipv6
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
+pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
 pass: brahma-world-ipv6
@@ -73,7 +74,7 @@ pass: cs-brazil
 pass: cs-bulgaria
 pass: cs-ch
 pass: cs-ch2
-pass: cs-czech (2 retries)
+pass: cs-czech
 pass: cs-dc
 pass: cs-de
 pass: cs-dk
@@ -108,7 +109,7 @@ pass: cs-nyc2
 pass: cs-ore
 pass: cs-poland
 pass: cs-pt
-pass: cs-ro (1 retry)
+pass: cs-ro
 pass: cs-rome
 pass: cs-serbia
 pass: cs-singapore
@@ -172,6 +173,7 @@ pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf-ipv6
 pass: dnscry.pt-ebene-ipv4
+pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
 pass: dnscry.pt-frankfurt-ipv4
@@ -325,7 +327,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
@@ -400,7 +402,6 @@ pass: restena-doh-ipv6
 pass: rethinkdns-doh
 pass: safesurfer
 pass: safesurfer-doh
-pass: saldns01-conoha-ipv4
 pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: scaleway-ams
@@ -414,6 +415,7 @@ pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: sth-doh-se-ipv6
 pass: switch
+pass: switch (1 retry)
 pass: switch-ipv6
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv6
