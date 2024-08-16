@@ -329,7 +329,7 @@ pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (2 retries)
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
@@ -415,7 +415,6 @@ pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: sth-doh-se-ipv6
 pass: switch
-pass: switch (1 retry)
 pass: switch-ipv6
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv6
