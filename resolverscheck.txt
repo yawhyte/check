@@ -84,7 +84,7 @@ pass: cs-dus3
 pass: cs-dus4
 pass: cs-finland
 pass: cs-fl
-pass: cs-fl2
+pass: cs-fl2 (1 retry)
 pass: cs-fr
 pass: cs-ga
 pass: cs-il
@@ -327,9 +327,8 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (2 retries)
+pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
