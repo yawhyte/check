@@ -93,13 +93,11 @@ pass: cs-india
 pass: cs-ireland
 pass: cs-la
 pass: cs-london
-pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
 pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
-pass: cs-nc
 pass: cs-nl
 pass: cs-nl2
 pass: cs-norway
@@ -116,7 +114,7 @@ pass: cs-singapore
 pass: cs-sk
 pass: cs-slovakia
 pass: cs-swe
-pass: cs-sydney (1 retry)
+pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
 pass: cs-tx2
@@ -304,6 +302,7 @@ pass: dnsforfamily-v6
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
+pass: dnswarden-adult-doh
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -326,10 +325,10 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
