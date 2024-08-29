@@ -31,6 +31,14 @@ pass: artikel10-doh-ipv6
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
+pass: blahdns-de-dnscrypt-v4
+pass: blahdns-de-dnscrypt-v6
+pass: blahdns-de-doh
+pass: blahdns-de-doh-v6
+pass: blahdns-sg-dnscrypt-v4
+pass: blahdns-sg-dnscrypt-v6
+pass: blahdns-sg-doh
+pass: blahdns-sg-doh-v6
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
@@ -123,7 +131,9 @@ pass: cs-tx2
 pass: cs-tx3
 pass: cs-vancouver
 pass: dct-de
+pass: dct-fr
 pass: dct-nl
+pass: dct-ru
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
@@ -326,7 +336,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
