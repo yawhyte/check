@@ -131,7 +131,6 @@ pass: cs-tx2
 pass: cs-tx3
 pass: cs-vancouver
 pass: dct-de
-pass: dct-fr
 pass: dct-nl
 pass: dct-ru
 pass: decloudus-nogoogle-tstipv6
@@ -314,7 +313,6 @@ pass: dnsforfamily-v6
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
-pass: dnswarden-adult-doh
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -337,6 +335,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
