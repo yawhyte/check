@@ -221,7 +221,6 @@ pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
 pass: dnscry.pt-lima-ipv4
 pass: dnscry.pt-lima-ipv6
-pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-london-ipv6
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles-ipv6
@@ -335,10 +334,10 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (2 retries)
-pass: fluffycat-fr-02
+pass: fluffycat-fr-01
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
@@ -419,7 +418,6 @@ pass: scaleway-fr-ipv6
 pass: serbica
 pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
-pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: sth-doh-se-ipv6
 pass: switch
