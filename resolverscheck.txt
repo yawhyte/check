@@ -193,7 +193,7 @@ pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-fujairah-ipv6
 pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-geneva-ipv6
-pass: dnscry.pt-hanoi-ipv4
+pass: dnscry.pt-hanoi-ipv4 (1 retry)
 pass: dnscry.pt-hanoi-ipv6
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
@@ -312,6 +312,7 @@ pass: dnsforfamily-v6
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
+pass: dnswarden-adult-doh
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -334,7 +335,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
