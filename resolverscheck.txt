@@ -29,7 +29,6 @@ pass: ams-doh-nl-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
 pass: bebasdns
-pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-dnscrypt-v6
@@ -193,7 +192,7 @@ pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-fujairah-ipv6
 pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-geneva-ipv6
-pass: dnscry.pt-hanoi-ipv4 (1 retry)
+pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
@@ -335,9 +334,10 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
-pass: fluffycat-fr-02
+pass: fluffycat-fr-01 (2 retries)
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
