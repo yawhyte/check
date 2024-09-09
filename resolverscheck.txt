@@ -22,7 +22,6 @@ pass: ahadns-doh-nl
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: ams-ads-doh-nl
-pass: ams-dnscrypt-nl
 pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
@@ -311,7 +310,6 @@ pass: dnsforfamily-v6
 pass: dnsforge.de
 pass: dnslow.me
 pass: dnspod
-pass: dnswarden-adult-doh
 pass: dnswarden-uncensor-dc-swiss
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
@@ -334,10 +332,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (2 retries)
-pass: fluffycat-fr-02 (1 retry)
+pass: fluffycat-fr-01 (3 retries)
+pass: fluffycat-fr-02 (2 retries)
 pass: google
 pass: google-ipv6
 pass: he
