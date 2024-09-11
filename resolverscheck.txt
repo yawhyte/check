@@ -130,7 +130,7 @@ pass: cs-tx3
 pass: cs-vancouver
 pass: dct-de
 pass: dct-nl
-pass: dct-ru
+pass: dct-ru (1 retry)
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
@@ -332,9 +332,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
-pass: fluffycat-fr-02 (1 retry)
+pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
 pass: he
