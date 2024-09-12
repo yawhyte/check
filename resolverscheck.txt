@@ -33,9 +33,7 @@ pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-dnscrypt-v6
 pass: blahdns-de-doh
 pass: blahdns-de-doh-v6
-pass: blahdns-sg-dnscrypt-v4
 pass: blahdns-sg-dnscrypt-v6
-pass: blahdns-sg-doh
 pass: blahdns-sg-doh-v6
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -84,7 +82,6 @@ pass: cs-czech
 pass: cs-dc
 pass: cs-de
 pass: cs-dk
-pass: cs-dus1
 pass: cs-dus2
 pass: cs-dus3
 pass: cs-dus4
