@@ -66,7 +66,6 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -332,9 +331,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
+pass: ffmuc.net
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
