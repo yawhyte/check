@@ -6,8 +6,6 @@ pass: adfilter-per
 pass: adfilter-per-ipv6
 pass: adfilter-syd
 pass: adfilter-syd-ipv6
-pass: adfree.usableprivacy.net-ipv4
-pass: adfree.usableprivacy.net-ipv6
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-family
@@ -22,13 +20,12 @@ pass: ahadns-doh-nl
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: ams-ads-doh-nl
-pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
 pass: bebasdns
-pass: bebasdns-unfiltered-doh (1 retry)
+pass: bebasdns-unfiltered-doh
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-dnscrypt-v6
 pass: blahdns-de-doh
@@ -147,6 +144,8 @@ pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
 pass: dnscry.pt-amsterdam-ipv4
+pass: dnscry.pt-amsterdam02-ipv4
+pass: dnscry.pt-amsterdam02-ipv6
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-ashburn-ipv6
 pass: dnscry.pt-athens-ipv4
@@ -155,6 +154,8 @@ pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-auckland-ipv6
+pass: dnscry.pt-bratislava-ipv4
+pass: dnscry.pt-bratislava-ipv6
 pass: dnscry.pt-budapest-ipv4
 pass: dnscry.pt-budapest-ipv6
 pass: dnscry.pt-chicago-ipv4
@@ -176,10 +177,12 @@ pass: dnscry.pt-detroit-ipv6
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-dublin-ipv6
 pass: dnscry.pt-durham-ipv4
+pass: dnscry.pt-durham-ipv6
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf-ipv6
 pass: dnscry.pt-ebene-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
+pass: dnscry.pt-eygelshoven-ipv6
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
 pass: dnscry.pt-frankfurt-ipv4
@@ -198,6 +201,8 @@ pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hochiminhcity-ipv6
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong-ipv6
+pass: dnscry.pt-hongkong02-ipv4
+pass: dnscry.pt-hongkong02-ipv6
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
 pass: dnscry.pt-jakarta-ipv4
@@ -218,15 +223,20 @@ pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
 pass: dnscry.pt-lima-ipv4
 pass: dnscry.pt-lima-ipv6
+pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-london-ipv6
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles-ipv6
+pass: dnscry.pt-losangeles02-ipv4
+pass: dnscry.pt-losangeles02-ipv6
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-madrid-ipv6
 pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-miami-ipv6
 pass: dnscry.pt-milan-ipv4
 pass: dnscry.pt-milan-ipv6
+pass: dnscry.pt-montreal-ipv4
+pass: dnscry.pt-montreal-ipv6
 pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-mumbai-ipv6
 pass: dnscry.pt-munich-ipv4
@@ -282,6 +292,8 @@ pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-tampa-ipv6
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
+pass: dnscry.pt-tokyo-ipv4
+pass: dnscry.pt-tokyo-ipv6
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-tokyo02-ipv6
 pass: dnscry.pt-toronto-ipv4
@@ -331,9 +343,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (2 retries)
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
