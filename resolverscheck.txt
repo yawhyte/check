@@ -20,6 +20,8 @@ pass: ahadns-doh-nl
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: ams-ads-doh-nl
+pass: ams-dnscrypt-nl
+pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: artikel10-doh-ipv4
@@ -172,6 +174,7 @@ pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-dallas-ipv6
 pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-denver-ipv6
+pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-detroit-ipv6
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-dublin-ipv6
@@ -192,7 +195,7 @@ pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-fujairah-ipv6
 pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-geneva-ipv6
-pass: dnscry.pt-hanoi-ipv4 (1 retry)
+pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
@@ -344,7 +347,7 @@ pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (2 retries)
+pass: fluffycat-fr-01 (1 retry)
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
@@ -426,6 +429,7 @@ pass: scaleway-fr-ipv6
 pass: serbica
 pass: sfw.scaleway-fr
 pass: sth-ads-doh-se
+pass: sth-dnscrypt-se
 pass: sth-doh-se
 pass: sth-doh-se-ipv6
 pass: switch
