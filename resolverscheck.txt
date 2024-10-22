@@ -118,8 +118,6 @@ pass: cs-swe
 pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
-pass: cs-tx2
-pass: cs-tx3
 pass: cs-vancouver
 pass: dct-de
 pass: dct-fr
@@ -338,7 +336,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
