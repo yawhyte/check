@@ -27,6 +27,7 @@ pass: ams-doh-nl-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
 pass: bebasdns
+pass: bebasdns-unfiltered-doh
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-dnscrypt-v6
 pass: blahdns-de-doh
@@ -318,7 +319,7 @@ pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
-pass: doh.appliedprivacy.net
+pass: doh.appliedprivacy.net (1 retry)
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
@@ -334,8 +335,8 @@ pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
-pass: fluffycat-fr-02 (1 retry)
+pass: fluffycat-fr-01 (2 retries)
+pass: fluffycat-fr-02 (3 retries)
 pass: google
 pass: google-ipv6
 pass: he
