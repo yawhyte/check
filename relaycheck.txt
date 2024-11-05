@@ -27,7 +27,6 @@ pass: anon-cs-milan
 pass: anon-cs-montreal
 pass: anon-cs-nc
 pass: anon-cs-nl
-pass: anon-cs-nl2
 pass: anon-cs-norway
 pass: anon-cs-nv
 pass: anon-cs-ore
