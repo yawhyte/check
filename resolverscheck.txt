@@ -83,7 +83,6 @@ pass: cs-de
 pass: cs-dk
 pass: cs-dus3
 pass: cs-finland
-pass: cs-fl2
 pass: cs-fr
 pass: cs-ga
 pass: cs-il2
@@ -335,7 +334,7 @@ pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
@@ -387,6 +386,10 @@ pass: quad9-dnscrypt-ip6-filter-ecs-pri
 pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
+pass: quad9-doh-ip4-port443-filter-ecs-pri
+pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
