@@ -273,7 +273,6 @@ pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
 pass: dnscry.pt-sydney-ipv4
 pass: dnscry.pt-sydney-ipv6
-pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
@@ -317,7 +316,7 @@ pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
-pass: doh.appliedprivacy.net
+pass: doh.appliedprivacy.net (1 retry)
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
@@ -332,10 +331,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
-pass: fluffycat-fr-02
+pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
