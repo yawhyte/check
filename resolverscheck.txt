@@ -25,7 +25,7 @@ pass: ams-doh-nl-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
 pass: bebasdns
-pass: bebasdns-unfiltered-doh (1 retry)
+pass: bebasdns-unfiltered-doh
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-dnscrypt-v6
 pass: blahdns-de-doh
@@ -115,8 +115,6 @@ pass: cs-tx
 pass: cs-vancouver
 pass: dct-de
 pass: dct-fr
-pass: dct-nl
-pass: dct-ru
 pass: decloudus-nogoogle-tstipv6
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
@@ -264,7 +262,6 @@ pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-singapore02-ipv6
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
-pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-spokane-ipv6
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
@@ -328,12 +325,13 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (2 retries)
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
-pass: he
+pass: he (1 retry)
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
@@ -381,10 +379,6 @@ pass: quad9-dnscrypt-ip6-filter-ecs-pri
 pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
 pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
