@@ -63,7 +63,6 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -150,7 +149,6 @@ pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chicago-ipv6
 pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-chisinau-ipv6
-pass: dnscry.pt-coeurdalene-ipv4
 pass: dnscry.pt-coeurdalene-ipv6
 pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-copenhagen-ipv6
@@ -327,8 +325,8 @@ pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (1 retry)
-pass: fluffycat-fr-02
+pass: fluffycat-fr-01
+pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
@@ -346,10 +344,6 @@ pass: libredns
 pass: libredns-noads
 pass: mullvad-adblock-doh
 pass: mullvad-all-doh
-pass: mullvad-base-doh
-pass: mullvad-doh
-pass: mullvad-extend-doh
-pass: mullvad-family-doh
 pass: nextdns
 pass: nextdns-ipv6
 pass: nextdns-ultralow
