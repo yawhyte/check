@@ -132,7 +132,6 @@ pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
-pass: dnscry.pt-amsterdam02-ipv6
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-ashburn-ipv6
 pass: dnscry.pt-athens-ipv4
@@ -149,7 +148,6 @@ pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chicago-ipv6
 pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-chisinau-ipv6
-pass: dnscry.pt-coeurdalene-ipv6
 pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-copenhagen-ipv6
 pass: dnscry.pt-coventry-ipv4
@@ -180,7 +178,6 @@ pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-geneva-ipv6
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
-pass: dnscry.pt-helsinki-ipv6
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hochiminhcity-ipv6
 pass: dnscry.pt-hongkong-ipv4
@@ -230,7 +227,6 @@ pass: dnscry.pt-newyork-ipv6
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-nuremberg-ipv6
 pass: dnscry.pt-oradea-ipv4
-pass: dnscry.pt-oradea-ipv6
 pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-ottoville-ipv6
 pass: dnscry.pt-paris-ipv4
@@ -324,8 +320,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (2 retries)
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
@@ -379,9 +376,7 @@ pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip4-port5053-filter-ecs-pri
 pass: quad9-doh-ip4-port5053-filter-pri
