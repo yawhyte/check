@@ -186,6 +186,7 @@ pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hongkong02-ipv6
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
+pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-jakarta-ipv6
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
@@ -260,7 +261,7 @@ pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
 pass: dnscry.pt-sydney-ipv4
 pass: dnscry.pt-sydney-ipv6
-pass: dnscry.pt-taipeh-ipv4 (1 retry)
+pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
@@ -318,9 +319,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (1 retry)
-pass: fluffycat-fr-02
+pass: fluffycat-fr-01
 pass: google
 pass: google-ipv6
 pass: he
@@ -407,7 +408,7 @@ pass: sth-doh-se-ipv6
 pass: switch
 pass: switch-ipv6
 pass: tuna-doh-ipv6
-pass: uncensoreddns-dk-ipv4 (1 retry)
+pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
