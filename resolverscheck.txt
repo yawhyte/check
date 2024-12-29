@@ -19,11 +19,12 @@ pass: ahadns-doh-la
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: ams-ads-doh-nl
+pass: ams-dnscrypt-nl
+pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
-pass: bebasdns (3 retries)
 pass: bebasdns-unfiltered-doh (1 retry)
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-dnscrypt-v6
@@ -125,6 +126,8 @@ pass: dns.sb
 pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
+pass: dns4all-ipv4
+pass: dns4all-ipv6
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allentown-ipv4
@@ -319,7 +322,7 @@ pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
