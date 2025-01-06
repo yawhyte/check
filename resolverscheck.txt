@@ -25,15 +25,13 @@ pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
-pass: bebasdns (1 retry)
-pass: bebasdns-unfiltered-doh
+pass: bebasdns
+pass: bebasdns-unfiltered-doh (2 retries)
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-dnscrypt-v6
 pass: blahdns-de-doh
 pass: blahdns-de-doh-v6
-pass: blahdns-sg-dnscrypt-v4
 pass: blahdns-sg-dnscrypt-v6
-pass: blahdns-sg-doh
 pass: blahdns-sg-doh-v6
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -321,6 +319,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
