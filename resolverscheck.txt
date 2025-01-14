@@ -381,7 +381,7 @@ pass: fdn-ipv6
 pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02
+pass: fluffycat-fr-02 (2 retries)
 pass: google
 pass: google-ipv6
 pass: he
@@ -413,7 +413,7 @@ pass: plan9dns-fl
 pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
-pass: plan9dns-mx
+pass: plan9dns-mx (1 retry)
 pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
@@ -470,7 +470,7 @@ pass: switch-ipv6
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
-pass: uncensoreddns-ipv4 (1 retry)
+pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
 pass: userspace-australia
 pass: userspace-australia-ipv6
