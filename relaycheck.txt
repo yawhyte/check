@@ -86,7 +86,7 @@ pass: dnscry.pt-anon-durham-ipv4
 pass: dnscry.pt-anon-dusseldorf-ipv4
 pass: dnscry.pt-anon-dusseldorf02-ipv4
 pass: dnscry.pt-anon-flint-ipv4
-pass: dnscry.pt-anon-frankfurt-ipv4
+pass: dnscry.pt-anon-frankfurt-ipv4 (1 retry)
 pass: dnscry.pt-anon-frankfurt02-ipv4
 pass: dnscry.pt-anon-fremont-ipv4
 pass: dnscry.pt-anon-fujairah-ipv4
@@ -116,7 +116,7 @@ pass: dnscry.pt-anon-lisbon-ipv4
 pass: dnscry.pt-anon-london-ipv4
 pass: dnscry.pt-anon-losangeles-ipv4
 pass: dnscry.pt-anon-losangeles02-ipv4
-pass: dnscry.pt-anon-luxembourg-ipv4 (1 retry)
+pass: dnscry.pt-anon-luxembourg-ipv4
 pass: dnscry.pt-anon-madrid-ipv4
 pass: dnscry.pt-anon-manchester-ipv4
 pass: dnscry.pt-anon-miami-ipv4
