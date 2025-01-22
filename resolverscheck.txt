@@ -191,7 +191,7 @@ pass: dnscry.pt-grandrapids-ipv4
 pass: dnscry.pt-grandrapids-ipv6
 pass: dnscry.pt-hafnarfjordur-ipv4
 pass: dnscry.pt-hafnarfjordur-ipv6
-pass: dnscry.pt-halifax-ipv4
+pass: dnscry.pt-halifax-ipv4 (1 retry)
 pass: dnscry.pt-halifax-ipv6
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
@@ -376,8 +376,8 @@ pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (1 retry)
-pass: fluffycat-fr-02 (1 retry)
+pass: fluffycat-fr-01
+pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
 pass: he
