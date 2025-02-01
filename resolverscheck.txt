@@ -2,7 +2,6 @@ pass: a-and-a
 pass: a-and-a-ipv6
 pass: adfilter-adl
 pass: adfilter-adl-ipv6
-pass: adfilter-per
 pass: adfilter-per-ipv6
 pass: adfilter-syd
 pass: adfilter-syd-ipv6
@@ -17,7 +16,6 @@ pass: adguard-dns-unfiltered-doh
 pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: alidns-doh
-pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
