@@ -21,10 +21,10 @@ pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: alidns-doh
 pass: alidns-doh-ipv6
-pass: ams-ads-doh-nl (1 retry)
+pass: ams-ads-doh-nl
 pass: ams-dnscrypt-nl
 pass: ams-dnscrypt-nl-ipv6
-pass: ams-doh-nl
+pass: ams-doh-nl (1 retry)
 pass: ams-doh-nl-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
@@ -197,7 +197,7 @@ pass: dnscry.pt-hafnarfjordur-ipv4
 pass: dnscry.pt-hafnarfjordur-ipv6
 pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-halifax-ipv6
-pass: dnscry.pt-hanoi-ipv4 (1 retry)
+pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
@@ -298,7 +298,7 @@ pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-saopaulo-ipv6
 pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seattle-ipv6
-pass: dnscry.pt-seoul-ipv4 (1 retry)
+pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul-ipv6
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore-ipv6
@@ -378,7 +378,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
@@ -464,7 +464,7 @@ pass: sth-doh-se-ipv6
 pass: switch
 pass: switch-ipv6
 pass: tuna-doh-ipv6
-pass: uncensoreddns-dk-ipv4 (1 retry)
+pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
