@@ -262,7 +262,6 @@ pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
 pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-naaldwijk-ipv6
-pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-newyork-ipv6
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-nuremberg-ipv6
@@ -375,6 +374,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: fluffycat-fr-02
