@@ -331,6 +331,7 @@ pass: dnscry.pt-toronto-ipv4
 pass: dnscry.pt-toronto-ipv6
 pass: dnscry.pt-tuusula-ipv4
 pass: dnscry.pt-tuusula-ipv6
+pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-valdivia-ipv6
 pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vienna-ipv4
@@ -373,8 +374,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (2 retries)
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
@@ -404,16 +406,10 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
-pass: plan9dns-fl
-pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
-pass: plan9dns-nj
-pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: pryv8boi
@@ -431,6 +427,10 @@ pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
+pass: quad9-doh-ip4-port5053-filter-ecs-pri
+pass: quad9-doh-ip4-port5053-filter-pri
+pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
+pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
