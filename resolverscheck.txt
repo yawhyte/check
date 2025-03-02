@@ -250,7 +250,6 @@ pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-manchester-ipv6
 pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-miami-ipv6
-pass: dnscry.pt-milan-ipv4
 pass: dnscry.pt-milan-ipv6
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-montreal-ipv6
@@ -374,8 +373,9 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (1 retry)
 pass: fluffycat-fr-02
 pass: google
 pass: google-ipv6
