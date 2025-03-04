@@ -5,7 +5,6 @@ pass: adfilter-adl-ipv6
 pass: adfilter-per
 pass: adfilter-per-ipv6
 pass: adfilter-syd
-pass: adfilter-syd-ipv6
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-doh-ipv6
@@ -207,12 +206,10 @@ pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong-ipv6
 pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hongkong02-ipv6
-pass: dnscry.pt-houston-ipv6
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-hudiksvall-ipv6
 pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-islamabad-ipv6
-pass: dnscry.pt-istanbul-ipv6
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
 pass: dnscry.pt-jakarta-ipv6
@@ -250,7 +247,6 @@ pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-manchester-ipv6
 pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-miami-ipv6
-pass: dnscry.pt-milan-ipv6
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-montreal-ipv6
 pass: dnscry.pt-moscow-ipv4
@@ -261,7 +257,6 @@ pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
 pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-naaldwijk-ipv6
-pass: dnscry.pt-newyork-ipv6
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-nuremberg-ipv6
 pass: dnscry.pt-oradea-ipv4
@@ -373,10 +368,8 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
-pass: fluffycat-fr-02 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
@@ -417,7 +410,6 @@ pass: plan9dns-nj
 pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
-pass: pryv8boi
 pass: qihoo360-doh
 pass: quad101
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
