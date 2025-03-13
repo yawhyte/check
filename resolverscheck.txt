@@ -48,13 +48,10 @@ pass: cisco-familyshield-ipv6
 pass: cisco-ipv6
 pass: cisco-ipv6-doh
 pass: cisco-sandbox
-pass: cleanbrowsing-adult
 pass: cleanbrowsing-adult-doh
 pass: cleanbrowsing-adult-ipv6
-pass: cleanbrowsing-family
 pass: cleanbrowsing-family-doh
 pass: cleanbrowsing-family-ipv6
-pass: cleanbrowsing-security
 pass: cleanbrowsing-security-doh
 pass: cleanbrowsing-security-ipv6
 pass: cloudflare
@@ -126,6 +123,7 @@ pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
 pass: dns4all-ipv4
+pass: dns4all-ipv4 (1 retry)
 pass: dns4all-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
@@ -366,9 +364,8 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01 (1 retry)
+pass: fluffycat-fr-01
 pass: google
 pass: google-ipv6
 pass: he
@@ -419,10 +416,10 @@ pass: quad9-dnscrypt-ip6-filter-ecs-pri
 pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-pri
+pass: quad9-doh-ip4-port5053-filter-ecs-pri
+pass: quad9-doh-ip4-port5053-filter-pri
+pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
+pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
