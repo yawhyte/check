@@ -237,7 +237,7 @@ pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-london-ipv6
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles-ipv6
-pass: dnscry.pt-losangeles02-ipv4
+pass: dnscry.pt-losangeles02-ipv4 (1 retry)
 pass: dnscry.pt-losangeles02-ipv6
 pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-luxembourg-ipv6
@@ -366,6 +366,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: google
@@ -396,16 +397,10 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
-pass: plan9dns-fl
-pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
-pass: plan9dns-nj
-pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: qihoo360-doh
