@@ -52,7 +52,6 @@ pass: cleanbrowsing-adult
 pass: cleanbrowsing-adult-doh
 pass: cleanbrowsing-adult-ipv6
 pass: cleanbrowsing-family
-pass: cleanbrowsing-family (1 retry)
 pass: cleanbrowsing-family-doh
 pass: cleanbrowsing-family-ipv6
 pass: cleanbrowsing-security
@@ -422,10 +421,6 @@ pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
-pass: quad9-doh-ip4-port5053-filter-ecs-pri
-pass: quad9-doh-ip4-port5053-filter-pri
-pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
-pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
