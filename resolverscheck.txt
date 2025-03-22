@@ -202,7 +202,7 @@ pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hochiminhcity-ipv6
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong-ipv6
-pass: dnscry.pt-hongkong02-ipv4
+pass: dnscry.pt-hongkong02-ipv4 (1 retry)
 pass: dnscry.pt-hongkong02-ipv6
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-hudiksvall-ipv6
@@ -363,6 +363,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: google
