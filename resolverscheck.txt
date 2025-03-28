@@ -20,10 +20,7 @@ pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: alidns-doh
 pass: alidns-doh-ipv6
-pass: ams-ads-doh-nl
-pass: ams-dnscrypt-nl
 pass: ams-dnscrypt-nl-ipv6
-pass: ams-doh-nl
 pass: ams-doh-nl-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
@@ -64,6 +61,7 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
+pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -143,7 +141,6 @@ pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-auckland-ipv6
 pass: dnscry.pt-bengaluru-ipv4
 pass: dnscry.pt-bengaluru-ipv6
-pass: dnscry.pt-bogota-ipv6
 pass: dnscry.pt-bratislava-ipv4
 pass: dnscry.pt-bratislava-ipv6
 pass: dnscry.pt-brisbane-ipv4
@@ -152,7 +149,6 @@ pass: dnscry.pt-brussels-ipv4
 pass: dnscry.pt-brussels-ipv6
 pass: dnscry.pt-bucharest-ipv4
 pass: dnscry.pt-bucharest-ipv6
-pass: dnscry.pt-budapest-ipv6
 pass: dnscry.pt-calgary-ipv4
 pass: dnscry.pt-calgary-ipv6
 pass: dnscry.pt-chicago-ipv4
@@ -284,7 +280,6 @@ pass: dnscry.pt-sandefjord-ipv6
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-santaclara-ipv6
 pass: dnscry.pt-saopaulo-ipv4
-pass: dnscry.pt-saopaulo-ipv6
 pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seattle-ipv6
 pass: dnscry.pt-seoul-ipv4
@@ -303,16 +298,13 @@ pass: dnscry.pt-sydney-ipv6
 pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-sydney02-ipv6
 pass: dnscry.pt-taipeh-ipv4
-pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
 pass: dnscry.pt-tampa-ipv4
-pass: dnscry.pt-tampa-ipv6
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tbilisi-ipv6
-pass: dnscry.pt-telaviv-ipv6
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo-ipv6
 pass: dnscry.pt-tokyo02-ipv4
@@ -415,10 +407,10 @@ pass: quad9-dnscrypt-ip6-filter-ecs-pri
 pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
-pass: quad9-doh-ip4-port5053-filter-ecs-pri
-pass: quad9-doh-ip4-port5053-filter-pri
-pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
-pass: quad9-doh-ip4-port5053-nofilter-pri
+pass: quad9-doh-ip4-port443-filter-ecs-pri
+pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
@@ -440,7 +432,6 @@ pass: scaleway-fr
 pass: scaleway-fr-ipv6
 pass: serbica
 pass: sfw.scaleway-fr
-pass: sth-doh-se-ipv6
 pass: switch
 pass: switch-ipv6
 pass: tuna-doh-ipv6
