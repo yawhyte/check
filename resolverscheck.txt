@@ -280,6 +280,7 @@ pass: dnscry.pt-sandefjord-ipv6
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-santaclara-ipv6
 pass: dnscry.pt-saopaulo-ipv4
+pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seattle-ipv6
 pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul-ipv6
@@ -354,7 +355,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: google
