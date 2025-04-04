@@ -45,7 +45,7 @@ pass: cisco-familyshield-ipv6
 pass: cisco-ipv6
 pass: cisco-ipv6-doh
 pass: cisco-sandbox
-pass: cleanbrowsing-adult (1 retry)
+pass: cleanbrowsing-adult
 pass: cleanbrowsing-adult-doh
 pass: cleanbrowsing-adult-ipv6
 pass: cleanbrowsing-family
@@ -103,7 +103,7 @@ pass: cs-pt
 pass: cs-ro
 pass: cs-rome
 pass: cs-serbia
-pass: cs-singapore
+pass: cs-singapore (1 retry)
 pass: cs-sk
 pass: cs-slovakia
 pass: cs-swe
@@ -190,7 +190,7 @@ pass: dnscry.pt-hafnarfjordur-ipv4
 pass: dnscry.pt-hafnarfjordur-ipv6
 pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-halifax-ipv6
-pass: dnscry.pt-hanoi-ipv4 (1 retry)
+pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
@@ -198,6 +198,7 @@ pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hochiminhcity-ipv6
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong-ipv6
+pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hongkong02-ipv6
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-hudiksvall-ipv6
@@ -354,9 +355,8 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
+pass: fluffycat-fr-01 (1 retry)
 pass: google
 pass: google-ipv6
 pass: he
@@ -385,10 +385,16 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: qihoo360-doh
@@ -405,10 +411,6 @@ pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
-pass: quad9-doh-ip4-port5053-filter-ecs-pri
-pass: quad9-doh-ip4-port5053-filter-pri
-pass: quad9-doh-ip4-port5053-nofilter-ecs-pri
-pass: quad9-doh-ip4-port5053-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
