@@ -63,6 +63,7 @@ pass: dnscry.pt-anon-amsterdam02-ipv4
 pass: dnscry.pt-anon-athens-ipv4
 pass: dnscry.pt-anon-atlanta-ipv4
 pass: dnscry.pt-anon-auckland-ipv4
+pass: dnscry.pt-anon-bengaluru-ipv4 (2 retries)
 pass: dnscry.pt-anon-bratislava-ipv4
 pass: dnscry.pt-anon-brisbane-ipv4
 pass: dnscry.pt-anon-brussels-ipv4
@@ -136,7 +137,6 @@ pass: dnscry.pt-anon-spokane-ipv4
 pass: dnscry.pt-anon-stockholm-ipv4
 pass: dnscry.pt-anon-sydney-ipv4
 pass: dnscry.pt-anon-sydney02-ipv4
-pass: dnscry.pt-anon-taipeh-ipv4
 pass: dnscry.pt-anon-tallinn-ipv4
 pass: dnscry.pt-anon-tampa-ipv4
 pass: dnscry.pt-anon-taos-ipv4
