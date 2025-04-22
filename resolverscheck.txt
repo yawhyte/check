@@ -196,7 +196,6 @@ pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hochiminhcity-ipv6
-pass: dnscry.pt-hongkong-ipv4 (3 retries)
 pass: dnscry.pt-hongkong-ipv6
 pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hongkong02-ipv6
