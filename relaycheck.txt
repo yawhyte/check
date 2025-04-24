@@ -2,6 +2,7 @@ pass: anon-cs-austria
 pass: anon-cs-barcelona
 pass: anon-cs-belgium
 pass: anon-cs-berlin
+pass: anon-cs-brazil
 pass: anon-cs-bulgaria
 pass: anon-cs-ch
 pass: anon-cs-czech
@@ -43,12 +44,12 @@ pass: anon-cs-vancouver
 pass: anon-digitalprivacy.diy-ipv4
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
-pass: anon-fluffycat-fr-01
+pass: anon-fluffycat-fr-01 (2 retries)
 pass: anon-inconnu
 pass: anon-kama
 pass: anon-saldns01-conoha-ipv4
 pass: anon-saldns02-conoha-ipv4
-pass: anon-saldns03-conoha-ipv4 (1 retry)
+pass: anon-saldns03-conoha-ipv4
 pass: anon-scaleway
 pass: anon-scaleway-ams
 pass: anon-scaleway2
