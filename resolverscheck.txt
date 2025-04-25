@@ -106,6 +106,7 @@ pass: cs-serbia
 pass: cs-singapore
 pass: cs-sk
 pass: cs-slovakia
+pass: cs-swe
 pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
@@ -220,6 +221,7 @@ pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
+pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-lima02-ipv6
 pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-lisbon-ipv6
@@ -351,12 +353,11 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01 (1 retry)
 pass: google
 pass: google-ipv6
-pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
@@ -431,6 +432,7 @@ pass: scaleway-fr-ipv6
 pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
+pass: switch (1 retry)
 pass: switch-ipv6
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
