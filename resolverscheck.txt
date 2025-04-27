@@ -195,7 +195,7 @@ pass: dnscry.pt-helsinki-ipv6
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hochiminhcity-ipv6
 pass: dnscry.pt-hongkong-ipv6
-pass: dnscry.pt-hongkong02-ipv4 (3 retries)
+pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hongkong02-ipv6
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-hudiksvall-ipv6
@@ -351,12 +351,11 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: google
 pass: google-ipv6
-pass: he (2 retries)
+pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
