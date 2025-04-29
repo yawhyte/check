@@ -19,6 +19,7 @@ pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: alidns-doh
+pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl-ipv6
@@ -36,7 +37,6 @@ pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
 pass: brahma-world-ipv6
-pass: circl-doh
 pass: circl-doh-ipv6
 pass: cisco
 pass: cisco-doh
@@ -72,6 +72,7 @@ pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
 pass: cs-berlin
+pass: cs-brazil
 pass: cs-bulgaria
 pass: cs-ch
 pass: cs-czech
@@ -110,6 +111,7 @@ pass: cs-sydney
 pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
+pass: dct-de
 pass: dct-fr
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
@@ -350,12 +352,10 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: fluffycat-fr-01
 pass: google
 pass: google-ipv6
-pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
