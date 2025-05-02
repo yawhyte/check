@@ -19,6 +19,8 @@ pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: alidns-doh
+pass: alidns-doh (1 retry)
+pass: alidns-doh (2 retries)
 pass: alidns-doh-ipv6
 pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl-ipv6
@@ -30,6 +32,7 @@ pass: blahdns-de-doh
 pass: blahdns-de-doh-v6
 pass: blahdns-sg-dnscrypt-v4
 pass: blahdns-sg-dnscrypt-v6
+pass: blahdns-sg-doh
 pass: blahdns-sg-doh-v6
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -59,6 +62,7 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -336,7 +340,7 @@ pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
-pass: doh.appliedprivacy.net (1 retry)
+pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
@@ -349,9 +353,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
-pass: fluffycat-fr-01
 pass: google
 pass: google-ipv6
 pass: he
