@@ -19,8 +19,6 @@ pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: alidns-doh
-pass: alidns-doh (1 retry)
-pass: alidns-doh (2 retries)
 pass: alidns-doh-ipv6
 pass: ams-dnscrypt-nl-ipv6
 pass: ams-doh-nl-ipv6
@@ -32,7 +30,6 @@ pass: blahdns-de-doh
 pass: blahdns-de-doh-v6
 pass: blahdns-sg-dnscrypt-v4
 pass: blahdns-sg-dnscrypt-v6
-pass: blahdns-sg-doh
 pass: blahdns-sg-doh-v6
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -62,7 +59,6 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -74,7 +70,6 @@ pass: cs-austria
 pass: cs-barcelona
 pass: cs-belgium
 pass: cs-berlin
-pass: cs-brazil
 pass: cs-bulgaria
 pass: cs-ch
 pass: cs-czech
@@ -98,7 +93,6 @@ pass: cs-montreal
 pass: cs-nc
 pass: cs-nl
 pass: cs-norway
-pass: cs-nv
 pass: cs-ore
 pass: cs-poland
 pass: cs-pt
@@ -198,7 +192,7 @@ pass: dnscry.pt-helsinki-ipv6
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hochiminhcity-ipv6
 pass: dnscry.pt-hongkong-ipv6
-pass: dnscry.pt-hongkong02-ipv4
+pass: dnscry.pt-hongkong02-ipv4 (3 retries)
 pass: dnscry.pt-hongkong02-ipv6
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-hudiksvall-ipv6
