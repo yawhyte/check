@@ -319,6 +319,8 @@ pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-warsaw02-ipv6
 pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-yerevan-ipv6
+pass: dnscrypt.ca-ipv4
+pass: dnscrypt.ca-ipv4-doh
 pass: dnscrypt.pl
 pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
@@ -351,7 +353,7 @@ pass: fdn-ipv6
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
-pass: he (1 retry)
+pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
@@ -399,6 +401,10 @@ pass: quad9-dnscrypt-ip6-filter-ecs-pri
 pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
+pass: quad9-doh-ip4-port443-filter-ecs-pri
+pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
