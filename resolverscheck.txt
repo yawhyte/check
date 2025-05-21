@@ -26,11 +26,9 @@ pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-dnscrypt-v6
-pass: blahdns-de-doh
 pass: blahdns-de-doh-v6
 pass: blahdns-sg-dnscrypt-v4
 pass: blahdns-sg-dnscrypt-v6
-pass: blahdns-sg-doh
 pass: blahdns-sg-doh-v6
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -89,7 +87,6 @@ pass: cs-london
 pass: cs-lv
 pass: cs-madrid
 pass: cs-manchester
-pass: cs-mexico
 pass: cs-milan
 pass: cs-montreal
 pass: cs-nc
@@ -110,6 +107,7 @@ pass: cs-tokyo
 pass: cs-tx
 pass: cs-vancouver
 pass: dct-de
+pass: dct-fr
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -340,6 +338,7 @@ pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
+pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: doh.tiarap.org-ipv6
@@ -347,7 +346,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
