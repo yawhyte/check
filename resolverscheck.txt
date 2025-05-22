@@ -27,7 +27,6 @@ pass: artikel10-doh-ipv6
 pass: blahdns-de-dnscrypt-v4
 pass: blahdns-de-dnscrypt-v6
 pass: blahdns-de-doh-v6
-pass: blahdns-sg-dnscrypt-v4
 pass: blahdns-sg-dnscrypt-v6
 pass: blahdns-sg-doh-v6
 pass: bortzmeyer
@@ -119,6 +118,7 @@ pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
 pass: dns4all-ipv4
+pass: dns4all-ipv4 (2 retries)
 pass: dns4all-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
@@ -154,7 +154,6 @@ pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-copenhagen-ipv6
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-coventry-ipv6
-pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-dallas-ipv6
 pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-denver-ipv6
@@ -346,6 +345,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
