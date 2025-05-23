@@ -118,7 +118,6 @@ pass: dns0
 pass: dns0-kids
 pass: dns0-unfiltered
 pass: dns4all-ipv4
-pass: dns4all-ipv4 (2 retries)
 pass: dns4all-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
@@ -154,6 +153,7 @@ pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-copenhagen-ipv6
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-coventry-ipv6
+pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-dallas-ipv6
 pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-denver-ipv6
@@ -195,7 +195,6 @@ pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hongkong02-ipv6
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-hudiksvall-ipv6
-pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-islamabad-ipv6
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
@@ -345,7 +344,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
