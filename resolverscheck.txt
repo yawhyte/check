@@ -19,6 +19,7 @@ pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: alidns-doh
+pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
@@ -229,7 +230,6 @@ pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hongkong02-ipv6
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-hudiksvall-ipv6
-pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-islamabad-ipv6
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
