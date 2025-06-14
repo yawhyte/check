@@ -271,7 +271,6 @@ pass: dnscry.pt-moscow-ipv4
 pass: dnscry.pt-moscow-ipv6
 pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-mumbai-ipv6
-pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
 pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-naaldwijk-ipv6
@@ -347,6 +346,7 @@ pass: dnscry.pt-yerevan-ipv6
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
 pass: dnscrypt.pl
+pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
@@ -361,7 +361,7 @@ pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
-pass: doh.appliedprivacy.net (1 retry)
+pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
@@ -411,7 +411,6 @@ pass: plan9dns-mx
 pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
-pass: plan9dns-nj
 pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
