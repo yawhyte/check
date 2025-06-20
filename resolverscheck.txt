@@ -375,6 +375,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -412,6 +413,7 @@ pass: plan9dns-mx
 pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
+pass: plan9dns-nj
 pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
@@ -433,7 +435,7 @@ pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
 pass: quad9-doh-ip6-port443-nofilter-pri
-pass: restena-doh-ipv4 (1 retry)
+pass: restena-doh-ipv4
 pass: restena-doh-ipv6
 pass: rethinkdns-doh
 pass: safesurfer
