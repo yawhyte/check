@@ -61,34 +61,55 @@ pass: controld-block-malware-ad-social
 pass: controld-family-friendly
 pass: controld-uncensored
 pass: controld-unfiltered
+pass: cs-austria
 pass: cs-austria6
+pass: cs-barcelona
 pass: cs-barcelona6
+pass: cs-belgium
 pass: cs-belgium6
+pass: cs-berlin
 pass: cs-berlin6
+pass: cs-brazil
 pass: cs-brazil6
+pass: cs-ch
 pass: cs-ch6
+pass: cs-czech
 pass: cs-czech6
 pass: cs-dc
 pass: cs-dc6
+pass: cs-de
 pass: cs-de6
+pass: cs-dus
 pass: cs-dus6
+pass: cs-finland
 pass: cs-finland6
 pass: cs-fl
 pass: cs-fl6
+pass: cs-fr
 pass: cs-fr6
+pass: cs-ga
 pass: cs-ga6
+pass: cs-hungary
 pass: cs-hungary6
+pass: cs-il
 pass: cs-il6
+pass: cs-india
 pass: cs-india6
 pass: cs-la
 pass: cs-la6
+pass: cs-london
 pass: cs-london6
+pass: cs-manchester
 pass: cs-manchester6
+pass: cs-md
 pass: cs-md6
+pass: cs-milan
 pass: cs-milan6
 pass: cs-montreal
 pass: cs-montreal6
+pass: cs-nl
 pass: cs-nl6
+pass: cs-norway
 pass: cs-norway6
 pass: cs-nv
 pass: cs-nv6
@@ -96,16 +117,25 @@ pass: cs-nyc
 pass: cs-nyc6
 pass: cs-ore
 pass: cs-ore6
+pass: cs-poland
 pass: cs-poland6
+pass: cs-pt
 pass: cs-pt6
+pass: cs-ro
 pass: cs-ro6
 pass: cs-sea
 pass: cs-sea6
+pass: cs-serbia
 pass: cs-serbia6
+pass: cs-singapore
 pass: cs-singapore6
+pass: cs-sk
 pass: cs-sk6
+pass: cs-swe
 pass: cs-swe6
+pass: cs-sydney
 pass: cs-sydney6
+pass: cs-tokyo
 pass: cs-tokyo6
 pass: cs-tx
 pass: cs-tx6
@@ -219,6 +249,7 @@ pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
 pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-lima02-ipv6
+pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-lisbon-ipv6
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-london-ipv6
@@ -242,6 +273,7 @@ pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-mumbai-ipv6
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
+pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-naaldwijk-ipv6
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-nuremberg-ipv6
@@ -314,6 +346,7 @@ pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-yerevan-ipv6
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
+pass: dnscrypt.pl
 pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnscrypt.uk-ipv6
@@ -345,7 +378,7 @@ pass: fdn-ipv6
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
-pass: he (1 retry)
+pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
@@ -402,6 +435,9 @@ pass: restena-doh-ipv6
 pass: rethinkdns-doh
 pass: safesurfer
 pass: safesurfer-doh
+pass: saldns01-conoha-ipv4
+pass: saldns02-conoha-ipv4
+pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
@@ -421,9 +457,7 @@ pass: v.dnscrypt.uk-ipv4
 pass: v.dnscrypt.uk-ipv6
 pass: wikimedia
 pass: wikimedia-ipv6
-pass: yandex (2 retries)
+pass: yandex
 pass: yandex-ipv6
-pass: yandex-safe (1 retry)
-pass: yandex-safe (2 retries)
+pass: yandex-safe
 pass: yandex-safe-ipv6
-pass: yandex-safe-ipv6 (1 retry)
