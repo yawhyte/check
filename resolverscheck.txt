@@ -217,7 +217,7 @@ pass: dnscry.pt-hafnarfjordur-ipv4
 pass: dnscry.pt-hafnarfjordur-ipv6
 pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-halifax-ipv6
-pass: dnscry.pt-hanoi-ipv4
+pass: dnscry.pt-hanoi-ipv4 (1 retry)
 pass: dnscry.pt-hanoi-ipv6
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
@@ -249,7 +249,6 @@ pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
 pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-lima02-ipv6
-pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-lisbon-ipv6
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-london-ipv6
