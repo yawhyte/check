@@ -377,6 +377,7 @@ pass: fdn-ipv6
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
+pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app
