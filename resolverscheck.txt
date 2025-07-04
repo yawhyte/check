@@ -20,7 +20,6 @@ pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: alidns-doh
 pass: alidns-doh-ipv6
-pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
 pass: blahdns-sg-dnscrypt-v4
 pass: blahdns-sg-dnscrypt-v6
@@ -374,6 +373,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -392,7 +392,7 @@ pass: libredns
 pass: libredns-noads
 pass: mullvad-adblock-doh
 pass: mullvad-all-doh
-pass: mullvad-base-doh
+pass: mullvad-base-doh (1 retry)
 pass: mullvad-doh
 pass: mullvad-extend-doh
 pass: mullvad-family-doh
