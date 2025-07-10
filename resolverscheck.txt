@@ -271,7 +271,7 @@ pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-mumbai-ipv6
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
-pass: dnscry.pt-naaldwijk-ipv4
+pass: dnscry.pt-naaldwijk-ipv4 (1 retry)
 pass: dnscry.pt-naaldwijk-ipv6
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-nuremberg-ipv6
