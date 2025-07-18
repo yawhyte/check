@@ -17,7 +17,7 @@ pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
 pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
-pass: ahadns-doh-la
+pass: ahadns-doh-la (1 retry)
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: blahdns-sg-dnscrypt-v4
@@ -67,7 +67,6 @@ pass: cs-belgium
 pass: cs-belgium6
 pass: cs-berlin
 pass: cs-berlin6
-pass: cs-brazil
 pass: cs-brazil6
 pass: cs-ch
 pass: cs-ch6
@@ -368,7 +367,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
