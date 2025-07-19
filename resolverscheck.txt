@@ -17,7 +17,7 @@ pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
 pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
-pass: ahadns-doh-la (1 retry)
+pass: ahadns-doh-la
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: blahdns-sg-dnscrypt-v4
@@ -67,6 +67,7 @@ pass: cs-belgium
 pass: cs-belgium6
 pass: cs-berlin
 pass: cs-berlin6
+pass: cs-brazil
 pass: cs-brazil6
 pass: cs-ch
 pass: cs-ch6
@@ -354,7 +355,7 @@ pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
-pass: doh.appliedprivacy.net
+pass: doh.appliedprivacy.net (1 retry)
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
