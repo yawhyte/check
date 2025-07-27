@@ -298,7 +298,6 @@ pass: dnscry.pt-seattle-ipv6
 pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul-ipv6
 pass: dnscry.pt-singapore-ipv6
-pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-singapore02-ipv6
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
@@ -367,7 +366,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
