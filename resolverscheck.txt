@@ -17,7 +17,7 @@ pass: adguard-dns-unfiltered
 pass: adguard-dns-unfiltered-doh
 pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
-pass: ahadns-doh-la
+pass: ahadns-doh-la (1 retry)
 pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: blahdns-sg-dnscrypt-v6
@@ -425,6 +425,7 @@ pass: quad9-doh-ip6-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: restena-doh-ipv6
 pass: rethinkdns-doh
+pass: rethinkdns-doh (1 retry)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
