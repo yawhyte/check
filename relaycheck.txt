@@ -24,7 +24,7 @@ pass: anon-cs-montreal
 pass: anon-cs-nl
 pass: anon-cs-norway
 pass: anon-cs-nv
-pass: anon-cs-nyc
+pass: anon-cs-nyc (2 retries)
 pass: anon-cs-ore
 pass: anon-cs-poland
 pass: anon-cs-pt
