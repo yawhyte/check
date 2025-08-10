@@ -19,6 +19,7 @@ pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: alidns-doh
+pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: blahdns-sg-dnscrypt-v6
 pass: blahdns-sg-doh-v6
