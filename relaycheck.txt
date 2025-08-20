@@ -23,7 +23,7 @@ pass: anon-cs-milan
 pass: anon-cs-montreal
 pass: anon-cs-nl
 pass: anon-cs-norway
-pass: anon-cs-nv (1 retry)
+pass: anon-cs-nv
 pass: anon-cs-nyc
 pass: anon-cs-ore
 pass: anon-cs-poland
