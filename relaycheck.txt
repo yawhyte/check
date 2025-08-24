@@ -48,7 +48,7 @@ pass: anon-saldns02-conoha-ipv4
 pass: anon-saldns03-conoha-ipv4
 pass: anon-scaleway
 pass: anon-scaleway-ams
-pass: anon-scaleway2
+pass: anon-scaleway2 (3 retries)
 pass: anon-serbica
 pass: anon-tiarap
 pass: anon-v.dnscrypt.uk-ipv4
@@ -95,6 +95,7 @@ pass: dnscry.pt-anon-libertylake-ipv4
 pass: dnscry.pt-anon-lima02-ipv4
 pass: dnscry.pt-anon-lisbon-ipv4
 pass: dnscry.pt-anon-losangeles-ipv4
+pass: dnscry.pt-anon-losangeles02-ipv4
 pass: dnscry.pt-anon-luxembourg-ipv4
 pass: dnscry.pt-anon-madrid-ipv4
 pass: dnscry.pt-anon-miami-ipv4
