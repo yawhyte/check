@@ -19,7 +19,6 @@ pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: alidns-doh
-pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: blahdns-sg-dnscrypt-v6
 pass: blahdns-sg-doh
@@ -436,7 +435,7 @@ pass: scaleway-ams-ipv6
 pass: scaleway-fr
 pass: scaleway-fr-ipv6
 pass: serbica
-pass: sfw.scaleway-fr
+pass: sfw.scaleway-fr (2 retries)
 pass: switch
 pass: switch-ipv6
 pass: tuna-doh-ipv6
