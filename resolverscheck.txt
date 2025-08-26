@@ -186,7 +186,6 @@ pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-dallas-ipv6
 pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-denver-ipv6
-pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-detroit-ipv6
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-dublin-ipv6
@@ -348,6 +347,7 @@ pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
+pass: doh-crypto-sx (2 retries)
 pass: doh-crypto-sx-ipv6
 pass: doh-ibksturm
 pass: doh.appliedprivacy.net
@@ -363,11 +363,12 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -435,7 +436,7 @@ pass: scaleway-ams-ipv6
 pass: scaleway-fr
 pass: scaleway-fr-ipv6
 pass: serbica
-pass: sfw.scaleway-fr (2 retries)
+pass: sfw.scaleway-fr
 pass: switch
 pass: switch-ipv6
 pass: tuna-doh-ipv6
