@@ -1,6 +1,6 @@
 pass: a-and-a
 pass: a-and-a-ipv6
-pass: adfilter-adl (3 retries)
+pass: adfilter-adl
 pass: adfilter-adl-ipv6
 pass: adfilter-per
 pass: adfilter-per-ipv6
@@ -363,10 +363,12 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm (2 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -434,13 +436,12 @@ pass: scaleway-ams-ipv6
 pass: scaleway-fr
 pass: scaleway-fr-ipv6
 pass: serbica
-pass: sfw.scaleway-fr
 pass: switch
 pass: switch-ipv6
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
-pass: uncensoreddns-ipv4
+pass: uncensoreddns-ipv4 (2 retries)
 pass: uncensoreddns-ipv6
 pass: userspace-australia
 pass: userspace-australia-ipv6
