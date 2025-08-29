@@ -5,6 +5,7 @@ pass: adfilter-adl-ipv6
 pass: adfilter-per
 pass: adfilter-per-ipv6
 pass: adfilter-syd
+pass: adfilter-syd-ipv6
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-doh-ipv6
@@ -27,6 +28,7 @@ pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
 pass: brahma-world-ipv6
+pass: circl-doh
 pass: circl-doh-ipv6
 pass: cisco
 pass: cisco-doh
@@ -138,8 +140,8 @@ pass: cs-tx
 pass: cs-tx6
 pass: cs-vancouver
 pass: cs-vancouver6
-pass: dct-de
 pass: dct-fr
+pass: dct-nl
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -363,12 +365,11 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (2 retries)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -393,16 +394,10 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
-pass: plan9dns-fl
-pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
-pass: plan9dns-nj
-pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: qihoo360-doh
@@ -426,6 +421,7 @@ pass: quad9-doh-ip6-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: restena-doh-ipv6
 pass: rethinkdns-doh
+pass: rethinkdns-doh (1 retry)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
@@ -441,7 +437,7 @@ pass: switch-ipv6
 pass: tuna-doh-ipv6
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
-pass: uncensoreddns-ipv4 (2 retries)
+pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
 pass: userspace-australia
 pass: userspace-australia-ipv6
