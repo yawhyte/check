@@ -60,6 +60,7 @@ pass: controld-uncensored
 pass: controld-unfiltered
 pass: cs-austria
 pass: cs-austria6
+pass: cs-barcelona
 pass: cs-barcelona6
 pass: cs-belgium
 pass: cs-belgium6
@@ -378,7 +379,6 @@ pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
 pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-sydney02-ipv6
-pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
@@ -414,10 +414,7 @@ pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-warsaw02-ipv6
 pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-yerevan-ipv6
-pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
-pass: dnscrypt.pl
-pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
@@ -448,6 +445,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -477,10 +475,16 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: qihoo360-doh
