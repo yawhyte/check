@@ -20,6 +20,7 @@ pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: alidns-doh
+pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: blahdns-sg-doh
 pass: bortzmeyer
@@ -414,7 +415,10 @@ pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-warsaw02-ipv6
 pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-yerevan-ipv6
+pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
+pass: dnscrypt.pl
+pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv4
 pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
@@ -445,7 +449,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
