@@ -182,7 +182,7 @@ pass: dnscry.pt-brisbane-ipv4
 pass: dnscry.pt-brisbane-ipv6
 pass: dnscry.pt-brussels-ipv4
 pass: dnscry.pt-brussels-ipv6
-pass: dnscry.pt-bucharest-ipv4 (1 retry)
+pass: dnscry.pt-bucharest-ipv4
 pass: dnscry.pt-bucharest-ipv6
 pass: dnscry.pt-budapest-ipv4
 pass: dnscry.pt-budapest-ipv6
@@ -228,7 +228,7 @@ pass: dnscry.pt-frankfurt02-ipv4
 pass: dnscry.pt-frankfurt02-ipv6
 pass: dnscry.pt-fremont-ipv4
 pass: dnscry.pt-fremont-ipv6
-pass: dnscry.pt-fremont02-ipv4 (1 retry)
+pass: dnscry.pt-fremont02-ipv4
 pass: dnscry.pt-fremont02-ipv6
 pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-fujairah-ipv6
@@ -459,6 +459,7 @@ pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiar.app-doh-ipv6
 pass: jp.tiar.app-ipv6
+pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
