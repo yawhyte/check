@@ -20,7 +20,6 @@ pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
 pass: ahadns-doh-la
 pass: alidns-doh
-pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: blahdns-sg-doh
 pass: bortzmeyer
@@ -157,7 +156,6 @@ pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
-pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam-ipv6
 pass: dnscry.pt-amsterdam02-ipv4
 pass: dnscry.pt-amsterdam02-ipv6
@@ -288,7 +286,6 @@ pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
-pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-lima02-ipv6
 pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-lisbon-ipv6
@@ -442,6 +439,7 @@ pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
 pass: doh.ibksturm
+pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: doh.tiarap.org-ipv6
@@ -449,16 +447,17 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm (3 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiar.app-doh-ipv6
 pass: jp.tiar.app-ipv6
-pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
@@ -510,7 +509,6 @@ pass: quad9-doh-ip6-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: restena-doh-ipv6
 pass: rethinkdns-doh
-pass: rethinkdns-doh (2 retries)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
