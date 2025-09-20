@@ -181,7 +181,7 @@ pass: dnscry.pt-brisbane-ipv4
 pass: dnscry.pt-brisbane-ipv6
 pass: dnscry.pt-brussels-ipv4
 pass: dnscry.pt-brussels-ipv6
-pass: dnscry.pt-bucharest-ipv4
+pass: dnscry.pt-bucharest-ipv4 (3 retries)
 pass: dnscry.pt-bucharest-ipv6
 pass: dnscry.pt-budapest-ipv4
 pass: dnscry.pt-budapest-ipv6
@@ -286,7 +286,6 @@ pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
-pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-lima02-ipv6
 pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-lisbon-ipv6
@@ -390,7 +389,6 @@ pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tbilisi-ipv6
 pass: dnscry.pt-telaviv-ipv4
 pass: dnscry.pt-telaviv-ipv6
-pass: dnscry.pt-timisoara-ipv4
 pass: dnscry.pt-timisoara-ipv6
 pass: dnscry.pt-tirana-ipv4
 pass: dnscry.pt-tirana-ipv6
@@ -439,7 +437,7 @@ pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
-pass: doh.ibksturm (1 retry)
+pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -452,6 +450,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
