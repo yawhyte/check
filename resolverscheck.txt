@@ -354,7 +354,7 @@ pass: dnscry.pt-queretaro-ipv4
 pass: dnscry.pt-queretaro-ipv6
 pass: dnscry.pt-redditch-ipv4
 pass: dnscry.pt-redditch-ipv6
-pass: dnscry.pt-riga-ipv4 (2 retries)
+pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-riga-ipv6
 pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-saltlakecity-ipv6
@@ -448,11 +448,11 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
