@@ -138,8 +138,8 @@ pass: cs-tx
 pass: cs-tx6
 pass: cs-vancouver
 pass: cs-vancouver6
+pass: dct-de
 pass: dct-fr
-pass: dct-nl
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -182,7 +182,7 @@ pass: dnscry.pt-brisbane-ipv4
 pass: dnscry.pt-brisbane-ipv6
 pass: dnscry.pt-brussels-ipv4
 pass: dnscry.pt-brussels-ipv6
-pass: dnscry.pt-bucharest-ipv4
+pass: dnscry.pt-bucharest-ipv4 (1 retry)
 pass: dnscry.pt-bucharest-ipv6
 pass: dnscry.pt-budapest-ipv4
 pass: dnscry.pt-budapest-ipv6
@@ -448,11 +448,12 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
