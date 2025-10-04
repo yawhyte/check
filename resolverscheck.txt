@@ -106,6 +106,7 @@ pass: cs-montreal
 pass: cs-montreal6
 pass: cs-nl
 pass: cs-nl6
+pass: cs-norway
 pass: cs-norway6
 pass: cs-nv
 pass: cs-nv6
@@ -207,7 +208,7 @@ pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-detroit-ipv6
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-dublin-ipv6
-pass: dnscry.pt-durham-ipv4 (2 retries)
+pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-durham-ipv6
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf-ipv6
@@ -451,6 +452,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
