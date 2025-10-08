@@ -312,7 +312,6 @@ pass: dnscry.pt-milan-ipv4
 pass: dnscry.pt-milan-ipv6
 pass: dnscry.pt-minneapolis-ipv4
 pass: dnscry.pt-minneapolis-ipv6
-pass: dnscry.pt-molln-ipv4
 pass: dnscry.pt-molln-ipv6
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-montreal-ipv6
