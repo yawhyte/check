@@ -5,7 +5,6 @@ pass: adfilter-adl-ipv6
 pass: adfilter-per
 pass: adfilter-per-ipv6
 pass: adfilter-syd
-pass: adfilter-syd-ipv6
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-doh-ipv6
@@ -147,8 +146,6 @@ pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
 pass: dns.digitalsize.net-ipv6
 pass: dns.sb
-pass: dns0
-pass: dns0-kids
 pass: dns0-unfiltered
 pass: dns4all-ipv4
 pass: dns4all-ipv6
@@ -268,7 +265,6 @@ pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
-pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-jakarta-ipv6
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
@@ -289,7 +285,6 @@ pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
 pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-lima02-ipv6
-pass: dnscry.pt-lisbon-ipv6
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-london-ipv6
 pass: dnscry.pt-losangeles-ipv4
@@ -312,6 +307,7 @@ pass: dnscry.pt-milan-ipv4
 pass: dnscry.pt-milan-ipv6
 pass: dnscry.pt-minneapolis-ipv4
 pass: dnscry.pt-minneapolis-ipv6
+pass: dnscry.pt-molln-ipv4
 pass: dnscry.pt-molln-ipv6
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-montreal-ipv6
@@ -392,7 +388,6 @@ pass: dnscry.pt-telaviv-ipv6
 pass: dnscry.pt-timisoara-ipv4
 pass: dnscry.pt-timisoara-ipv6
 pass: dnscry.pt-tirana-ipv4
-pass: dnscry.pt-tirana-ipv6
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo-ipv6
 pass: dnscry.pt-tokyo02-ipv4
@@ -438,7 +433,6 @@ pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
-pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -451,7 +445,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -476,16 +470,10 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
-pass: plan9dns-fl
-pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
-pass: plan9dns-nj
-pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: qihoo360-doh

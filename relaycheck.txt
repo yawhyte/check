@@ -128,7 +128,7 @@ pass: dnscry.pt-anon-milan-ipv4
 pass: dnscry.pt-anon-minneapolis-ipv4
 pass: dnscry.pt-anon-molln-ipv4
 pass: dnscry.pt-anon-montreal-ipv4
-pass: dnscry.pt-anon-moscow-ipv4
+pass: dnscry.pt-anon-moscow-ipv4 (1 retry)
 pass: dnscry.pt-anon-mumbai-ipv4
 pass: dnscry.pt-anon-munich-ipv4
 pass: dnscry.pt-anon-naaldwijk-ipv4
