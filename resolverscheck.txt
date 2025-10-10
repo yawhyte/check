@@ -223,7 +223,6 @@ pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt-ipv6
 pass: dnscry.pt-frankfurt02-ipv4
 pass: dnscry.pt-frankfurt02-ipv6
-pass: dnscry.pt-fremont-ipv4
 pass: dnscry.pt-fremont-ipv6
 pass: dnscry.pt-fremont02-ipv4
 pass: dnscry.pt-fremont02-ipv6
@@ -257,7 +256,7 @@ pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-hudiksvall-ipv6
 pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-ikeja-ipv6
-pass: dnscry.pt-indianapolis-ipv4
+pass: dnscry.pt-indianapolis-ipv4 (1 retry)
 pass: dnscry.pt-indianapolis-ipv6
 pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-islamabad-ipv6
@@ -325,7 +324,6 @@ pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-newyork-ipv6
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-nuremberg-ipv6
-pass: dnscry.pt-oradea-ipv4
 pass: dnscry.pt-oradea-ipv6
 pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-ottoville-ipv6
@@ -392,7 +390,6 @@ pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo-ipv6
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-tokyo02-ipv6
-pass: dnscry.pt-toronto-ipv4
 pass: dnscry.pt-toronto-ipv6
 pass: dnscry.pt-tuusula-ipv4
 pass: dnscry.pt-tuusula-ipv6
@@ -439,13 +436,12 @@ pass: doh.tiarap.org
 pass: doh.tiarap.org-ipv6
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
-pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -470,10 +466,16 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: qihoo360-doh
