@@ -221,7 +221,6 @@ pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt-ipv6
-pass: dnscry.pt-frankfurt02-ipv4
 pass: dnscry.pt-frankfurt02-ipv6
 pass: dnscry.pt-fremont-ipv6
 pass: dnscry.pt-fremont02-ipv4
@@ -256,7 +255,7 @@ pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-hudiksvall-ipv6
 pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-ikeja-ipv6
-pass: dnscry.pt-indianapolis-ipv4 (1 retry)
+pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-indianapolis-ipv6
 pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-islamabad-ipv6
@@ -436,12 +435,13 @@ pass: doh.tiarap.org
 pass: doh.tiarap.org-ipv6
 pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
+pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
