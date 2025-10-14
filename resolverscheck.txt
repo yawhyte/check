@@ -149,6 +149,10 @@ pass: dns.sb
 pass: dns0-unfiltered
 pass: dns4all-ipv4
 pass: dns4all-ipv6
+pass: dns4eu
+pass: dns4eu-ipv6
+pass: dns4eu-protective
+pass: dns4eu-protective-ipv6
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allentown-ipv4
@@ -385,7 +389,7 @@ pass: dnscry.pt-telaviv-ipv4
 pass: dnscry.pt-telaviv-ipv6
 pass: dnscry.pt-timisoara-ipv4
 pass: dnscry.pt-timisoara-ipv6
-pass: dnscry.pt-tirana-ipv4 (1 retry)
+pass: dnscry.pt-tirana-ipv4
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tokyo-ipv6
 pass: dnscry.pt-tokyo02-ipv4
@@ -442,7 +446,6 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
