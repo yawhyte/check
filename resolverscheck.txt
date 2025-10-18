@@ -146,7 +146,6 @@ pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
 pass: dns.digitalsize.net-ipv6
 pass: dns.sb
-pass: dns0-unfiltered
 pass: dns4all-ipv4
 pass: dns4all-ipv6
 pass: dns4eu
@@ -263,6 +262,7 @@ pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-ikeja-ipv6
 pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-indianapolis-ipv6
+pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-islamabad-ipv6
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
@@ -329,9 +329,7 @@ pass: dnscry.pt-newyork-ipv6
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-nuremberg-ipv6
 pass: dnscry.pt-oradea-ipv6
-pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-ottoville-ipv6
-pass: dnscry.pt-palermo-ipv4
 pass: dnscry.pt-palermo-ipv6
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-paris-ipv6
@@ -385,7 +383,6 @@ pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tbilisi-ipv6
-pass: dnscry.pt-telaviv-ipv4
 pass: dnscry.pt-telaviv-ipv6
 pass: dnscry.pt-timisoara-ipv4
 pass: dnscry.pt-timisoara-ipv6
@@ -493,10 +490,6 @@ pass: quad9-dnscrypt-ip6-filter-ecs-pri
 pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
