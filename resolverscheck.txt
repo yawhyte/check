@@ -246,7 +246,6 @@ pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-halifax-ipv6
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
-pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hochiminhcity-ipv6
@@ -329,6 +328,7 @@ pass: dnscry.pt-newyork-ipv6
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-nuremberg-ipv6
 pass: dnscry.pt-oradea-ipv6
+pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-ottoville-ipv6
 pass: dnscry.pt-palermo-ipv6
 pass: dnscry.pt-paris-ipv4
@@ -439,6 +439,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -468,16 +469,10 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
-pass: plan9dns-fl
-pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
-pass: plan9dns-nj
-pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: qihoo360-doh
