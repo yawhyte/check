@@ -244,7 +244,6 @@ pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-halifax-ipv6
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
-pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hochiminhcity-ipv6
@@ -318,7 +317,6 @@ pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-mumbai-ipv6
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
-pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-naaldwijk-ipv6
 pass: dnscry.pt-newcastle-ipv6
 pass: dnscry.pt-newyork-ipv4
@@ -355,7 +353,6 @@ pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-sandefjord-ipv6
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-santaclara-ipv6
-pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-saopaulo-ipv6
 pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seattle-ipv6
@@ -440,7 +437,7 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -491,10 +488,6 @@ pass: quad9-dnscrypt-ip6-filter-ecs-pri
 pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
