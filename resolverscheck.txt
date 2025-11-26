@@ -65,6 +65,7 @@ pass: cs-belgium
 pass: cs-belgium6
 pass: cs-berlin
 pass: cs-berlin6
+pass: cs-brazil
 pass: cs-brazil6
 pass: cs-ch
 pass: cs-ch6
@@ -151,7 +152,6 @@ pass: dns4eu
 pass: dns4eu-ipv6
 pass: dns4eu-protective
 pass: dns4eu-protective-ipv6
-pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allentown-ipv4
