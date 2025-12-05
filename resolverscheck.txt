@@ -48,6 +48,7 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
+pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -433,7 +434,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -500,6 +501,7 @@ pass: quad9-doh-ip6-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: restena-doh-ipv6
 pass: rethinkdns-doh
+pass: rethinkdns-doh (1 retry)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
