@@ -265,7 +265,6 @@ pass: dnscry.pt-istanbul-ipv6
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
 pass: dnscry.pt-jakarta-ipv6
-pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
 pass: dnscry.pt-johannesburg02-ipv4
 pass: dnscry.pt-johannesburg02-ipv6
@@ -361,7 +360,6 @@ pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul-ipv6
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore-ipv6
-pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-spokane-ipv6
@@ -389,7 +387,6 @@ pass: dnscry.pt-tokyo02-ipv6
 pass: dnscry.pt-toronto-ipv6
 pass: dnscry.pt-tuusula-ipv4
 pass: dnscry.pt-tuusula-ipv6
-pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-valdivia-ipv6
 pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vancouver-ipv6
@@ -434,7 +431,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -501,7 +497,6 @@ pass: quad9-doh-ip6-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: restena-doh-ipv6
 pass: rethinkdns-doh
-pass: rethinkdns-doh (1 retry)
 pass: safesurfer
 pass: safesurfer-doh
 pass: saldns01-conoha-ipv4
