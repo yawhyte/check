@@ -265,6 +265,7 @@ pass: dnscry.pt-istanbul-ipv6
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
 pass: dnscry.pt-jakarta-ipv6
+pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
 pass: dnscry.pt-johannesburg02-ipv4
 pass: dnscry.pt-johannesburg02-ipv6
@@ -387,6 +388,7 @@ pass: dnscry.pt-tokyo02-ipv6
 pass: dnscry.pt-toronto-ipv6
 pass: dnscry.pt-tuusula-ipv4
 pass: dnscry.pt-tuusula-ipv6
+pass: dnscry.pt-valdivia-ipv4
 pass: dnscry.pt-valdivia-ipv6
 pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vancouver-ipv6
@@ -431,6 +433,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
