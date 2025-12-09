@@ -18,7 +18,6 @@ pass: adguard-dns-unfiltered-doh
 pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
 pass: alidns-doh
-pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: blahdns-sg-doh
 pass: bortzmeyer
@@ -260,6 +259,7 @@ pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-ikeja-ipv6
 pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-indianapolis-ipv6
+pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-islamabad-ipv6
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
@@ -434,12 +434,11 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (1 retry)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -468,16 +467,10 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
-pass: plan9dns-fl
-pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
-pass: plan9dns-nj
-pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: qihoo360-doh
