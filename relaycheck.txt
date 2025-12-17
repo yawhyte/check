@@ -33,7 +33,7 @@ pass: anon-cs-sea
 pass: anon-cs-serbia
 pass: anon-cs-singapore
 pass: anon-cs-sk
-pass: anon-cs-swe
+pass: anon-cs-swe (3 retries)
 pass: anon-cs-sydney
 pass: anon-cs-tokyo
 pass: anon-cs-tx
@@ -42,6 +42,7 @@ pass: anon-digitalprivacy.diy-ipv4
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-inconnu
+pass: anon-jp1.vr.ekinao.com
 pass: anon-jp2.vr.ekinao.com
 pass: anon-kama
 pass: anon-saldns01-conoha-ipv4
@@ -121,7 +122,6 @@ pass: dnscry.pt-anon-manchester-ipv4
 pass: dnscry.pt-anon-melbourne-ipv4
 pass: dnscry.pt-anon-miami-ipv4
 pass: dnscry.pt-anon-milan-ipv4
-pass: dnscry.pt-anon-minneapolis-ipv4
 pass: dnscry.pt-anon-molln-ipv4
 pass: dnscry.pt-anon-montreal-ipv4
 pass: dnscry.pt-anon-mumbai-ipv4
