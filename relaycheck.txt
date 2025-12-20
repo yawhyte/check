@@ -28,7 +28,6 @@ pass: anon-cs-nyc
 pass: anon-cs-ore
 pass: anon-cs-poland
 pass: anon-cs-pt
-pass: anon-cs-ro
 pass: anon-cs-sea
 pass: anon-cs-serbia
 pass: anon-cs-singapore
@@ -42,7 +41,7 @@ pass: anon-digitalprivacy.diy-ipv4
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-inconnu
-pass: anon-jp2.vr.ekinao.com (1 retry)
+pass: anon-jp1.vr.ekinao.com
 pass: anon-kama
 pass: anon-saldns01-conoha-ipv4
 pass: anon-saldns02-conoha-ipv4
@@ -94,13 +93,14 @@ pass: dnscry.pt-anon-grandrapids-ipv4
 pass: dnscry.pt-anon-guayaquil-ipv4
 pass: dnscry.pt-anon-hanoi-ipv4
 pass: dnscry.pt-anon-helsinki-ipv4
+pass: dnscry.pt-anon-hochiminhcity-ipv4
 pass: dnscry.pt-anon-hongkong-ipv4
 pass: dnscry.pt-anon-hongkong03-ipv4
 pass: dnscry.pt-anon-houston-ipv4
 pass: dnscry.pt-anon-hudiksvall-ipv4
 pass: dnscry.pt-anon-ikeja-ipv4
 pass: dnscry.pt-anon-indianapolis-ipv4
-pass: dnscry.pt-anon-islamabad-ipv4
+pass: dnscry.pt-anon-islamabad-ipv4 (2 retries)
 pass: dnscry.pt-anon-istanbul-ipv4
 pass: dnscry.pt-anon-jakarta-ipv4
 pass: dnscry.pt-anon-johannesburg-ipv4
@@ -112,7 +112,6 @@ pass: dnscry.pt-anon-lasvegas-ipv4
 pass: dnscry.pt-anon-libertylake-ipv4
 pass: dnscry.pt-anon-lima02-ipv4
 pass: dnscry.pt-anon-losangeles-ipv4
-pass: dnscry.pt-anon-losangeles02-ipv4
 pass: dnscry.pt-anon-luxembourg-ipv4
 pass: dnscry.pt-anon-madrid-ipv4
 pass: dnscry.pt-anon-manchester-ipv4
