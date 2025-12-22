@@ -242,7 +242,6 @@ pass: dnscry.pt-grandrapids-ipv4
 pass: dnscry.pt-grandrapids-ipv6
 pass: dnscry.pt-guayaquil-ipv4
 pass: dnscry.pt-guayaquil-ipv6
-pass: dnscry.pt-hafnarfjordur-ipv6
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
 pass: dnscry.pt-helsinki-ipv4
@@ -423,7 +422,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
+pass: ffmuc.net (3 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -486,6 +485,7 @@ pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
 pass: quad9-doh-ip6-port443-nofilter-pri
+pass: restena-doh-ipv4 (1 retry)
 pass: restena-doh-ipv6
 pass: rethinkdns-doh
 pass: safesurfer
