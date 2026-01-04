@@ -43,7 +43,7 @@ pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-inconnu
 pass: anon-jp1.vr.ekinao.com
-pass: anon-jp2.vr.ekinao.com
+pass: anon-jp2.vr.ekinao.com (2 retries)
 pass: anon-kama
 pass: anon-saldns01-conoha-ipv4
 pass: anon-saldns02-conoha-ipv4
@@ -87,12 +87,13 @@ pass: dnscry.pt-anon-ebenecity02-ipv4
 pass: dnscry.pt-anon-flint-ipv4
 pass: dnscry.pt-anon-frankfurt-ipv4
 pass: dnscry.pt-anon-frankfurt02-ipv4
+pass: dnscry.pt-anon-fremont02-ipv4
 pass: dnscry.pt-anon-fujairah-ipv4
 pass: dnscry.pt-anon-gdansk-ipv4
 pass: dnscry.pt-anon-geneva-ipv4
 pass: dnscry.pt-anon-grandrapids-ipv4
 pass: dnscry.pt-anon-guayaquil-ipv4
-pass: dnscry.pt-anon-hanoi-ipv4 (1 retry)
+pass: dnscry.pt-anon-hanoi-ipv4
 pass: dnscry.pt-anon-helsinki-ipv4
 pass: dnscry.pt-anon-hongkong-ipv4
 pass: dnscry.pt-anon-hongkong03-ipv4
