@@ -174,7 +174,6 @@ pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-auckland-ipv6
-pass: dnscry.pt-barcelona-ipv4
 pass: dnscry.pt-barcelona-ipv6
 pass: dnscry.pt-bengaluru-ipv4
 pass: dnscry.pt-bengaluru-ipv6
@@ -285,8 +284,6 @@ pass: dnscry.pt-libertylake-ipv6
 pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-lima02-ipv6
 pass: dnscry.pt-london-ipv4
-pass: dnscry.pt-london-ipv6
-pass: dnscry.pt-losangeles-ipv6
 pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-losangeles02-ipv6
 pass: dnscry.pt-luxembourg-ipv4
@@ -422,6 +419,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -433,7 +431,7 @@ pass: jp.tiar.app-doh-ipv6
 pass: jp.tiar.app-ipv6
 pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
-pass: jp1.vr.ekinao.com (1 retry)
+pass: jp1.vr.ekinao.com (2 retries)
 pass: jp1.vr.ekinao.com-ipv6
 pass: jp2.vr.ekinao.com
 pass: jp2.vr.ekinao.com-ipv6
@@ -502,7 +500,7 @@ pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: switch-ipv6
-pass: uncensoreddns-dk-ipv4 (1 retry)
+pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
