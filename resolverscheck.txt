@@ -431,7 +431,7 @@ pass: jp.tiar.app-doh-ipv6
 pass: jp.tiar.app-ipv6
 pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
-pass: jp1.vr.ekinao.com (2 retries)
+pass: jp1.vr.ekinao.com (1 retry)
 pass: jp1.vr.ekinao.com-ipv6
 pass: jp2.vr.ekinao.com
 pass: jp2.vr.ekinao.com-ipv6
