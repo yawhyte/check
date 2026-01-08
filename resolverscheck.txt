@@ -419,7 +419,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (1 retry)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -431,9 +430,7 @@ pass: jp.tiar.app-doh-ipv6
 pass: jp.tiar.app-ipv6
 pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
-pass: jp1.vr.ekinao.com (1 retry)
 pass: jp1.vr.ekinao.com-ipv6
-pass: jp2.vr.ekinao.com
 pass: jp2.vr.ekinao.com-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
