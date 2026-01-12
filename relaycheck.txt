@@ -12,10 +12,9 @@ pass: anon-cs-finland
 pass: anon-cs-fl
 pass: anon-cs-fr
 pass: anon-cs-ga
-pass: anon-cs-hungary
 pass: anon-cs-il
 pass: anon-cs-india
-pass: anon-cs-la (1 retry)
+pass: anon-cs-la
 pass: anon-cs-london
 pass: anon-cs-manchester
 pass: anon-cs-md
@@ -42,7 +41,7 @@ pass: anon-digitalprivacy.diy-ipv4
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-inconnu
-pass: anon-jp1.vr.ekinao.com
+pass: anon-jp1.vr.ekinao.com (3 retries)
 pass: anon-jp2.vr.ekinao.com
 pass: anon-kama
 pass: anon-saldns01-conoha-ipv4

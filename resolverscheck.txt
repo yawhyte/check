@@ -313,7 +313,6 @@ pass: dnscry.pt-lisbon02-ipv4
 pass: dnscry.pt-lisbon02-ipv6
 pass: dnscry.pt-ljubljana-ipv4
 pass: dnscry.pt-ljubljana-ipv6
-pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-london-ipv6
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles-ipv6
@@ -485,6 +484,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
