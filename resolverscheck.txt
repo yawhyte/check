@@ -304,7 +304,7 @@ pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
-pass: dnscry.pt-lima02-ipv4
+pass: dnscry.pt-lima02-ipv4 (1 retry)
 pass: dnscry.pt-lima02-ipv6
 pass: dnscry.pt-lisbon-ipv4
 pass: dnscry.pt-lisbon-ipv6
@@ -318,6 +318,7 @@ pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles-ipv6
 pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-losangeles02-ipv6
+pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-luxembourg-ipv6
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-madrid-ipv6
@@ -391,6 +392,7 @@ pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-saopaulo-ipv6
 pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seattle-ipv6
+pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul-ipv6
 pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-seoul02-ipv6
@@ -446,6 +448,7 @@ pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-vilnius-ipv6
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-warsaw02-ipv6
+pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-yerevan-ipv6
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
@@ -481,12 +484,11 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -514,10 +516,16 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: qihoo360-doh
