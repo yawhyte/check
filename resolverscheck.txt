@@ -262,7 +262,6 @@ pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
-pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-hochiminhcity-ipv6
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong-ipv6
@@ -400,7 +399,6 @@ pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-singapore-ipv6
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-singapore02-ipv6
-pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-spokane-ipv6
@@ -454,7 +452,6 @@ pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
 pass: dnscrypt.pl
 pass: dnscrypt.pl-guardian
-pass: dnscrypt.uk-ipv4
 pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
 pass: dnsforfamily-no-safe-search
@@ -568,7 +565,6 @@ pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
 pass: userspace-australia
 pass: userspace-australia-ipv6
-pass: v.dnscrypt.uk-ipv4
 pass: v.dnscrypt.uk-ipv6
 pass: wikimedia
 pass: yandex
