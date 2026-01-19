@@ -142,6 +142,8 @@ pass: cs-tx
 pass: cs-tx6
 pass: cs-vancouver
 pass: cs-vancouver6
+pass: dct-de
+pass: dct-fr
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -234,6 +236,7 @@ pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-eygelshoven-ipv6
+pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt-ipv6
@@ -347,7 +350,6 @@ pass: dnscry.pt-newcastle-ipv4
 pass: dnscry.pt-newcastle-ipv6
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-newyork-ipv6
-pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-nuremberg-ipv6
 pass: dnscry.pt-ogden-ipv4
 pass: dnscry.pt-ogden-ipv6
@@ -492,7 +494,7 @@ pass: jp.tiar.app-ipv6
 pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: jp1.vr.ekinao.com-ipv6
-pass: jp2.vr.ekinao.com (3 retries)
+pass: jp2.vr.ekinao.com
 pass: jp2.vr.ekinao.com-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
@@ -511,10 +513,16 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: qihoo360-doh
@@ -529,6 +537,7 @@ pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
