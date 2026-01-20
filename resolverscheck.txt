@@ -268,7 +268,7 @@ pass: dnscry.pt-hongkong-ipv6
 pass: dnscry.pt-hongkong02-ipv6
 pass: dnscry.pt-hongkong03-ipv4
 pass: dnscry.pt-hongkong03-ipv6
-pass: dnscry.pt-houston-ipv4
+pass: dnscry.pt-houston-ipv4 (1 retry)
 pass: dnscry.pt-houston-ipv6
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-hudiksvall-ipv6
@@ -350,6 +350,7 @@ pass: dnscry.pt-newcastle-ipv4
 pass: dnscry.pt-newcastle-ipv6
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-newyork-ipv6
+pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-nuremberg-ipv6
 pass: dnscry.pt-ogden-ipv4
 pass: dnscry.pt-ogden-ipv6
@@ -494,7 +495,7 @@ pass: jp.tiar.app-ipv6
 pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: jp1.vr.ekinao.com-ipv6
-pass: jp2.vr.ekinao.com
+pass: jp2.vr.ekinao.com (1 retry)
 pass: jp2.vr.ekinao.com-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
@@ -535,6 +536,7 @@ pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
+pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
