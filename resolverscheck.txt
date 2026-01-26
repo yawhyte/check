@@ -346,7 +346,6 @@ pass: dnscry.pt-mumbai02-ipv4
 pass: dnscry.pt-mumbai02-ipv6
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
-pass: dnscry.pt-newcastle-ipv4
 pass: dnscry.pt-newcastle-ipv6
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-newyork-ipv6
@@ -446,7 +445,6 @@ pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vienna-ipv6
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-vilnius-ipv6
-pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-warsaw02-ipv6
 pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-yerevan-ipv6
@@ -513,16 +511,10 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
-pass: plan9dns-fl
-pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
-pass: plan9dns-nj
-pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: qihoo360-doh
