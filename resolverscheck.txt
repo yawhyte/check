@@ -142,8 +142,6 @@ pass: cs-tx
 pass: cs-tx6
 pass: cs-vancouver
 pass: cs-vancouver6
-pass: dct-de
-pass: dct-fr
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -236,7 +234,6 @@ pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-eygelshoven-ipv6
-pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt-ipv6
@@ -320,7 +317,6 @@ pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-losangeles02-ipv6
 pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-luxembourg-ipv6
-pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-madrid-ipv6
 pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-manchester-ipv6
@@ -346,6 +342,7 @@ pass: dnscry.pt-mumbai02-ipv4
 pass: dnscry.pt-mumbai02-ipv6
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
+pass: dnscry.pt-newcastle-ipv4
 pass: dnscry.pt-newcastle-ipv6
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-newyork-ipv6
@@ -450,8 +447,6 @@ pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-yerevan-ipv6
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
-pass: dnscrypt.pl
-pass: dnscrypt.pl-guardian
 pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
 pass: dnsforfamily-no-safe-search
