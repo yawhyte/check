@@ -142,6 +142,8 @@ pass: cs-tx
 pass: cs-tx6
 pass: cs-vancouver
 pass: cs-vancouver6
+pass: dct-de
+pass: dct-fr
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -234,6 +236,7 @@ pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-eygelshoven-ipv6
+pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt-ipv6
@@ -317,6 +320,7 @@ pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-losangeles02-ipv6
 pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-luxembourg-ipv6
+pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-madrid-ipv6
 pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-manchester-ipv6
@@ -506,10 +510,16 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
+pass: plan9dns-nj
+pass: plan9dns-nj-doh
 pass: plan9dns-nj-doh-ipv6
 pass: plan9dns-nj.ipv6
 pass: qihoo360-doh
