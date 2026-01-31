@@ -471,7 +471,7 @@ pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
-pass: doh.ibksturm
+pass: doh.ibksturm (2 retries)
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -483,7 +483,6 @@ pass: fdn-ipv6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
