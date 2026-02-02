@@ -123,7 +123,6 @@ pass: cs-poland6
 pass: cs-pt
 pass: cs-pt6
 pass: cs-ro
-pass: cs-ro6
 pass: cs-sea
 pass: cs-sea6
 pass: cs-serbia
@@ -142,8 +141,6 @@ pass: cs-tx
 pass: cs-tx6
 pass: cs-vancouver
 pass: cs-vancouver6
-pass: dct-de
-pass: dct-fr
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -162,7 +159,6 @@ pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allendale-ipv6
-pass: dnscry.pt-allentown-ipv6
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam-ipv6
 pass: dnscry.pt-amsterdam02-ipv4
@@ -261,7 +257,6 @@ pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
-pass: dnscry.pt-hochiminhcity-ipv6
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-hongkong-ipv6
 pass: dnscry.pt-hongkong02-ipv6
@@ -297,7 +292,6 @@ pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv-ipv6
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-kyiv02-ipv6
-pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lagos-ipv6
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
@@ -339,14 +333,12 @@ pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-montreal-ipv6
 pass: dnscry.pt-moscow-ipv4
 pass: dnscry.pt-moscow-ipv6
-pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-mumbai-ipv6
 pass: dnscry.pt-mumbai02-ipv4
 pass: dnscry.pt-mumbai02-ipv6
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
 pass: dnscry.pt-newcastle-ipv4
-pass: dnscry.pt-newcastle-ipv6
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-newyork-ipv6
 pass: dnscry.pt-nuremberg-ipv4
@@ -445,12 +437,10 @@ pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vienna-ipv6
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-vilnius-ipv6
-pass: dnscry.pt-warsaw02-ipv6
 pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-yerevan-ipv6
 pass: dnscrypt.ca-ipv4
 pass: dnscrypt.ca-ipv4-doh
-pass: dnscrypt.uk-ipv6
 pass: dnsforfamily
 pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
