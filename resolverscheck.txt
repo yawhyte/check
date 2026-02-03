@@ -141,6 +141,8 @@ pass: cs-tx
 pass: cs-tx6
 pass: cs-vancouver
 pass: cs-vancouver6
+pass: dct-de
+pass: dct-fr
 pass: deffer-dns.au
 pass: digitalprivacy.diy-dnscrypt-ipv4
 pass: dns.digitale-gesellschaft.ch
@@ -292,6 +294,7 @@ pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv-ipv6
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-kyiv02-ipv6
+pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lagos-ipv6
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
@@ -333,6 +336,7 @@ pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-montreal-ipv6
 pass: dnscry.pt-moscow-ipv4
 pass: dnscry.pt-moscow-ipv6
+pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-mumbai-ipv6
 pass: dnscry.pt-mumbai02-ipv4
 pass: dnscry.pt-mumbai02-ipv6
@@ -472,7 +476,7 @@ pass: fdn-ipv6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -480,8 +484,6 @@ pass: jp.tiar.app-doh-ipv6
 pass: jp.tiar.app-ipv6
 pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
-pass: jp1.vr.ekinao.com-ipv6
-pass: jp2.vr.ekinao.com-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
 pass: libredns
@@ -552,7 +554,6 @@ pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
 pass: userspace-australia
 pass: userspace-australia-ipv6
-pass: v.dnscrypt.uk-ipv6
 pass: wikimedia
 pass: yandex
 pass: yandex-ipv6

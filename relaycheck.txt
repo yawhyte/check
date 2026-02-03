@@ -114,6 +114,7 @@ pass: dnscry.pt-anon-johannesburg02-ipv4
 pass: dnscry.pt-anon-johor-ipv4
 pass: dnscry.pt-anon-kansascity-ipv4
 pass: dnscry.pt-anon-kyiv-ipv4
+pass: dnscry.pt-anon-lagos-ipv4
 pass: dnscry.pt-anon-lasvegas-ipv4
 pass: dnscry.pt-anon-libertylake-ipv4
 pass: dnscry.pt-anon-lima02-ipv4
@@ -133,6 +134,7 @@ pass: dnscry.pt-anon-milan-ipv4
 pass: dnscry.pt-anon-molln-ipv4
 pass: dnscry.pt-anon-montreal-ipv4
 pass: dnscry.pt-anon-moscow-ipv4
+pass: dnscry.pt-anon-mumbai-ipv4
 pass: dnscry.pt-anon-mumbai02-ipv4
 pass: dnscry.pt-anon-munich-ipv4
 pass: dnscry.pt-anon-naaldwijk-ipv4
