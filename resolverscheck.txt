@@ -205,7 +205,6 @@ pass: dnscry.pt-capetown02-ipv4
 pass: dnscry.pt-capetown02-ipv6
 pass: dnscry.pt-chicago-ipv4
 pass: dnscry.pt-chicago-ipv6
-pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-chisinau-ipv6
 pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-copenhagen-ipv6
@@ -476,7 +475,7 @@ pass: fdn-ipv6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (1 retry)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
