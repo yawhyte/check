@@ -478,7 +478,7 @@ pass: fdn-ipv6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -544,7 +544,6 @@ pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
 pass: scaleway-fr-ipv6
-pass: searx-se-ipv4
 pass: searx-se-ipv6
 pass: serbica
 pass: sfw.scaleway-fr
