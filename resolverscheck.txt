@@ -227,6 +227,7 @@ pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf-ipv6
 pass: dnscry.pt-dusseldorf02-ipv6
 pass: dnscry.pt-dusseldorf03-ipv6
+pass: dnscry.pt-ebenecity-ipv4
 pass: dnscry.pt-ebenecity-ipv6
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
@@ -319,7 +320,7 @@ pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-madrid-ipv6
 pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-manchester-ipv6
-pass: dnscry.pt-manila-ipv4
+pass: dnscry.pt-manila-ipv4 (1 retry)
 pass: dnscry.pt-manila-ipv6
 pass: dnscry.pt-marseille-ipv4
 pass: dnscry.pt-marseille-ipv6
@@ -465,7 +466,7 @@ pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
-pass: doh.ibksturm
+pass: doh.ibksturm (3 retries)
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
