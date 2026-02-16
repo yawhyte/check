@@ -175,6 +175,7 @@ pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-auckland-ipv6
+pass: dnscry.pt-baku-ipv4
 pass: dnscry.pt-baku-ipv6
 pass: dnscry.pt-bangkok-ipv4
 pass: dnscry.pt-bangkok-ipv6
@@ -313,6 +314,7 @@ pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles-ipv6
 pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-losangeles02-ipv6
+pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-luxembourg-ipv6
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-madrid-ipv6
@@ -367,6 +369,7 @@ pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-portland-ipv6
 pass: dnscry.pt-prague-ipv4
 pass: dnscry.pt-prague-ipv6
+pass: dnscry.pt-queretaro-ipv4
 pass: dnscry.pt-queretaro-ipv6
 pass: dnscry.pt-redditch-ipv4
 pass: dnscry.pt-redditch-ipv6
@@ -463,7 +466,7 @@ pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
-pass: doh.ibksturm (1 retry)
+pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
