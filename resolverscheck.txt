@@ -477,6 +477,7 @@ pass: fdn-ipv6
 pass: google
 pass: google-ipv6
 pass: he
+pass: ibksturm (1 retry)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
