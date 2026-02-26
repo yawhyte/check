@@ -108,7 +108,7 @@ pass: cs-milan
 pass: cs-milan6
 pass: cs-montreal
 pass: cs-montreal6
-pass: cs-nl (1 retry)
+pass: cs-nl
 pass: cs-nl6
 pass: cs-norway
 pass: cs-norway6
@@ -374,7 +374,7 @@ pass: dnscry.pt-redditch-ipv4
 pass: dnscry.pt-redditch-ipv6
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-riga-ipv6
-pass: dnscry.pt-saltlakecity-ipv4 (2 retries)
+pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-saltlakecity-ipv6
 pass: dnscry.pt-sandefjord-ipv4
 pass: dnscry.pt-sandefjord-ipv6
@@ -465,7 +465,7 @@ pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
-pass: doh.ibksturm
+pass: doh.ibksturm (3 retries)
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -545,7 +545,7 @@ pass: scaleway-fr
 pass: scaleway-fr-ipv6
 pass: searx-se-ipv4
 pass: searx-se-ipv6
-pass: serbica (1 retry)
+pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: switch-ipv6
