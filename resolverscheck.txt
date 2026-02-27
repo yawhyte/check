@@ -55,6 +55,8 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
+pass: comodo-02 (2 retries)
+pass: comodo-02 (3 retries)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -156,7 +158,6 @@ pass: dns4eu
 pass: dns4eu-ipv6
 pass: dns4eu-protective
 pass: dns4eu-protective-ipv6
-pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allendale-ipv4
@@ -465,7 +466,7 @@ pass: doh.ffmuc.net
 pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
 pass: doh.ffmuc.net-v6-2
-pass: doh.ibksturm (3 retries)
+pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -477,7 +478,7 @@ pass: fdn-ipv6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (1 retry)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
