@@ -295,7 +295,7 @@ pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-kyiv02-ipv6
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lagos-ipv6
-pass: dnscry.pt-lasvegas-ipv4
+pass: dnscry.pt-lasvegas-ipv4 (1 retry)
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
@@ -476,7 +476,6 @@ pass: fdn-ipv6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (3 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
