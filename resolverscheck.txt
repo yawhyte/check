@@ -25,6 +25,7 @@ pass: bortzmeyer-ipv6
 pass: brahma-world
 pass: brahma-world-ipv6
 pass: cira-family
+pass: cira-family (1 retry)
 pass: cira-family-ipv6
 pass: cira-private
 pass: cira-private-ipv6
