@@ -137,6 +137,7 @@ pass: dnscry.pt-anon-munich-ipv4
 pass: dnscry.pt-anon-naaldwijk-ipv4
 pass: dnscry.pt-anon-newyork-ipv4
 pass: dnscry.pt-anon-nuremberg-ipv4
+pass: dnscry.pt-anon-ogden-ipv4
 pass: dnscry.pt-anon-oradea-ipv4
 pass: dnscry.pt-anon-ottoville-ipv4
 pass: dnscry.pt-anon-palermo-ipv4
