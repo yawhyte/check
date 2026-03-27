@@ -141,6 +141,8 @@ pass: cs-tx
 pass: cs-tx6
 pass: cs-vancouver
 pass: cs-vancouver6
+pass: dct-de
+pass: dct-fr
 pass: deffer-dns.au
 pass: dns.digitale-gesellschaft.ch
 pass: dns.digitale-gesellschaft.ch-ipv6
@@ -173,7 +175,6 @@ pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-auckland-ipv6
 pass: dnscry.pt-baku-ipv4
 pass: dnscry.pt-baku-ipv6
-pass: dnscry.pt-bangkok-ipv4
 pass: dnscry.pt-bangkok-ipv6
 pass: dnscry.pt-barcelona-ipv4
 pass: dnscry.pt-barcelona-ipv6
@@ -472,7 +473,7 @@ pass: fdn-ipv6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
+pass: ibksturm (2 retries)
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
