@@ -5,6 +5,7 @@ pass: adfilter-adl-ipv6
 pass: adfilter-per
 pass: adfilter-per-ipv6
 pass: adfilter-syd
+pass: adfilter-syd-ipv6
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-doh-ipv6
@@ -470,9 +471,7 @@ pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
-pass: doh.ffmuc.net-2
 pass: doh.ffmuc.net-v6
-pass: doh.ffmuc.net-v6-2
 pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
@@ -482,17 +481,17 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (3 retries)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiar.app-doh-ipv6
 pass: jp.tiar.app-ipv6
+pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
@@ -545,6 +544,11 @@ pass: restena-doh-ipv6
 pass: rethinkdns-doh
 pass: safesurfer
 pass: safesurfer-doh
+pass: safesurfer-doh-ipv6
+pass: safesurfer-doh-secondary-ipv4
+pass: safesurfer-doh-secondary-ipv6
+pass: saldns01-conoha-ipv4
+pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
