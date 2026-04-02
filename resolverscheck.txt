@@ -303,6 +303,7 @@ pass: dnscry.pt-kyiv02-ipv6
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lagos-ipv6
 pass: dnscry.pt-lasvegas-ipv4
+pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-lima02-ipv4
 pass: dnscry.pt-lima02-ipv6
 pass: dnscry.pt-lisbon-ipv4
@@ -466,11 +467,12 @@ pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
+pass: doh-crypto-sx (1 retry)
 pass: doh-crypto-sx-ipv6
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
-pass: doh.ibksturm (1 retry)
+pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -479,7 +481,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -532,6 +533,7 @@ pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
