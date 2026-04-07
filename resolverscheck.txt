@@ -146,6 +146,7 @@ pass: cs-tx6
 pass: cs-vancouver
 pass: cs-vancouver6
 pass: dct-de
+pass: dct-de2
 pass: dct-fr
 pass: deffer-dns.au
 pass: dns.digitale-gesellschaft.ch
@@ -548,6 +549,7 @@ pass: safesurfer-doh-ipv6
 pass: safesurfer-doh-secondary-ipv4
 pass: safesurfer-doh-secondary-ipv6
 pass: saldns01-conoha-ipv4
+pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-ams-ipv6

@@ -42,6 +42,7 @@ pass: anon-dnswarden-swiss
 pass: anon-inconnu
 pass: anon-kama
 pass: anon-saldns01-conoha-ipv4
+pass: anon-saldns02-conoha-ipv4
 pass: anon-saldns03-conoha-ipv4
 pass: anon-scaleway
 pass: anon-scaleway-ams
@@ -99,7 +100,7 @@ pass: dnscry.pt-anon-halifax-ipv4
 pass: dnscry.pt-anon-hanoi-ipv4
 pass: dnscry.pt-anon-helsinki-ipv4
 pass: dnscry.pt-anon-hongkong-ipv4
-pass: dnscry.pt-anon-hongkong02-ipv4 (3 retries)
+pass: dnscry.pt-anon-hongkong02-ipv4
 pass: dnscry.pt-anon-hongkong03-ipv4
 pass: dnscry.pt-anon-houston-ipv4
 pass: dnscry.pt-anon-hudiksvall-ipv4
