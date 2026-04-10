@@ -60,12 +60,6 @@ pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
 pass: comss.one
-pass: controld-block-malware
-pass: controld-block-malware-ad
-pass: controld-block-malware-ad-social
-pass: controld-family-friendly
-pass: controld-uncensored
-pass: controld-unfiltered
 pass: cs-austria
 pass: cs-austria6
 pass: cs-barcelona
@@ -163,7 +157,6 @@ pass: dns4eu-protective-ipv6
 pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
-pass: dnscry.pt-allendale-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam-ipv6
@@ -349,6 +342,7 @@ pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
 pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-naaldwijk-ipv6
+pass: dnscry.pt-newcastle-ipv4
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-newyork-ipv6
 pass: dnscry.pt-nuremberg-ipv4
@@ -443,7 +437,7 @@ pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vancouver-ipv6
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vienna-ipv6
-pass: dnscry.pt-vientiane-ipv4 (1 retry)
+pass: dnscry.pt-vientiane-ipv4
 pass: dnscry.pt-vientiane-ipv6
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-vilnius-ipv6
@@ -481,6 +475,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
