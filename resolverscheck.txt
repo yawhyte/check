@@ -60,6 +60,12 @@ pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
 pass: comss.one
+pass: controld-block-malware
+pass: controld-block-malware-ad
+pass: controld-block-malware-ad-social
+pass: controld-family-friendly
+pass: controld-uncensored
+pass: controld-unfiltered
 pass: cs-austria
 pass: cs-austria6
 pass: cs-barcelona
@@ -475,12 +481,10 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
