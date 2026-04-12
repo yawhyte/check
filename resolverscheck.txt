@@ -1,4 +1,5 @@
 pass: a-and-a
+pass: a-and-a (1 retry)
 pass: a-and-a-ipv6
 pass: adfilter-adl
 pass: adfilter-adl-ipv6
@@ -60,12 +61,6 @@ pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
 pass: comss.one
-pass: controld-block-malware
-pass: controld-block-malware-ad
-pass: controld-block-malware-ad-social
-pass: controld-family-friendly
-pass: controld-uncensored
-pass: controld-unfiltered
 pass: cs-austria
 pass: cs-austria6
 pass: cs-barcelona
