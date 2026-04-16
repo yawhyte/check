@@ -338,6 +338,7 @@ pass: dnscry.pt-molln-ipv4
 pass: dnscry.pt-molln-ipv6
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-montreal-ipv6
+pass: dnscry.pt-moscow-ipv4
 pass: dnscry.pt-moscow-ipv6
 pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-mumbai-ipv6
@@ -480,6 +481,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
