@@ -80,6 +80,7 @@ pass: dnscry.pt-anon-coventry-ipv4
 pass: dnscry.pt-anon-denver-ipv4
 pass: dnscry.pt-anon-detroit-ipv4
 pass: dnscry.pt-anon-dhaka-ipv4
+pass: dnscry.pt-anon-dublin-ipv4
 pass: dnscry.pt-anon-durham-ipv4
 pass: dnscry.pt-anon-dusseldorf-ipv4
 pass: dnscry.pt-anon-dusseldorf02-ipv4
@@ -123,7 +124,6 @@ pass: dnscry.pt-anon-lisbon-ipv4
 pass: dnscry.pt-anon-lisbon02-ipv4
 pass: dnscry.pt-anon-ljubljana-ipv4
 pass: dnscry.pt-anon-london-ipv4
-pass: dnscry.pt-anon-losangeles-ipv4
 pass: dnscry.pt-anon-losangeles02-ipv4
 pass: dnscry.pt-anon-luxembourg-ipv4
 pass: dnscry.pt-anon-madrid-ipv4
