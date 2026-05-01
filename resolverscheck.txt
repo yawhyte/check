@@ -43,8 +43,14 @@ pass: cisco-familyshield-ipv6
 pass: cisco-ipv6
 pass: cisco-ipv6-doh
 pass: cisco-sandbox
+pass: cleanbrowsing-adult
+pass: cleanbrowsing-adult-doh
 pass: cleanbrowsing-adult-ipv6
+pass: cleanbrowsing-family
+pass: cleanbrowsing-family-doh
 pass: cleanbrowsing-family-ipv6
+pass: cleanbrowsing-security
+pass: cleanbrowsing-security-doh
 pass: cleanbrowsing-security-ipv6
 pass: cloudflare
 pass: cloudflare-family
@@ -133,7 +139,6 @@ pass: cs-swe
 pass: cs-swe6
 pass: cs-sydney
 pass: cs-sydney6
-pass: cs-tokyo
 pass: cs-tokyo6
 pass: cs-tx
 pass: cs-tx6
@@ -161,6 +166,7 @@ pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allendale-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
+pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam-ipv6
 pass: dnscry.pt-amsterdam02-ipv4
 pass: dnscry.pt-amsterdam02-ipv6
@@ -301,7 +307,6 @@ pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-kyiv02-ipv6
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lagos-ipv6
-pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
@@ -470,11 +475,14 @@ pass: dnsforge.de-nofilter
 pass: dnsforge.de-nofilter-ipv6
 pass: dnslow.me
 pass: dnspod
+pass: doh-cleanbrowsing-adult
+pass: doh-cleanbrowsing-family
+pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
+pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -483,7 +491,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -538,7 +545,6 @@ pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
-pass: quad9-doh-ip4-port443-nofilter-pri (1 retry)
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
