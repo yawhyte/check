@@ -59,8 +59,6 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (1 retry)
-pass: comodo-02 (2 retries)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -135,7 +133,6 @@ pass: cs-serbia
 pass: cs-serbia6
 pass: cs-singapore
 pass: cs-singapore6
-pass: cs-sk
 pass: cs-sk6
 pass: cs-swe
 pass: cs-swe6
@@ -310,6 +307,7 @@ pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-kyiv02-ipv6
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lagos-ipv6
+pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
@@ -494,7 +492,6 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
