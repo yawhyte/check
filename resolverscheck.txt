@@ -59,6 +59,7 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
+pass: comodo-02 (2 retries)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -483,7 +484,7 @@ pass: doh-crypto-sx-ipv6
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
-pass: doh.ibksturm (1 retry)
+pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
