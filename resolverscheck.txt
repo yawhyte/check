@@ -5,7 +5,6 @@ pass: adfilter-adl-ipv6
 pass: adfilter-per
 pass: adfilter-per-ipv6
 pass: adfilter-syd
-pass: adfilter-syd-ipv6
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-doh-ipv6
@@ -22,8 +21,6 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
-pass: blahdns-de-doh
-pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
@@ -59,7 +56,6 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (2 retries)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -134,12 +130,11 @@ pass: cs-serbia
 pass: cs-serbia6
 pass: cs-singapore
 pass: cs-singapore6
-pass: cs-sk6
 pass: cs-swe
 pass: cs-swe6
 pass: cs-sydney
 pass: cs-sydney6
-pass: cs-tokyo
+pass: cs-tokyo (2 retries)
 pass: cs-tokyo6
 pass: cs-tx
 pass: cs-tx6
@@ -166,7 +161,6 @@ pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allendale-ipv6
 pass: dnscry.pt-allentown-ipv4
-pass: dnscry.pt-allentown-ipv6
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam-ipv6
 pass: dnscry.pt-amsterdam02-ipv4
@@ -376,6 +370,7 @@ pass: dnscry.pt-perth-ipv4
 pass: dnscry.pt-perth-ipv6
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-philadelphia-ipv6
+pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-phoenix-ipv6
 pass: dnscry.pt-portedwards-ipv4
 pass: dnscry.pt-portedwards-ipv6
@@ -493,6 +488,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
