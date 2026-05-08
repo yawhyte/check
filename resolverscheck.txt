@@ -57,6 +57,7 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
+pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -228,7 +229,6 @@ pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-durham-ipv6
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf-ipv6
-pass: dnscry.pt-dusseldorf02-ipv4
 pass: dnscry.pt-dusseldorf02-ipv6
 pass: dnscry.pt-dusseldorf03-ipv4
 pass: dnscry.pt-dusseldorf03-ipv6
@@ -467,6 +467,7 @@ pass: dnsforfamily-doh-no-safe-search
 pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
+pass: dnsforge.de (1 retry)
 pass: dnsforge.de-ipv6
 pass: dnsforge.de-nofilter
 pass: dnsforge.de-nofilter-ipv6
