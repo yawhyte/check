@@ -57,7 +57,6 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -489,6 +488,7 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
@@ -499,7 +499,6 @@ pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiar.app-doh-ipv6
 pass: jp.tiar.app-ipv6
-pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
