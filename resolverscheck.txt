@@ -1,10 +1,7 @@
 pass: a-and-a
 pass: a-and-a-ipv6
-pass: adfilter-adl
 pass: adfilter-adl-ipv6
-pass: adfilter-per
 pass: adfilter-per-ipv6
-pass: adfilter-syd
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-doh-ipv6
@@ -44,12 +41,14 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-adult-doh
+pass: cleanbrowsing-adult-doh (1 retry)
 pass: cleanbrowsing-adult-ipv6
 pass: cleanbrowsing-family
 pass: cleanbrowsing-family-doh
 pass: cleanbrowsing-family-ipv6
-pass: cleanbrowsing-security
+pass: cleanbrowsing-security (1 retry)
 pass: cleanbrowsing-security-doh
+pass: cleanbrowsing-security-doh (1 retry)
 pass: cleanbrowsing-security-ipv6
 pass: cloudflare
 pass: cloudflare-family
@@ -157,7 +156,6 @@ pass: dns4eu
 pass: dns4eu-ipv6
 pass: dns4eu-protective
 pass: dns4eu-protective-ipv6
-pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allendale-ipv6
@@ -192,7 +190,6 @@ pass: dnscry.pt-bratislava-ipv4
 pass: dnscry.pt-bratislava-ipv6
 pass: dnscry.pt-bremen-ipv4
 pass: dnscry.pt-bremen-ipv6
-pass: dnscry.pt-brisbane-ipv4
 pass: dnscry.pt-brisbane-ipv6
 pass: dnscry.pt-brussels-ipv4
 pass: dnscry.pt-brussels-ipv6
@@ -367,7 +364,6 @@ pass: dnscry.pt-palermo-ipv4
 pass: dnscry.pt-palermo-ipv6
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-paris-ipv6
-pass: dnscry.pt-perth-ipv4
 pass: dnscry.pt-perth-ipv6
 pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-philadelphia-ipv6
@@ -472,7 +468,7 @@ pass: dnsforge.de-nofilter
 pass: dnsforge.de-nofilter-ipv6
 pass: dnslow.me
 pass: dnspod
-pass: doh-cleanbrowsing-adult
+pass: doh-cleanbrowsing-adult (1 retry)
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
@@ -480,7 +476,7 @@ pass: doh-crypto-sx-ipv6
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
-pass: doh.ibksturm
+pass: doh.ibksturm (1 retry)
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
@@ -489,13 +485,13 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net (2 retries)
+pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
 pass: hlincore-dnscrypt-ipv6
-pass: ibksturm (1 retry)
+pass: ibksturm
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
@@ -542,9 +538,7 @@ pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
@@ -576,7 +570,6 @@ pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
-pass: userspace-australia
 pass: userspace-australia-ipv6
 pass: wikimedia
 pass: yandex
