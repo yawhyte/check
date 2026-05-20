@@ -156,6 +156,7 @@ pass: dns4eu
 pass: dns4eu-ipv6
 pass: dns4eu-protective
 pass: dns4eu-protective-ipv6
+pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allendale-ipv4
@@ -231,6 +232,7 @@ pass: dnscry.pt-dusseldorf02-ipv4
 pass: dnscry.pt-dusseldorf02-ipv6
 pass: dnscry.pt-dusseldorf03-ipv4
 pass: dnscry.pt-dusseldorf03-ipv6
+pass: dnscry.pt-ebenecity-ipv4
 pass: dnscry.pt-ebenecity-ipv6
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
@@ -477,8 +479,7 @@ pass: doh-crypto-sx-ipv6
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
-pass: doh.ibksturm
-pass: doh.tiar.app
+pass: doh.ibksturm (1 retry)
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: doh.tiarap.org-ipv6
@@ -486,19 +487,18 @@ pass: faelix-uk-ipv4
 pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
-pass: ffmuc.net
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
 pass: hlincore-dnscrypt-ipv6
 pass: ibksturm (2 retries)
+pass: ibksturm-6
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiar.app-doh-ipv6
 pass: jp.tiar.app-ipv6
-pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
