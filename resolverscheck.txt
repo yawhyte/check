@@ -73,7 +73,6 @@ pass: cs-belgium
 pass: cs-belgium6
 pass: cs-berlin
 pass: cs-berlin6
-pass: cs-brazil
 pass: cs-brazil6
 pass: cs-ch
 pass: cs-ch6
@@ -466,6 +465,7 @@ pass: dnsforfamily-doh-no-safe-search
 pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
+pass: dnsforge.de (1 retry)
 pass: dnsforge.de-ipv6
 pass: dnsforge.de-nofilter
 pass: dnsforge.de-nofilter-ipv6
@@ -479,7 +479,7 @@ pass: doh-crypto-sx-ipv6
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
-pass: doh.ibksturm (1 retry)
+pass: doh.ibksturm
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: doh.tiarap.org-ipv6
@@ -492,13 +492,13 @@ pass: google
 pass: google-ipv6
 pass: he
 pass: hlincore-dnscrypt-ipv6
-pass: ibksturm (2 retries)
 pass: ibksturm-6
 pass: iij
 pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiar.app-doh-ipv6
 pass: jp.tiar.app-ipv6
+pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
