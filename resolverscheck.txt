@@ -73,7 +73,6 @@ pass: cs-belgium
 pass: cs-belgium6
 pass: cs-berlin
 pass: cs-berlin6
-pass: cs-brazil6
 pass: cs-ch
 pass: cs-ch6
 pass: cs-czech
@@ -96,7 +95,6 @@ pass: cs-hungary
 pass: cs-hungary6
 pass: cs-il
 pass: cs-il6
-pass: cs-india6
 pass: cs-la
 pass: cs-la6
 pass: cs-london
@@ -158,8 +156,6 @@ pass: dns4eu-protective-ipv6
 pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
-pass: dnscry.pt-allendale-ipv4
-pass: dnscry.pt-allendale-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam-ipv6
@@ -213,7 +209,6 @@ pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-copenhagen-ipv6
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-coventry-ipv6
-pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-dallas-ipv6
 pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-denver-ipv6
@@ -231,7 +226,6 @@ pass: dnscry.pt-dusseldorf02-ipv4
 pass: dnscry.pt-dusseldorf02-ipv6
 pass: dnscry.pt-dusseldorf03-ipv4
 pass: dnscry.pt-dusseldorf03-ipv6
-pass: dnscry.pt-ebenecity-ipv4
 pass: dnscry.pt-ebenecity-ipv6
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
@@ -280,9 +274,7 @@ pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-indianapolis-ipv6
 pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-islamabad-ipv6
-pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
-pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-jakarta-ipv6
@@ -292,13 +284,11 @@ pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
 pass: dnscry.pt-johannesburg02-ipv4
 pass: dnscry.pt-johannesburg02-ipv6
-pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-johor-ipv6
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kansascity-ipv6
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv-ipv6
-pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-kyiv02-ipv6
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-lagos-ipv6
@@ -414,14 +404,12 @@ pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-stockholm02-ipv6
 pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-sydney02-ipv6
-pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-tampa-ipv6
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
-pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tbilisi-ipv6
 pass: dnscry.pt-telaviv-ipv4
 pass: dnscry.pt-telaviv-ipv6
@@ -465,7 +453,6 @@ pass: dnsforfamily-doh-no-safe-search
 pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
-pass: dnsforge.de (1 retry)
 pass: dnsforge.de-ipv6
 pass: dnsforge.de-nofilter
 pass: dnsforge.de-nofilter-ipv6
@@ -483,21 +470,16 @@ pass: doh.ibksturm
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: doh.tiarap.org-ipv6
-pass: faelix-uk-ipv4
-pass: faelix-uk-ipv6
 pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: hlincore-dnscrypt-ipv6
 pass: ibksturm-6
 pass: iij
-pass: jp.tiar.app
 pass: jp.tiar.app-doh
 pass: jp.tiar.app-doh-ipv6
-pass: jp.tiar.app-ipv6
 pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
@@ -549,7 +531,6 @@ pass: quad9-doh-ip6-port443-nofilter-pri
 pass: restena-doh-ipv4
 pass: restena-doh-ipv6
 pass: rethinkdns-doh
-pass: safesurfer
 pass: safesurfer-doh
 pass: safesurfer-doh-ipv6
 pass: safesurfer-doh-secondary-ipv4
