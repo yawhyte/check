@@ -226,6 +226,7 @@ pass: dnscry.pt-dusseldorf02-ipv4
 pass: dnscry.pt-dusseldorf02-ipv6
 pass: dnscry.pt-dusseldorf03-ipv4
 pass: dnscry.pt-dusseldorf03-ipv6
+pass: dnscry.pt-ebenecity-ipv4
 pass: dnscry.pt-ebenecity-ipv6
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
@@ -275,6 +276,7 @@ pass: dnscry.pt-indianapolis-ipv6
 pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-islamabad-ipv6
 pass: dnscry.pt-istanbul-ipv6
+pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-jakarta-ipv6
@@ -523,7 +525,9 @@ pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-pri
+pass: quad9-doh-ip4-port443-nofilter-pri (1 retry)
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
