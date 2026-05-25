@@ -57,7 +57,6 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -156,6 +155,8 @@ pass: dns4eu-protective-ipv6
 pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
+pass: dnscry.pt-allendale-ipv4
+pass: dnscry.pt-allendale-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam-ipv6
@@ -275,6 +276,7 @@ pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-indianapolis-ipv6
 pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-islamabad-ipv6
+pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
@@ -286,6 +288,7 @@ pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
 pass: dnscry.pt-johannesburg02-ipv4
 pass: dnscry.pt-johannesburg02-ipv6
+pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-johor-ipv6
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kansascity-ipv6
@@ -406,6 +409,7 @@ pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-stockholm02-ipv6
 pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-sydney02-ipv6
+pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
 pass: dnscry.pt-tampa-ipv4
@@ -556,6 +560,8 @@ pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
 pass: userspace-australia
 pass: userspace-australia-ipv6
+pass: vpsdns-za
+pass: vpsdns-za-doh
 pass: wikimedia
 pass: yandex
 pass: yandex-ipv6

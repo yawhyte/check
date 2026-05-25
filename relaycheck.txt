@@ -46,6 +46,7 @@ pass: anon-scaleway-ams
 pass: anon-scaleway2
 pass: anon-serbica
 pass: anon-tiarap
+pass: anon-vpsdns-za
 pass: dnscry.pt-anon-adelaide-ipv4
 pass: dnscry.pt-anon-allentown-ipv4
 pass: dnscry.pt-anon-amsterdam-ipv4
