@@ -21,8 +21,6 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
-pass: blahdns-de-doh
-pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
@@ -59,7 +57,6 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -103,7 +100,6 @@ pass: cs-london
 pass: cs-london6
 pass: cs-manchester
 pass: cs-manchester6
-pass: cs-md
 pass: cs-md6
 pass: cs-milan
 pass: cs-milan6
@@ -481,7 +477,6 @@ pass: doh.ibksturm
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: doh.tiarap.org-ipv6
-pass: dorriere-fr
 pass: fdn
 pass: fdn-ipv6
 pass: ffmuc.net-v6
