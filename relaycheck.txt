@@ -17,6 +17,7 @@ pass: anon-cs-il
 pass: anon-cs-la
 pass: anon-cs-london
 pass: anon-cs-manchester
+pass: anon-cs-md
 pass: anon-cs-milan
 pass: anon-cs-montreal
 pass: anon-cs-nl
@@ -34,7 +35,7 @@ pass: anon-cs-swe
 pass: anon-cs-sydney
 pass: anon-cs-tokyo
 pass: anon-cs-tx
-pass: anon-cs-vancouver (2 retries)
+pass: anon-cs-vancouver
 pass: anon-dnswarden-swiss
 pass: anon-inconnu
 pass: anon-kama
