@@ -59,7 +59,6 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -511,6 +510,8 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
+pass: plan9dns-fl
+pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
 pass: plan9dns-mx
