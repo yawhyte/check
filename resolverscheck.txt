@@ -18,11 +18,10 @@ pass: adguard-dns-unfiltered-doh
 pass: adguard-dns-unfiltered-doh-ipv6
 pass: adguard-dns-unfiltered-ipv6
 pass: alidns-doh
+pass: alidns-doh (1 retry)
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
-pass: blahdns-de-doh
-pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
@@ -59,13 +58,9 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
+pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
-pass: controld-block-malware
-pass: controld-block-malware-ad
-pass: controld-block-malware-ad-social
-pass: controld-family-friendly
-pass: controld-uncensored
-pass: controld-unfiltered
 pass: cs-austria
 pass: cs-austria6
 pass: cs-barcelona
@@ -139,7 +134,6 @@ pass: cs-tx
 pass: cs-tx6
 pass: cs-vancouver
 pass: cs-vancouver6
-pass: dct-de
 pass: dct-de2
 pass: dct-fr
 pass: deffer-dns.au
@@ -473,7 +467,6 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
 pass: doh.ibksturm
