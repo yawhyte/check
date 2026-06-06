@@ -235,7 +235,7 @@ pass: dnscry.pt-ebenecity-ipv4
 pass: dnscry.pt-ebenecity-ipv6
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
-pass: dnscry.pt-eygelshoven-ipv4
+pass: dnscry.pt-eygelshoven-ipv4 (3 retries)
 pass: dnscry.pt-eygelshoven-ipv6
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
@@ -464,6 +464,7 @@ pass: dnsforfamily-doh-no-safe-search
 pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
+pass: dnsforge.de (2 retries)
 pass: dnsforge.de-ipv6
 pass: dnsforge.de-nofilter
 pass: dnsforge.de-nofilter-ipv6
@@ -487,7 +488,7 @@ pass: fdn-ipv6
 pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
-pass: he
+pass: he (1 retry)
 pass: ibksturm-6
 pass: iij
 pass: jp.tiar.app-doh
@@ -556,6 +557,7 @@ pass: scaleway-fr
 pass: scaleway-fr-ipv6
 pass: searx-se-ipv4
 pass: searx-se-ipv6
+pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: switch-ipv6
