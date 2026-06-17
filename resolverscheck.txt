@@ -59,7 +59,6 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -124,7 +123,6 @@ pass: cs-poland6
 pass: cs-pt
 pass: cs-pt6
 pass: cs-ro
-pass: cs-sea
 pass: cs-sea6
 pass: cs-serbia
 pass: cs-serbia6
@@ -158,7 +156,6 @@ pass: dns4eu-protective-ipv6
 pass: dnsbunker
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
-pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allendale-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
@@ -223,7 +220,6 @@ pass: dnscry.pt-dhaka-ipv4
 pass: dnscry.pt-dhaka-ipv6
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-dublin-ipv6
-pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-durham-ipv6
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf-ipv6
@@ -492,8 +488,8 @@ pass: google-ipv6
 pass: he
 pass: ibksturm-6
 pass: iij
+pass: jp.tiar.app-doh
 pass: jp.tiar.app-doh-ipv6
-pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
@@ -533,12 +529,9 @@ pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
-pass: quad9-doh-ip4-port443-nofilter-pri (1 retry)
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
@@ -563,7 +556,7 @@ pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: switch-ipv6
-pass: uncensoreddns-dk-ipv4 (1 retry)
+pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
