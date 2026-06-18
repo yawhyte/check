@@ -47,6 +47,7 @@ pass: anon-scaleway2
 pass: anon-serbica
 pass: anon-tiarap
 pass: dnscry.pt-anon-adelaide-ipv4
+pass: dnscry.pt-anon-allendale-ipv4
 pass: dnscry.pt-anon-allentown-ipv4
 pass: dnscry.pt-anon-amsterdam-ipv4
 pass: dnscry.pt-anon-amsterdam02-ipv4
@@ -78,6 +79,7 @@ pass: dnscry.pt-anon-denver-ipv4
 pass: dnscry.pt-anon-detroit-ipv4
 pass: dnscry.pt-anon-dhaka-ipv4
 pass: dnscry.pt-anon-dublin-ipv4
+pass: dnscry.pt-anon-durham-ipv4
 pass: dnscry.pt-anon-dusseldorf-ipv4
 pass: dnscry.pt-anon-dusseldorf02-ipv4
 pass: dnscry.pt-anon-dusseldorf03-ipv4
