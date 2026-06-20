@@ -175,6 +175,7 @@ pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-auckland-ipv6
+pass: dnscry.pt-baku-ipv4
 pass: dnscry.pt-baku-ipv6
 pass: dnscry.pt-bangkok-ipv4
 pass: dnscry.pt-bangkok-ipv6
@@ -319,6 +320,7 @@ pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles-ipv6
 pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-losangeles02-ipv6
+pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-luxembourg-ipv6
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-madrid-ipv6
@@ -376,6 +378,7 @@ pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-portland-ipv6
 pass: dnscry.pt-prague-ipv4
 pass: dnscry.pt-prague-ipv6
+pass: dnscry.pt-queretaro-ipv4
 pass: dnscry.pt-queretaro-ipv6
 pass: dnscry.pt-redditch-ipv4
 pass: dnscry.pt-redditch-ipv6
@@ -393,6 +396,7 @@ pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-saopaulo-ipv6
 pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seattle-ipv6
+pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul-ipv6
 pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-seoul02-ipv6
@@ -420,6 +424,7 @@ pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tbilisi-ipv6
+pass: dnscry.pt-telaviv-ipv4
 pass: dnscry.pt-telaviv-ipv6
 pass: dnscry.pt-thessaloniki-ipv4
 pass: dnscry.pt-thessaloniki-ipv6
@@ -449,6 +454,7 @@ pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-vilnius-ipv6
 pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-warsaw-ipv6
+pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-yerevan-ipv6
 pass: dnscry.pt-zurich-ipv4
 pass: dnscry.pt-zurich-ipv6
@@ -460,13 +466,11 @@ pass: dnsforfamily-doh-no-safe-search
 pass: dnsforfamily-no-safe-search
 pass: dnsforfamily-v6
 pass: dnsforge.de
-pass: dnsforge.de (1 retry)
 pass: dnsforge.de-ipv6
 pass: dnsforge.de-nofilter
 pass: dnsforge.de-nofilter-ipv6
 pass: dnslow.me
 pass: dnspod
-pass: dnspod (1 retry)
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
@@ -488,7 +492,6 @@ pass: google-ipv6
 pass: he
 pass: ibksturm-6
 pass: iij
-pass: jp.tiar.app-doh
 pass: jp.tiar.app-doh-ipv6
 pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
@@ -531,9 +534,7 @@ pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
