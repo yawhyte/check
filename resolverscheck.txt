@@ -170,7 +170,6 @@ pass: dnscry.pt-amsterdam03-ipv4
 pass: dnscry.pt-amsterdam03-ipv6
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-ashburn-ipv6
-pass: dnscry.pt-athens-ipv6
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-auckland-ipv4
@@ -471,6 +470,7 @@ pass: dnsforge.de-nofilter
 pass: dnsforge.de-nofilter-ipv6
 pass: dnslow.me
 pass: dnspod
+pass: dnspod (1 retry)
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
@@ -490,7 +490,6 @@ pass: ffmuc.net-v6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm-6
 pass: iij
 pass: jp.tiar.app-doh-ipv6
 pass: jp.tiarap.org
@@ -565,7 +564,6 @@ pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
-pass: userspace-australia-ipv6
 pass: wikimedia
 pass: yandex
 pass: yandex-ipv6
