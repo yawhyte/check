@@ -27,8 +27,8 @@ pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
 pass: brahma-world-ipv6
-pass: cipherdns-jb1-doh-za
-pass: cipherdns-jb1-za
+pass: cipherdns-ct1-doh-za
+pass: cipherdns-ct1-za
 pass: cira-family
 pass: cira-family-ipv6
 pass: cira-private
@@ -470,13 +470,12 @@ pass: dnsforge.de-nofilter
 pass: dnsforge.de-nofilter-ipv6
 pass: dnslow.me
 pass: dnspod
-pass: dnspod (1 retry)
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh.appliedprivacy.net
+pass: doh.appliedprivacy.net (1 retry)
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
 pass: doh.ibksturm
@@ -491,6 +490,7 @@ pass: google
 pass: google-ipv6
 pass: he
 pass: iij
+pass: jp.tiar.app-doh
 pass: jp.tiar.app-doh-ipv6
 pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
@@ -554,7 +554,6 @@ pass: scaleway-ams
 pass: scaleway-ams-ipv6
 pass: scaleway-fr
 pass: scaleway-fr-ipv6
-pass: searx-se-ipv4
 pass: searx-se-ipv6
 pass: serbica
 pass: sfw.scaleway-fr
