@@ -30,7 +30,6 @@ pass: brahma-world-ipv6
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
 pass: cipherdns-jb1-doh-za
-pass: cipherdns-jb1-za
 pass: cira-family
 pass: cira-family-ipv6
 pass: cira-private
@@ -184,7 +183,6 @@ pass: dnscry.pt-barcelona-ipv4
 pass: dnscry.pt-barcelona-ipv6
 pass: dnscry.pt-bengaluru-ipv4
 pass: dnscry.pt-bengaluru-ipv6
-pass: dnscry.pt-berkeleysprings-ipv4
 pass: dnscry.pt-berkeleysprings-ipv6
 pass: dnscry.pt-bogota-ipv4
 pass: dnscry.pt-bogota-ipv6
@@ -218,7 +216,7 @@ pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-dallas-ipv6
 pass: dnscry.pt-denver-ipv4
 pass: dnscry.pt-denver-ipv6
-pass: dnscry.pt-detroit-ipv4
+pass: dnscry.pt-detroit-ipv4 (2 retries)
 pass: dnscry.pt-detroit-ipv6
 pass: dnscry.pt-dhaka-ipv4
 pass: dnscry.pt-dhaka-ipv6
@@ -449,7 +447,7 @@ pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vienna-ipv6
 pass: dnscry.pt-vientiane-ipv4
 pass: dnscry.pt-vientiane-ipv6
-pass: dnscry.pt-vilnius-ipv4 (1 retry)
+pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-vilnius-ipv6
 pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-warsaw-ipv6
@@ -490,7 +488,6 @@ pass: google
 pass: google-ipv6
 pass: he
 pass: iij
-pass: jp.tiar.app-doh
 pass: jp.tiar.app-doh-ipv6
 pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
