@@ -61,7 +61,6 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -418,7 +417,6 @@ pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-tampa-ipv6
-pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tbilisi-ipv6
@@ -491,7 +489,6 @@ pass: he
 pass: iij
 pass: jp.tiar.app-doh
 pass: jp.tiar.app-doh-ipv6
-pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
@@ -555,6 +552,7 @@ pass: scaleway-fr
 pass: scaleway-fr-ipv6
 pass: searx-se-ipv4
 pass: searx-se-ipv6
+pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: switch-ipv6
