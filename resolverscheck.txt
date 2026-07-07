@@ -21,6 +21,8 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
+pass: blahdns-de-doh
+pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: brahma-world
@@ -28,6 +30,7 @@ pass: brahma-world-ipv6
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
 pass: cipherdns-jb1-doh-za
+pass: cipherdns-jb1-za
 pass: cira-family
 pass: cira-family-ipv6
 pass: cira-private
@@ -268,6 +271,7 @@ pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-indianapolis-ipv6
 pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-islamabad-ipv6
+pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
@@ -279,6 +283,7 @@ pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
 pass: dnscry.pt-johannesburg02-ipv4
 pass: dnscry.pt-johannesburg02-ipv6
+pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-johor-ipv6
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kansascity-ipv6
@@ -442,6 +447,7 @@ pass: dnsforge.de
 pass: dnsforge.de-ipv6
 pass: dnsforge.de-nofilter
 pass: dnsforge.de-nofilter-ipv6
+pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
 pass: doh-cleanbrowsing-adult
@@ -449,7 +455,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh.appliedprivacy.net
+pass: doh.appliedprivacy.net (1 retry)
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
 pass: doh.ibksturm
@@ -469,6 +475,7 @@ pass: jp.tiarap.org
 pass: jp.tiarap.org-ipv6
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
+pass: la-contre-voie
 pass: libredns
 pass: libredns-noads
 pass: mullvad-adblock-doh
