@@ -30,6 +30,7 @@ pass: brahma-world-ipv6
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
 pass: cipherdns-jb1-doh-za
+pass: cipherdns-jb1-za
 pass: cira-family
 pass: cira-family-ipv6
 pass: cira-private
@@ -288,7 +289,7 @@ pass: dnscry.pt-kansascity-ipv6
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv-ipv6
 pass: dnscry.pt-kyiv02-ipv6
-pass: dnscry.pt-lasvegas-ipv4 (1 retry)
+pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
@@ -495,6 +496,8 @@ pass: nic.cz
 pass: nic.cz-ipv6
 pass: njalla-doh
 pass: nwps.fi
+pass: olilo-doh
+pass: olilo-doh-ipv6
 pass: plan9dns-fl
 pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
