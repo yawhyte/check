@@ -25,7 +25,6 @@ pass: blahdns-de-doh
 pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
-pass: brahma-world
 pass: brahma-world-ipv6
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
@@ -62,6 +61,7 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
+pass: comodo-02 (3 retries)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -271,6 +271,7 @@ pass: dnscry.pt-doh-chisinau-ipv4
 pass: dnscry.pt-doh-chisinau-ipv6
 pass: dnscry.pt-doh-copenhagen-ipv4
 pass: dnscry.pt-doh-copenhagen-ipv6
+pass: dnscry.pt-doh-coventry-ipv4
 pass: dnscry.pt-doh-coventry-ipv6
 pass: dnscry.pt-doh-dallas-ipv4
 pass: dnscry.pt-doh-dallas-ipv6
@@ -666,7 +667,7 @@ pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-singapore02-ipv6
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
-pass: dnscry.pt-spokane-ipv4 (2 retries)
+pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-spokane-ipv6
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
@@ -790,7 +791,7 @@ pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
 pass: plan9dns-nj
 pass: plan9dns-nj.ipv6
-pass: qihoo360-doh (1 retry)
+pass: qihoo360-doh
 pass: quad9-dnscrypt-ip4-filter-ecs-pri
 pass: quad9-dnscrypt-ip4-filter-pri
 pass: quad9-dnscrypt-ip4-nofilter-ecs-pri
