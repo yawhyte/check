@@ -175,7 +175,6 @@ pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-auckland-ipv6
-pass: dnscry.pt-baku-ipv4
 pass: dnscry.pt-baku-ipv6
 pass: dnscry.pt-bangkok-ipv4
 pass: dnscry.pt-bangkok-ipv6
@@ -189,7 +188,6 @@ pass: dnscry.pt-bremen-ipv4
 pass: dnscry.pt-bremen-ipv6
 pass: dnscry.pt-brisbane-ipv4
 pass: dnscry.pt-brisbane-ipv6
-pass: dnscry.pt-brussels-ipv4
 pass: dnscry.pt-brussels-ipv6
 pass: dnscry.pt-bucharest-ipv4
 pass: dnscry.pt-bucharest-ipv6
@@ -235,7 +233,6 @@ pass: dnscry.pt-doh-atlanta-ipv4
 pass: dnscry.pt-doh-atlanta-ipv6
 pass: dnscry.pt-doh-auckland-ipv4
 pass: dnscry.pt-doh-auckland-ipv6
-pass: dnscry.pt-doh-baku-ipv4
 pass: dnscry.pt-doh-baku-ipv6
 pass: dnscry.pt-doh-bangkok-ipv4
 pass: dnscry.pt-doh-bangkok-ipv6
@@ -249,7 +246,6 @@ pass: dnscry.pt-doh-bremen-ipv4
 pass: dnscry.pt-doh-bremen-ipv6
 pass: dnscry.pt-doh-brisbane-ipv4
 pass: dnscry.pt-doh-brisbane-ipv6
-pass: dnscry.pt-doh-brussels-ipv4
 pass: dnscry.pt-doh-brussels-ipv6
 pass: dnscry.pt-doh-bucharest-ipv4
 pass: dnscry.pt-doh-bucharest-ipv6
@@ -366,7 +362,6 @@ pass: dnscry.pt-doh-losangeles-ipv4
 pass: dnscry.pt-doh-losangeles-ipv6
 pass: dnscry.pt-doh-losangeles02-ipv4
 pass: dnscry.pt-doh-losangeles02-ipv6
-pass: dnscry.pt-doh-luxembourg-ipv4
 pass: dnscry.pt-doh-luxembourg-ipv6
 pass: dnscry.pt-doh-madrid-ipv4
 pass: dnscry.pt-doh-madrid-ipv6
@@ -417,7 +412,6 @@ pass: dnscry.pt-doh-portland-ipv4
 pass: dnscry.pt-doh-portland-ipv6
 pass: dnscry.pt-doh-prague-ipv4
 pass: dnscry.pt-doh-prague-ipv6
-pass: dnscry.pt-doh-queretaro-ipv4
 pass: dnscry.pt-doh-queretaro-ipv6
 pass: dnscry.pt-doh-redditch-ipv4
 pass: dnscry.pt-doh-redditch-ipv6
@@ -433,7 +427,6 @@ pass: dnscry.pt-doh-santaclara-ipv4
 pass: dnscry.pt-doh-santaclara-ipv6
 pass: dnscry.pt-doh-seattle-ipv4
 pass: dnscry.pt-doh-seattle-ipv6
-pass: dnscry.pt-doh-seoul-ipv4
 pass: dnscry.pt-doh-seoul-ipv6
 pass: dnscry.pt-doh-seoul02-ipv4
 pass: dnscry.pt-doh-seoul02-ipv6
@@ -461,7 +454,6 @@ pass: dnscry.pt-doh-taos-ipv4
 pass: dnscry.pt-doh-taos-ipv6
 pass: dnscry.pt-doh-tbilisi-ipv4
 pass: dnscry.pt-doh-tbilisi-ipv6
-pass: dnscry.pt-doh-telaviv-ipv4
 pass: dnscry.pt-doh-telaviv-ipv6
 pass: dnscry.pt-doh-thessaloniki-ipv4
 pass: dnscry.pt-doh-thessaloniki-ipv6
@@ -489,7 +481,6 @@ pass: dnscry.pt-doh-vilnius-ipv4
 pass: dnscry.pt-doh-vilnius-ipv6
 pass: dnscry.pt-doh-warsaw-ipv4
 pass: dnscry.pt-doh-warsaw-ipv6
-pass: dnscry.pt-doh-yerevan-ipv4
 pass: dnscry.pt-doh-yerevan-ipv6
 pass: dnscry.pt-doh-zurich-ipv4
 pass: dnscry.pt-doh-zurich-ipv6
@@ -581,7 +572,6 @@ pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-losangeles-ipv6
 pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-losangeles02-ipv6
-pass: dnscry.pt-luxembourg-ipv4
 pass: dnscry.pt-luxembourg-ipv6
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-madrid-ipv6
@@ -635,7 +625,6 @@ pass: dnscry.pt-portland-ipv4
 pass: dnscry.pt-portland-ipv6
 pass: dnscry.pt-prague-ipv4
 pass: dnscry.pt-prague-ipv6
-pass: dnscry.pt-queretaro-ipv4
 pass: dnscry.pt-queretaro-ipv6
 pass: dnscry.pt-redditch-ipv4
 pass: dnscry.pt-redditch-ipv6
@@ -651,7 +640,6 @@ pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-santaclara-ipv6
 pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seattle-ipv6
-pass: dnscry.pt-seoul-ipv4
 pass: dnscry.pt-seoul-ipv6
 pass: dnscry.pt-seoul02-ipv4
 pass: dnscry.pt-seoul02-ipv6
@@ -679,7 +667,6 @@ pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tbilisi-ipv6
-pass: dnscry.pt-telaviv-ipv4
 pass: dnscry.pt-telaviv-ipv6
 pass: dnscry.pt-thessaloniki-ipv4
 pass: dnscry.pt-thessaloniki-ipv6
@@ -707,7 +694,6 @@ pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-vilnius-ipv6
 pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-warsaw-ipv6
-pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-yerevan-ipv6
 pass: dnscry.pt-zurich-ipv4
 pass: dnscry.pt-zurich-ipv6
@@ -730,6 +716,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
+pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
 pass: doh.ibksturm
@@ -741,7 +728,6 @@ pass: fdn
 pass: fdn-ipv6
 pass: google
 pass: google-ipv6
-pass: he
 pass: ibksturm
 pass: iij
 pass: jp.tiar.app-doh
@@ -795,6 +781,7 @@ pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
@@ -821,7 +808,7 @@ pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: switch-ipv6
-pass: uncensoreddns-dk-ipv4
+pass: uncensoreddns-dk-ipv4 (1 retry)
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
