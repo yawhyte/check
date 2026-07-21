@@ -21,14 +21,10 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
-pass: blahdns-de-doh
-pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
-pass: cipherdns-jb1-doh-za
-pass: cipherdns-jb1-za
 pass: cira-family
 pass: cira-family-ipv6
 pass: cira-private
@@ -281,7 +277,6 @@ pass: dnscry.pt-doh-dusseldorf02-ipv4
 pass: dnscry.pt-doh-dusseldorf02-ipv6
 pass: dnscry.pt-doh-dusseldorf03-ipv4
 pass: dnscry.pt-doh-dusseldorf03-ipv6
-pass: dnscry.pt-doh-ebenecity-ipv4
 pass: dnscry.pt-doh-ebenecity-ipv6
 pass: dnscry.pt-doh-ebenecity02-ipv4
 pass: dnscry.pt-doh-ebenecity02-ipv6
@@ -491,11 +486,10 @@ pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf-ipv6
 pass: dnscry.pt-dusseldorf02-ipv6
 pass: dnscry.pt-dusseldorf03-ipv6
-pass: dnscry.pt-ebenecity-ipv4
 pass: dnscry.pt-ebenecity-ipv6
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
-pass: dnscry.pt-eygelshoven-ipv4 (1 retry)
+pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-eygelshoven-ipv6
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
@@ -517,7 +511,7 @@ pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-halifax-ipv6
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
-pass: dnscry.pt-helsinki-ipv4
+pass: dnscry.pt-helsinki-ipv4 (1 retry)
 pass: dnscry.pt-helsinki-ipv6
 pass: dnscry.pt-hochiminhcity-ipv6
 pass: dnscry.pt-hongkong-ipv4
@@ -553,7 +547,7 @@ pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kansascity-ipv6
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv-ipv6
-pass: dnscry.pt-kyiv02-ipv4
+pass: dnscry.pt-kyiv02-ipv4 (1 retry)
 pass: dnscry.pt-kyiv02-ipv6
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
@@ -714,7 +708,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh.appliedprivacy.net (1 retry)
+pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
 pass: doh.ibksturm
