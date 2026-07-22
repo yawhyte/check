@@ -21,10 +21,14 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
+pass: blahdns-de-doh
+pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: cipherdns-ct1-doh-za
 pass: cipherdns-ct1-za
+pass: cipherdns-jb1-doh-za
+pass: cipherdns-jb1-za
 pass: cira-family
 pass: cira-family-ipv6
 pass: cira-private
@@ -511,7 +515,7 @@ pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-halifax-ipv6
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-hanoi-ipv6
-pass: dnscry.pt-helsinki-ipv4 (1 retry)
+pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-helsinki-ipv6
 pass: dnscry.pt-hochiminhcity-ipv6
 pass: dnscry.pt-hongkong-ipv4
@@ -547,7 +551,7 @@ pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kansascity-ipv6
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv-ipv6
-pass: dnscry.pt-kyiv02-ipv4 (1 retry)
+pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-kyiv02-ipv6
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
@@ -641,7 +645,7 @@ pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-singapore02-ipv6
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
-pass: dnscry.pt-spokane-ipv4
+pass: dnscry.pt-spokane-ipv4 (1 retry)
 pass: dnscry.pt-spokane-ipv6
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
@@ -720,7 +724,6 @@ pass: fdn
 pass: fdn-ipv6
 pass: google
 pass: google-ipv6
-pass: he
 pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
@@ -770,7 +773,7 @@ pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
