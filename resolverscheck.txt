@@ -1,4 +1,5 @@
 pass: a-and-a
+pass: a-and-a (1 retry)
 pass: a-and-a-ipv6
 pass: adfilter-adl
 pass: adfilter-adl-ipv6
@@ -60,7 +61,6 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -755,7 +755,6 @@ pass: nwps.fi
 pass: olilo-doh
 pass: olilo-doh-ipv6
 pass: plan9dns-fl
-pass: plan9dns-fl-doh
 pass: plan9dns-fl-doh-ipv6
 pass: plan9dns-fl-ipv6
 pass: plan9dns-mx
@@ -801,7 +800,6 @@ pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: switch-ipv6
-pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
