@@ -21,6 +21,8 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
+pass: blahdns-de-doh
+pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: cipherdns-ct1-doh-za
@@ -58,7 +60,6 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -709,7 +710,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh.appliedprivacy.net
+pass: doh.appliedprivacy.net (1 retry)
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
 pass: doh.ibksturm
@@ -721,7 +722,7 @@ pass: fdn
 pass: fdn-ipv6
 pass: google
 pass: google-ipv6
-pass: he (1 retry)
+pass: he
 pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
@@ -771,7 +772,6 @@ pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
-pass: quad9-doh-ip4-port443-nofilter-pri (1 retry)
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
