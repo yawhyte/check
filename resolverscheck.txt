@@ -44,14 +44,8 @@ pass: cisco-familyshield-ipv6
 pass: cisco-ipv6
 pass: cisco-ipv6-doh
 pass: cisco-sandbox
-pass: cleanbrowsing-adult
-pass: cleanbrowsing-adult-doh
 pass: cleanbrowsing-adult-ipv6
-pass: cleanbrowsing-family
-pass: cleanbrowsing-family-doh
 pass: cleanbrowsing-family-ipv6
-pass: cleanbrowsing-security
-pass: cleanbrowsing-security-doh
 pass: cleanbrowsing-security-ipv6
 pass: cloudflare
 pass: cloudflare-family
@@ -60,6 +54,7 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -351,7 +346,7 @@ pass: dnscry.pt-doh-libertylake-ipv4
 pass: dnscry.pt-doh-libertylake-ipv6
 pass: dnscry.pt-doh-lisbon-ipv4
 pass: dnscry.pt-doh-lisbon-ipv6
-pass: dnscry.pt-doh-lisbon02-ipv4
+pass: dnscry.pt-doh-lisbon02-ipv4 (1 retry)
 pass: dnscry.pt-doh-lisbon02-ipv6
 pass: dnscry.pt-doh-london-ipv4
 pass: dnscry.pt-doh-london-ipv6
@@ -363,7 +358,6 @@ pass: dnscry.pt-doh-madrid-ipv4
 pass: dnscry.pt-doh-madrid-ipv6
 pass: dnscry.pt-doh-manchester-ipv4
 pass: dnscry.pt-doh-manchester-ipv6
-pass: dnscry.pt-doh-manila-ipv4
 pass: dnscry.pt-doh-manila-ipv6
 pass: dnscry.pt-doh-marseille-ipv4
 pass: dnscry.pt-doh-marseille-ipv6
@@ -430,7 +424,7 @@ pass: dnscry.pt-doh-singapore02-ipv4
 pass: dnscry.pt-doh-singapore02-ipv6
 pass: dnscry.pt-doh-sofia-ipv4
 pass: dnscry.pt-doh-sofia-ipv6
-pass: dnscry.pt-doh-spokane-ipv4
+pass: dnscry.pt-doh-spokane-ipv4 (1 retry)
 pass: dnscry.pt-doh-spokane-ipv6
 pass: dnscry.pt-doh-stockholm-ipv4
 pass: dnscry.pt-doh-stockholm-ipv6
@@ -570,7 +564,6 @@ pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-madrid-ipv6
 pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-manchester-ipv6
-pass: dnscry.pt-manila-ipv4
 pass: dnscry.pt-manila-ipv6
 pass: dnscry.pt-marseille-ipv4
 pass: dnscry.pt-marseille-ipv6
@@ -608,7 +601,6 @@ pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-paris-ipv6
 pass: dnscry.pt-perth-ipv4
 pass: dnscry.pt-perth-ipv6
-pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-philadelphia-ipv6
 pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-phoenix-ipv6
@@ -642,6 +634,7 @@ pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-singapore02-ipv6
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
+pass: dnscry.pt-spokane-ipv4 (1 retry)
 pass: dnscry.pt-spokane-ipv6
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
@@ -704,9 +697,6 @@ pass: dnsforge.de-nofilter-ipv6
 pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
-pass: doh-cleanbrowsing-adult
-pass: doh-cleanbrowsing-family
-pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh.appliedprivacy.net
