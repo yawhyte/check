@@ -21,6 +21,8 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
+pass: blahdns-de-doh
+pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: cipherdns-ct1-doh-za
@@ -699,6 +701,7 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
+pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
 pass: doh.ibksturm
@@ -718,18 +721,6 @@ pass: ksol.io-ns2-dnscrypt-ipv6
 pass: la-contre-voie
 pass: libredns
 pass: libredns-noads
-pass: mullvad-adblock-doh
-pass: mullvad-adblock-doh-ipv6
-pass: mullvad-all-doh
-pass: mullvad-all-doh-ipv6
-pass: mullvad-base-doh
-pass: mullvad-base-doh-ipv6
-pass: mullvad-doh
-pass: mullvad-doh-ipv6
-pass: mullvad-extend-doh
-pass: mullvad-extend-doh-ipv6
-pass: mullvad-family-doh
-pass: mullvad-family-doh-ipv6
 pass: nextdns
 pass: nextdns-ipv6
 pass: nextdns-ultralow
@@ -757,11 +748,11 @@ pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-pri
-pass: quad9-doh-ip4-port443-nofilter-pri (1 retry)
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
