@@ -35,7 +35,7 @@ pass: cira-private
 pass: cira-private-ipv6
 pass: cira-protected
 pass: cira-protected-ipv6
-pass: circl-doh (1 retry)
+pass: circl-doh
 pass: circl-doh-ipv6
 pass: cisco
 pass: cisco-doh
@@ -59,7 +59,14 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
+pass: comodo-02
 pass: comss.one
+pass: controld-block-malware
+pass: controld-block-malware-ad
+pass: controld-block-malware-ad-social
+pass: controld-family-friendly
+pass: controld-uncensored
+pass: controld-unfiltered
 pass: cs-austria
 pass: cs-austria6
 pass: cs-barcelona
