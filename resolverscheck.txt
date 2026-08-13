@@ -26,9 +26,6 @@ pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: cipherdns-ct1-doh-za
-pass: cipherdns-ct1-za
-pass: cipherdns-jb1-doh-za
-pass: cipherdns-jb1-za
 pass: cira-family
 pass: cira-family-ipv6
 pass: cira-private
@@ -450,7 +447,6 @@ pass: dnscry.pt-doh-vancouver-ipv4
 pass: dnscry.pt-doh-vancouver-ipv6
 pass: dnscry.pt-doh-vienna-ipv4
 pass: dnscry.pt-doh-vienna-ipv6
-pass: dnscry.pt-doh-vientiane-ipv4
 pass: dnscry.pt-doh-vientiane-ipv6
 pass: dnscry.pt-doh-vilnius-ipv4
 pass: dnscry.pt-doh-vilnius-ipv6
@@ -648,7 +644,6 @@ pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vancouver-ipv6
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vienna-ipv6
-pass: dnscry.pt-vientiane-ipv4
 pass: dnscry.pt-vientiane-ipv6
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-vilnius-ipv6
@@ -675,7 +670,6 @@ pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
-pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
 pass: doh.ibksturm
@@ -687,7 +681,7 @@ pass: fdn
 pass: fdn-ipv6
 pass: google
 pass: google-ipv6
-pass: he
+pass: he (2 retries)
 pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
