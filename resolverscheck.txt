@@ -32,7 +32,7 @@ pass: cira-private
 pass: cira-private-ipv6
 pass: cira-protected
 pass: cira-protected-ipv6
-pass: circl-doh
+pass: circl-doh (1 retry)
 pass: circl-doh-ipv6
 pass: cisco
 pass: cisco-doh
@@ -146,6 +146,7 @@ pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
 pass: dns.digitalsize.net-ipv6
 pass: dns.sb
+pass: dns4all-ipv4
 pass: dns4all-ipv6
 pass: dns4eu
 pass: dns4eu-ipv6
@@ -603,7 +604,7 @@ pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-singapore02-ipv6
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
-pass: dnscry.pt-spokane-ipv4 (1 retry)
+pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-spokane-ipv6
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
@@ -728,7 +729,9 @@ pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
+pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
