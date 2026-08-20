@@ -4,7 +4,7 @@ pass: adfilter-adl
 pass: adfilter-adl-ipv6
 pass: adfilter-per
 pass: adfilter-per-ipv6
-pass: adfilter-syd
+pass: adfilter-syd (2 retries)
 pass: adguard-dns
 pass: adguard-dns-doh
 pass: adguard-dns-doh-ipv6
@@ -33,7 +33,7 @@ pass: cira-private
 pass: cira-private-ipv6
 pass: cira-protected
 pass: cira-protected-ipv6
-pass: circl-doh
+pass: circl-doh (1 retry)
 pass: circl-doh-ipv6
 pass: cisco
 pass: cisco-doh
@@ -58,7 +58,6 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -395,7 +394,7 @@ pass: dnscry.pt-doh-riga-ipv6
 pass: dnscry.pt-doh-saltlakecity-ipv6
 pass: dnscry.pt-doh-sandefjord-ipv4
 pass: dnscry.pt-doh-sandefjord-ipv6
-pass: dnscry.pt-doh-sanjose-ipv4 (1 retry)
+pass: dnscry.pt-doh-sanjose-ipv4
 pass: dnscry.pt-doh-sanjose-ipv6
 pass: dnscry.pt-doh-santaclara-ipv4
 pass: dnscry.pt-doh-santaclara-ipv6
