@@ -56,7 +56,6 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -302,6 +301,7 @@ pass: dnscry.pt-doh-hongkong03-ipv4
 pass: dnscry.pt-doh-hongkong03-ipv6
 pass: dnscry.pt-doh-houston-ipv4
 pass: dnscry.pt-doh-houston-ipv6
+pass: dnscry.pt-doh-hudiksvall-ipv4
 pass: dnscry.pt-doh-hudiksvall-ipv6
 pass: dnscry.pt-doh-ikeja-ipv4
 pass: dnscry.pt-doh-ikeja-ipv6
@@ -461,7 +461,6 @@ pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-dusseldorf-ipv6
 pass: dnscry.pt-dusseldorf02-ipv4
 pass: dnscry.pt-dusseldorf02-ipv6
-pass: dnscry.pt-dusseldorf03-ipv4
 pass: dnscry.pt-dusseldorf03-ipv6
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
@@ -498,6 +497,7 @@ pass: dnscry.pt-hongkong03-ipv4
 pass: dnscry.pt-hongkong03-ipv6
 pass: dnscry.pt-houston-ipv4
 pass: dnscry.pt-houston-ipv6
+pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-hudiksvall-ipv6
 pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-ikeja-ipv6
@@ -524,7 +524,6 @@ pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv-ipv6
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-kyiv02-ipv6
-pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
