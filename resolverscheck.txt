@@ -26,6 +26,7 @@ pass: blahdns-sg-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: cipherdns-ct1-doh-za
+pass: cipherdns-ct1-za
 pass: cira-family
 pass: cira-family-ipv6
 pass: cira-private
@@ -57,7 +58,6 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -101,6 +101,7 @@ pass: cs-london
 pass: cs-london6
 pass: cs-manchester
 pass: cs-manchester6
+pass: cs-md
 pass: cs-md6
 pass: cs-milan
 pass: cs-milan6
@@ -417,7 +418,6 @@ pass: dnscry.pt-doh-stockholm02-ipv4
 pass: dnscry.pt-doh-stockholm02-ipv6
 pass: dnscry.pt-doh-sydney02-ipv4
 pass: dnscry.pt-doh-sydney02-ipv6
-pass: dnscry.pt-doh-taipeh-ipv4
 pass: dnscry.pt-doh-taipeh-ipv6
 pass: dnscry.pt-doh-tallinn-ipv4
 pass: dnscry.pt-doh-tallinn-ipv6
@@ -613,7 +613,6 @@ pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-stockholm02-ipv6
 pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-sydney02-ipv6
-pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
@@ -731,6 +730,7 @@ pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
+pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
