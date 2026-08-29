@@ -56,6 +56,7 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
+pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -263,7 +264,6 @@ pass: dnscry.pt-doh-dusseldorf-ipv4
 pass: dnscry.pt-doh-dusseldorf-ipv6
 pass: dnscry.pt-doh-dusseldorf02-ipv4
 pass: dnscry.pt-doh-dusseldorf02-ipv6
-pass: dnscry.pt-doh-dusseldorf03-ipv4
 pass: dnscry.pt-doh-dusseldorf03-ipv6
 pass: dnscry.pt-doh-ebenecity02-ipv4
 pass: dnscry.pt-doh-ebenecity02-ipv6
@@ -313,7 +313,6 @@ pass: dnscry.pt-doh-jacksonville-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv6
 pass: dnscry.pt-doh-jakarta-ipv4
 pass: dnscry.pt-doh-jakarta-ipv6
-pass: dnscry.pt-doh-jena-ipv4
 pass: dnscry.pt-doh-jena-ipv6
 pass: dnscry.pt-doh-johannesburg-ipv4
 pass: dnscry.pt-doh-johannesburg-ipv6
@@ -507,7 +506,6 @@ pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-jakarta-ipv6
-pass: dnscry.pt-jena-ipv4
 pass: dnscry.pt-jena-ipv6
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
@@ -752,7 +750,7 @@ pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: switch-ipv6
-pass: uncensoreddns-dk-ipv4
+pass: uncensoreddns-dk-ipv4 (1 retry)
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
