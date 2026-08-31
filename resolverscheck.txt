@@ -270,6 +270,7 @@ pass: dnscry.pt-doh-ebenecity02-ipv4
 pass: dnscry.pt-doh-ebenecity02-ipv6
 pass: dnscry.pt-doh-eygelshoven-ipv4
 pass: dnscry.pt-doh-eygelshoven-ipv6
+pass: dnscry.pt-doh-flint-ipv4
 pass: dnscry.pt-doh-flint-ipv6
 pass: dnscry.pt-doh-frankfurt-ipv4
 pass: dnscry.pt-doh-frankfurt-ipv6
@@ -465,6 +466,7 @@ pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-eygelshoven-ipv6
+pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt-ipv6
@@ -679,7 +681,7 @@ pass: fdn-ipv6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm
+pass: ibksturm (1 retry)
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
@@ -725,7 +727,6 @@ pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
