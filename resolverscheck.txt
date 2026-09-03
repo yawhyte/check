@@ -306,7 +306,6 @@ pass: dnscry.pt-doh-ikeja-ipv4
 pass: dnscry.pt-doh-ikeja-ipv6
 pass: dnscry.pt-doh-indianapolis-ipv4
 pass: dnscry.pt-doh-indianapolis-ipv6
-pass: dnscry.pt-doh-islamabad-ipv4
 pass: dnscry.pt-doh-islamabad-ipv6
 pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-istanbul-ipv6
@@ -502,7 +501,6 @@ pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-ikeja-ipv6
 pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-indianapolis-ipv6
-pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-islamabad-ipv6
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
@@ -680,7 +678,7 @@ pass: fdn
 pass: fdn-ipv6
 pass: google
 pass: google-ipv6
-pass: he (1 retry)
+pass: he
 pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
