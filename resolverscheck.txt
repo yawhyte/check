@@ -144,7 +144,9 @@ pass: dns.digitale-gesellschaft.ch-ipv6
 pass: dns.digitalsize.net
 pass: dns.digitalsize.net-ipv6
 pass: dns.sb
+pass: dns.sb (1 retry)
 pass: dns4all-ipv4
+pass: dns4all-ipv4 (1 retry)
 pass: dns4all-ipv6
 pass: dns4eu
 pass: dns4eu-ipv6
@@ -164,6 +166,8 @@ pass: dnscry.pt-amsterdam02-ipv4
 pass: dnscry.pt-amsterdam02-ipv6
 pass: dnscry.pt-amsterdam03-ipv4
 pass: dnscry.pt-amsterdam03-ipv6
+pass: dnscry.pt-ashburn-ipv4
+pass: dnscry.pt-ashburn-ipv6
 pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-auckland-ipv4
@@ -216,6 +220,8 @@ pass: dnscry.pt-doh-amsterdam02-ipv4
 pass: dnscry.pt-doh-amsterdam02-ipv6
 pass: dnscry.pt-doh-amsterdam03-ipv4
 pass: dnscry.pt-doh-amsterdam03-ipv6
+pass: dnscry.pt-doh-ashburn-ipv4
+pass: dnscry.pt-doh-ashburn-ipv6
 pass: dnscry.pt-doh-atlanta-ipv4
 pass: dnscry.pt-doh-atlanta-ipv6
 pass: dnscry.pt-doh-auckland-ipv4
@@ -288,7 +294,7 @@ pass: dnscry.pt-doh-halifax-ipv4
 pass: dnscry.pt-doh-halifax-ipv6
 pass: dnscry.pt-doh-hanoi-ipv4
 pass: dnscry.pt-doh-hanoi-ipv6
-pass: dnscry.pt-doh-helsinki-ipv4
+pass: dnscry.pt-doh-helsinki-ipv4 (2 retries)
 pass: dnscry.pt-doh-helsinki-ipv6
 pass: dnscry.pt-doh-hochiminhcity-ipv4
 pass: dnscry.pt-doh-hochiminhcity-ipv6
@@ -342,6 +348,8 @@ pass: dnscry.pt-doh-losangeles02-ipv4
 pass: dnscry.pt-doh-losangeles02-ipv6
 pass: dnscry.pt-doh-madrid-ipv4
 pass: dnscry.pt-doh-madrid-ipv6
+pass: dnscry.pt-doh-manchester-ipv4
+pass: dnscry.pt-doh-manchester-ipv6
 pass: dnscry.pt-doh-marseille-ipv4
 pass: dnscry.pt-doh-marseille-ipv6
 pass: dnscry.pt-doh-melbourne-ipv4
@@ -349,6 +357,7 @@ pass: dnscry.pt-doh-melbourne-ipv6
 pass: dnscry.pt-doh-miami-ipv4
 pass: dnscry.pt-doh-miami-ipv6
 pass: dnscry.pt-doh-milan-ipv4
+pass: dnscry.pt-doh-milan-ipv6
 pass: dnscry.pt-doh-molln-ipv4
 pass: dnscry.pt-doh-molln-ipv6
 pass: dnscry.pt-doh-montreal-ipv4
@@ -414,6 +423,7 @@ pass: dnscry.pt-doh-stockholm02-ipv4
 pass: dnscry.pt-doh-stockholm02-ipv6
 pass: dnscry.pt-doh-sydney02-ipv4
 pass: dnscry.pt-doh-sydney02-ipv6
+pass: dnscry.pt-doh-taipeh-ipv4
 pass: dnscry.pt-doh-taipeh-ipv6
 pass: dnscry.pt-doh-tallinn-ipv4
 pass: dnscry.pt-doh-tallinn-ipv6
@@ -537,6 +547,8 @@ pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-losangeles02-ipv6
 pass: dnscry.pt-madrid-ipv4
 pass: dnscry.pt-madrid-ipv6
+pass: dnscry.pt-manchester-ipv4
+pass: dnscry.pt-manchester-ipv6
 pass: dnscry.pt-marseille-ipv4
 pass: dnscry.pt-marseille-ipv6
 pass: dnscry.pt-melbourne-ipv4
@@ -544,6 +556,7 @@ pass: dnscry.pt-melbourne-ipv6
 pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-miami-ipv6
 pass: dnscry.pt-milan-ipv4
+pass: dnscry.pt-milan-ipv6
 pass: dnscry.pt-molln-ipv4
 pass: dnscry.pt-molln-ipv6
 pass: dnscry.pt-montreal-ipv4
@@ -609,6 +622,7 @@ pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-stockholm02-ipv6
 pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-sydney02-ipv6
+pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
@@ -752,7 +766,7 @@ pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: switch-ipv6
-pass: uncensoreddns-dk-ipv4
+pass: uncensoreddns-dk-ipv4 (1 retry)
 pass: uncensoreddns-dk-ipv6
 pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
