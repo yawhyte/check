@@ -1,5 +1,4 @@
 pass: a-and-a
-pass: a-and-a (1 retry)
 pass: a-and-a-ipv6
 pass: adfilter-adl
 pass: adfilter-adl-ipv6
@@ -28,6 +27,7 @@ pass: bortzmeyer-ipv6
 pass: cira-family
 pass: cira-family-ipv6
 pass: cira-private
+pass: cira-private (1 retry)
 pass: cira-private-ipv6
 pass: cira-protected
 pass: cira-protected-ipv6
@@ -50,13 +50,13 @@ pass: cleanbrowsing-security
 pass: cleanbrowsing-security-doh
 pass: cleanbrowsing-security-ipv6
 pass: cloudflare
+pass: cloudflare (1 retry)
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -152,6 +152,7 @@ pass: dns4eu
 pass: dns4eu-ipv6
 pass: dns4eu-protective
 pass: dns4eu-protective-ipv6
+pass: dnsbunker
 pass: dnsbunker-ipv6
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
@@ -311,6 +312,7 @@ pass: dnscry.pt-doh-ikeja-ipv4
 pass: dnscry.pt-doh-ikeja-ipv6
 pass: dnscry.pt-doh-indianapolis-ipv4
 pass: dnscry.pt-doh-indianapolis-ipv6
+pass: dnscry.pt-doh-islamabad-ipv4
 pass: dnscry.pt-doh-islamabad-ipv6
 pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-istanbul-ipv6
@@ -722,6 +724,8 @@ pass: olilo-doh
 pass: olilo-doh-ipv6
 pass: plan9dns-fl
 pass: plan9dns-fl-ipv6
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
 pass: plan9dns-nj
