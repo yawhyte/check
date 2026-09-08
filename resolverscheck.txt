@@ -27,7 +27,6 @@ pass: bortzmeyer-ipv6
 pass: cira-family
 pass: cira-family-ipv6
 pass: cira-private
-pass: cira-private (1 retry)
 pass: cira-private-ipv6
 pass: cira-protected
 pass: cira-protected-ipv6
@@ -50,7 +49,6 @@ pass: cleanbrowsing-security
 pass: cleanbrowsing-security-doh
 pass: cleanbrowsing-security-ipv6
 pass: cloudflare
-pass: cloudflare (1 retry)
 pass: cloudflare-family
 pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
@@ -320,7 +318,6 @@ pass: dnscry.pt-doh-jacksonville-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv6
 pass: dnscry.pt-doh-jakarta-ipv4
 pass: dnscry.pt-doh-jakarta-ipv6
-pass: dnscry.pt-doh-jena-ipv6
 pass: dnscry.pt-doh-johannesburg-ipv4
 pass: dnscry.pt-doh-johannesburg-ipv6
 pass: dnscry.pt-doh-johannesburg02-ipv4
@@ -456,7 +453,6 @@ pass: dnscry.pt-doh-vancouver-ipv4
 pass: dnscry.pt-doh-vancouver-ipv6
 pass: dnscry.pt-doh-vienna-ipv4
 pass: dnscry.pt-doh-vienna-ipv6
-pass: dnscry.pt-doh-vientiane-ipv6
 pass: dnscry.pt-doh-vilnius-ipv4
 pass: dnscry.pt-doh-vilnius-ipv6
 pass: dnscry.pt-doh-warsaw-ipv4
@@ -512,14 +508,12 @@ pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-ikeja-ipv6
 pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-indianapolis-ipv6
-pass: dnscry.pt-islamabad-ipv6
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-jakarta-ipv6
-pass: dnscry.pt-jena-ipv6
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
 pass: dnscry.pt-johannesburg02-ipv4
@@ -655,7 +649,6 @@ pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vancouver-ipv6
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vienna-ipv6
-pass: dnscry.pt-vientiane-ipv6
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-vilnius-ipv6
 pass: dnscry.pt-warsaw-ipv4
