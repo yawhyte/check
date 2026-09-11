@@ -279,7 +279,7 @@ pass: dnscry.pt-doh-frankfurt02-ipv4
 pass: dnscry.pt-doh-frankfurt02-ipv6
 pass: dnscry.pt-doh-fremont02-ipv4
 pass: dnscry.pt-doh-fremont02-ipv6
-pass: dnscry.pt-doh-gdansk-ipv4
+pass: dnscry.pt-doh-gdansk-ipv4 (1 retry)
 pass: dnscry.pt-doh-gdansk-ipv6
 pass: dnscry.pt-doh-geneva-ipv4
 pass: dnscry.pt-doh-geneva-ipv6
@@ -705,6 +705,7 @@ pass: mullvad-extend-doh
 pass: mullvad-extend-doh-ipv6
 pass: mullvad-family-doh
 pass: mullvad-family-doh-ipv6
+pass: nbg-dnscrypt
 pass: nextdns
 pass: nextdns-ipv6
 pass: nextdns-ultralow
