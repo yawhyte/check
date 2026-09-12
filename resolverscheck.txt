@@ -54,6 +54,8 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
+pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -149,7 +151,6 @@ pass: dns4eu
 pass: dns4eu-ipv6
 pass: dns4eu-protective
 pass: dns4eu-protective-ipv6
-pass: dnsbunker
 pass: dnsbunker-ipv6
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
@@ -279,7 +280,7 @@ pass: dnscry.pt-doh-frankfurt02-ipv4
 pass: dnscry.pt-doh-frankfurt02-ipv6
 pass: dnscry.pt-doh-fremont02-ipv4
 pass: dnscry.pt-doh-fremont02-ipv6
-pass: dnscry.pt-doh-gdansk-ipv4 (1 retry)
+pass: dnscry.pt-doh-gdansk-ipv4
 pass: dnscry.pt-doh-gdansk-ipv6
 pass: dnscry.pt-doh-geneva-ipv4
 pass: dnscry.pt-doh-geneva-ipv6
@@ -525,7 +526,7 @@ pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-kyiv-ipv6
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-kyiv02-ipv6
-pass: dnscry.pt-lasvegas-ipv4 (1 retry)
+pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-libertylake-ipv6
