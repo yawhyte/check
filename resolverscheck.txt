@@ -278,7 +278,6 @@ pass: dnscry.pt-doh-frankfurt-ipv4
 pass: dnscry.pt-doh-frankfurt-ipv6
 pass: dnscry.pt-doh-frankfurt02-ipv4
 pass: dnscry.pt-doh-frankfurt02-ipv6
-pass: dnscry.pt-doh-fremont02-ipv4
 pass: dnscry.pt-doh-fremont02-ipv6
 pass: dnscry.pt-doh-gdansk-ipv4
 pass: dnscry.pt-doh-gdansk-ipv6
@@ -477,7 +476,6 @@ pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt-ipv6
 pass: dnscry.pt-frankfurt02-ipv4
 pass: dnscry.pt-frankfurt02-ipv6
-pass: dnscry.pt-fremont02-ipv4
 pass: dnscry.pt-fremont02-ipv6
 pass: dnscry.pt-gdansk-ipv4
 pass: dnscry.pt-gdansk-ipv6
