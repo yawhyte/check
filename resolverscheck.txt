@@ -266,7 +266,7 @@ pass: dnscry.pt-doh-dusseldorf-ipv4
 pass: dnscry.pt-doh-dusseldorf-ipv6
 pass: dnscry.pt-doh-dusseldorf02-ipv4
 pass: dnscry.pt-doh-dusseldorf02-ipv6
-pass: dnscry.pt-doh-dusseldorf03-ipv4
+pass: dnscry.pt-doh-dusseldorf03-ipv4 (1 retry)
 pass: dnscry.pt-doh-dusseldorf03-ipv6
 pass: dnscry.pt-doh-ebenecity02-ipv4
 pass: dnscry.pt-doh-ebenecity02-ipv6
@@ -278,6 +278,7 @@ pass: dnscry.pt-doh-frankfurt-ipv4
 pass: dnscry.pt-doh-frankfurt-ipv6
 pass: dnscry.pt-doh-frankfurt02-ipv4
 pass: dnscry.pt-doh-frankfurt02-ipv6
+pass: dnscry.pt-doh-fremont02-ipv4
 pass: dnscry.pt-doh-fremont02-ipv6
 pass: dnscry.pt-doh-gdansk-ipv4
 pass: dnscry.pt-doh-gdansk-ipv6
@@ -476,6 +477,7 @@ pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-frankfurt-ipv6
 pass: dnscry.pt-frankfurt02-ipv4
 pass: dnscry.pt-frankfurt02-ipv6
+pass: dnscry.pt-fremont02-ipv4
 pass: dnscry.pt-fremont02-ipv6
 pass: dnscry.pt-gdansk-ipv4
 pass: dnscry.pt-gdansk-ipv6
@@ -761,7 +763,6 @@ pass: switch
 pass: switch-ipv6
 pass: uncensoreddns-dk-ipv4
 pass: uncensoreddns-dk-ipv6
-pass: uncensoreddns-ipv4
 pass: uncensoreddns-ipv6
 pass: wikimedia
 pass: yandex
