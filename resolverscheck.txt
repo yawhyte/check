@@ -55,6 +55,7 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -156,7 +157,6 @@ pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allendale-ipv6
-pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam-ipv6
@@ -210,7 +210,6 @@ pass: dnscry.pt-doh-adelaide-ipv4
 pass: dnscry.pt-doh-adelaide-ipv6
 pass: dnscry.pt-doh-allendale-ipv4
 pass: dnscry.pt-doh-allendale-ipv6
-pass: dnscry.pt-doh-allentown-ipv4
 pass: dnscry.pt-doh-allentown-ipv6
 pass: dnscry.pt-doh-amsterdam-ipv4
 pass: dnscry.pt-doh-amsterdam-ipv6
@@ -710,6 +709,7 @@ pass: nextdns-ipv6
 pass: nextdns-ultralow
 pass: nic.cz
 pass: nic.cz-ipv6
+pass: njalla-doh
 pass: nwps.fi
 pass: olilo-doh
 pass: olilo-doh-ipv6
