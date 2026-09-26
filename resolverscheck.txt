@@ -21,7 +21,6 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
-pass: blahdns-de-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: cira-family
@@ -55,7 +54,6 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -157,6 +155,7 @@ pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
 pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allendale-ipv6
+pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam-ipv6
@@ -210,6 +209,7 @@ pass: dnscry.pt-doh-adelaide-ipv4
 pass: dnscry.pt-doh-adelaide-ipv6
 pass: dnscry.pt-doh-allendale-ipv4
 pass: dnscry.pt-doh-allendale-ipv6
+pass: dnscry.pt-doh-allentown-ipv4
 pass: dnscry.pt-doh-allentown-ipv6
 pass: dnscry.pt-doh-amsterdam-ipv4
 pass: dnscry.pt-doh-amsterdam-ipv6
@@ -679,6 +679,8 @@ pass: dremaxx
 pass: dremaxx-family
 pass: dremaxx-family-ipv6
 pass: dremaxx-ipv6
+pass: ekinao-doh-ipv4
+pass: ekinao-doh-ipv6
 pass: fdn
 pass: fdn-ipv6
 pass: google
@@ -715,8 +717,6 @@ pass: olilo-doh
 pass: olilo-doh-ipv6
 pass: plan9dns-fl
 pass: plan9dns-fl-ipv6
-pass: plan9dns-mx
-pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
 pass: plan9dns-nj
