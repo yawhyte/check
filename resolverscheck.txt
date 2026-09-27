@@ -21,6 +21,7 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
+pass: blahdns-de-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: cira-family
@@ -54,6 +55,7 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -89,7 +91,7 @@ pass: cs-ga
 pass: cs-ga6
 pass: cs-hungary
 pass: cs-hungary6
-pass: cs-il
+pass: cs-il (1 retry)
 pass: cs-il6
 pass: cs-la
 pass: cs-la6
@@ -717,6 +719,8 @@ pass: olilo-doh
 pass: olilo-doh-ipv6
 pass: plan9dns-fl
 pass: plan9dns-fl-ipv6
+pass: plan9dns-mx
+pass: plan9dns-mx-doh
 pass: plan9dns-mx-doh-ipv6
 pass: plan9dns-mx-ipv6
 pass: plan9dns-nj
