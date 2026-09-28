@@ -55,7 +55,6 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
-pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -91,7 +90,7 @@ pass: cs-ga
 pass: cs-ga6
 pass: cs-hungary
 pass: cs-hungary6
-pass: cs-il (1 retry)
+pass: cs-il
 pass: cs-il6
 pass: cs-la
 pass: cs-la6
