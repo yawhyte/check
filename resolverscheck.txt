@@ -2,6 +2,7 @@ pass: a-and-a
 pass: a-and-a-ipv6
 pass: adfilter-adl
 pass: adfilter-adl-ipv6
+pass: adfilter-per
 pass: adfilter-per-ipv6
 pass: adfilter-syd
 pass: adguard-dns
@@ -20,7 +21,6 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
-pass: blahdns-de-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: cira-family
@@ -29,7 +29,7 @@ pass: cira-private
 pass: cira-private-ipv6
 pass: cira-protected
 pass: cira-protected-ipv6
-pass: circl-doh (1 retry)
+pass: circl-doh
 pass: circl-doh-ipv6
 pass: cisco
 pass: cisco-doh
@@ -662,7 +662,7 @@ pass: dnsforge.de-nofilter-ipv6
 pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
-pass: dnspod (1 retry)
+pass: dnspod (2 retries)
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
