@@ -21,6 +21,7 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
+pass: blahdns-de-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: cira-family
@@ -29,7 +30,7 @@ pass: cira-private
 pass: cira-private-ipv6
 pass: cira-protected
 pass: cira-protected-ipv6
-pass: circl-doh
+pass: circl-doh (1 retry)
 pass: circl-doh-ipv6
 pass: cisco
 pass: cisco-doh
@@ -422,6 +423,7 @@ pass: dnscry.pt-doh-sydney02-ipv6
 pass: dnscry.pt-doh-taipeh-ipv6
 pass: dnscry.pt-doh-tallinn-ipv4
 pass: dnscry.pt-doh-tallinn-ipv6
+pass: dnscry.pt-doh-tampa-ipv4
 pass: dnscry.pt-doh-tampa-ipv6
 pass: dnscry.pt-doh-taos-ipv4
 pass: dnscry.pt-doh-taos-ipv6
@@ -615,6 +617,7 @@ pass: dnscry.pt-sydney02-ipv6
 pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
+pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-tampa-ipv6
 pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
@@ -662,7 +665,6 @@ pass: dnsforge.de-nofilter-ipv6
 pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
-pass: dnspod (2 retries)
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
@@ -736,7 +738,9 @@ pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-pri
+pass: quad9-doh-ip4-port443-nofilter-pri (1 retry)
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
 pass: quad9-doh-ip6-port443-nofilter-ecs-pri
