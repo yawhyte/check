@@ -224,7 +224,7 @@ pass: dnscry.pt-doh-atlanta-ipv4
 pass: dnscry.pt-doh-atlanta-ipv6
 pass: dnscry.pt-doh-auckland-ipv4
 pass: dnscry.pt-doh-auckland-ipv6
-pass: dnscry.pt-doh-bangkok-ipv4
+pass: dnscry.pt-doh-bangkok-ipv4 (1 retry)
 pass: dnscry.pt-doh-bangkok-ipv6
 pass: dnscry.pt-doh-bengaluru-ipv4
 pass: dnscry.pt-doh-bengaluru-ipv6
@@ -664,6 +664,7 @@ pass: dnsforge.de-nofilter-ipv6
 pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
+pass: dnspod (1 retry)
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
