@@ -53,14 +53,7 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: comss.one
-pass: controld-block-malware
-pass: controld-block-malware-ad
-pass: controld-block-malware-ad-social
-pass: controld-family-friendly
-pass: controld-uncensored
-pass: controld-unfiltered
 pass: cs-austria
 pass: cs-austria6
 pass: cs-barcelona
@@ -274,7 +267,7 @@ pass: dnscry.pt-doh-frankfurt02-ipv4
 pass: dnscry.pt-doh-frankfurt02-ipv6
 pass: dnscry.pt-doh-fremont02-ipv4
 pass: dnscry.pt-doh-fremont02-ipv6
-pass: dnscry.pt-doh-gdansk-ipv4 (1 retry)
+pass: dnscry.pt-doh-gdansk-ipv4 (2 retries)
 pass: dnscry.pt-doh-gdansk-ipv6
 pass: dnscry.pt-doh-geneva-ipv4
 pass: dnscry.pt-doh-geneva-ipv6
@@ -298,12 +291,14 @@ pass: dnscry.pt-doh-hongkong03-ipv4
 pass: dnscry.pt-doh-hongkong03-ipv6
 pass: dnscry.pt-doh-houston-ipv4
 pass: dnscry.pt-doh-houston-ipv6
-pass: dnscry.pt-doh-hudiksvall-ipv4
+pass: dnscry.pt-doh-hudiksvall-ipv4 (1 retry)
 pass: dnscry.pt-doh-hudiksvall-ipv6
 pass: dnscry.pt-doh-ikeja-ipv4
 pass: dnscry.pt-doh-ikeja-ipv6
 pass: dnscry.pt-doh-indianapolis-ipv4
 pass: dnscry.pt-doh-indianapolis-ipv6
+pass: dnscry.pt-doh-islamabad-ipv4
+pass: dnscry.pt-doh-islamabad-ipv6
 pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-istanbul-ipv6
 pass: dnscry.pt-doh-jacksonville-ipv4
@@ -512,6 +507,7 @@ pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-johor-ipv6
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kansascity-ipv6
+pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-lasvegas-ipv6
 pass: dnscry.pt-libertylake-ipv4
@@ -603,6 +599,8 @@ pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-stockholm02-ipv6
 pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-sydney02-ipv6
+pass: dnscry.pt-taipeh-ipv4
+pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
 pass: dnscry.pt-tampa-ipv4
@@ -653,6 +651,7 @@ pass: dnsforge.de-nofilter-ipv6
 pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
+pass: dnspod (1 retry)
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
