@@ -53,7 +53,15 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
+pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
+pass: controld-block-malware
+pass: controld-block-malware-ad
+pass: controld-block-malware-ad-social
+pass: controld-family-friendly
+pass: controld-uncensored
+pass: controld-unfiltered
 pass: cs-austria
 pass: cs-austria6
 pass: cs-barcelona
@@ -146,6 +154,7 @@ pass: dnsbunker
 pass: dnsbunker-ipv6
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
+pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allendale-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
@@ -267,7 +276,7 @@ pass: dnscry.pt-doh-frankfurt02-ipv4
 pass: dnscry.pt-doh-frankfurt02-ipv6
 pass: dnscry.pt-doh-fremont02-ipv4
 pass: dnscry.pt-doh-fremont02-ipv6
-pass: dnscry.pt-doh-gdansk-ipv4 (2 retries)
+pass: dnscry.pt-doh-gdansk-ipv4
 pass: dnscry.pt-doh-gdansk-ipv6
 pass: dnscry.pt-doh-geneva-ipv4
 pass: dnscry.pt-doh-geneva-ipv6
@@ -291,7 +300,7 @@ pass: dnscry.pt-doh-hongkong03-ipv4
 pass: dnscry.pt-doh-hongkong03-ipv6
 pass: dnscry.pt-doh-houston-ipv4
 pass: dnscry.pt-doh-houston-ipv6
-pass: dnscry.pt-doh-hudiksvall-ipv4 (1 retry)
+pass: dnscry.pt-doh-hudiksvall-ipv4
 pass: dnscry.pt-doh-hudiksvall-ipv6
 pass: dnscry.pt-doh-ikeja-ipv4
 pass: dnscry.pt-doh-ikeja-ipv6
@@ -651,7 +660,6 @@ pass: dnsforge.de-nofilter-ipv6
 pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
-pass: dnspod (1 retry)
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
@@ -703,7 +711,6 @@ pass: nextdns-ipv6
 pass: nextdns-ultralow
 pass: nic.cz
 pass: nic.cz-ipv6
-pass: njalla-doh
 pass: nwps.fi
 pass: olilo-doh
 pass: olilo-doh-ipv6
@@ -728,7 +735,7 @@ pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
