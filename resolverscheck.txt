@@ -53,14 +53,7 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: comss.one
-pass: controld-block-malware
-pass: controld-block-malware-ad
-pass: controld-block-malware-ad-social
-pass: controld-family-friendly
-pass: controld-uncensored
-pass: controld-unfiltered
 pass: cs-austria
 pass: cs-austria6
 pass: cs-barcelona
@@ -731,7 +724,6 @@ pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
@@ -768,6 +760,3 @@ pass: yandex
 pass: yandex-ipv6
 pass: yandex-safe
 pass: yandex-safe-ipv6
-pass: yunzheng
-pass: yunzheng-dns64
-pass: yunzheng-filtered
