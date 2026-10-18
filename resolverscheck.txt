@@ -299,7 +299,7 @@ pass: dnscry.pt-doh-hongkong03-ipv4
 pass: dnscry.pt-doh-hongkong03-ipv6
 pass: dnscry.pt-doh-houston-ipv4
 pass: dnscry.pt-doh-houston-ipv6
-pass: dnscry.pt-doh-hudiksvall-ipv4
+pass: dnscry.pt-doh-hudiksvall-ipv4 (1 retry)
 pass: dnscry.pt-doh-hudiksvall-ipv6
 pass: dnscry.pt-doh-ikeja-ipv4
 pass: dnscry.pt-doh-ikeja-ipv6
