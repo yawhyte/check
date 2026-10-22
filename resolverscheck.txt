@@ -40,12 +40,15 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-adult-doh
+pass: cleanbrowsing-adult-doh (1 retry)
 pass: cleanbrowsing-adult-ipv6
-pass: cleanbrowsing-family
+pass: cleanbrowsing-family (2 retries)
 pass: cleanbrowsing-family-doh
+pass: cleanbrowsing-family-doh (1 retry)
 pass: cleanbrowsing-family-ipv6
 pass: cleanbrowsing-security
 pass: cleanbrowsing-security-doh
+pass: cleanbrowsing-security-doh (1 retry)
 pass: cleanbrowsing-security-ipv6
 pass: cloudflare
 pass: cloudflare-family
@@ -310,7 +313,7 @@ pass: dnscry.pt-doh-islamabad-ipv6
 pass: dnscry.pt-doh-istanbul-ipv6
 pass: dnscry.pt-doh-jacksonville-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv6
-pass: dnscry.pt-doh-jakarta-ipv4
+pass: dnscry.pt-doh-jakarta-ipv4 (1 retry)
 pass: dnscry.pt-doh-jakarta-ipv6
 pass: dnscry.pt-doh-johannesburg-ipv4
 pass: dnscry.pt-doh-johannesburg-ipv6
@@ -501,6 +504,7 @@ pass: dnscry.pt-ikeja-ipv6
 pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-indianapolis-ipv6
 pass: dnscry.pt-istanbul-ipv6
+pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
 pass: dnscry.pt-jakarta-ipv4
 pass: dnscry.pt-jakarta-ipv6
@@ -656,9 +660,9 @@ pass: dnsforge.de-nofilter-ipv6
 pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
-pass: doh-cleanbrowsing-adult
+pass: doh-cleanbrowsing-adult (1 retry)
 pass: doh-cleanbrowsing-family
-pass: doh-cleanbrowsing-security
+pass: doh-cleanbrowsing-security (2 retries)
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh.appliedprivacy.net
@@ -730,9 +734,7 @@ pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
-pass: quad9-doh-ip4-port443-filter-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
