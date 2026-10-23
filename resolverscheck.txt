@@ -40,15 +40,12 @@ pass: cisco-ipv6-doh
 pass: cisco-sandbox
 pass: cleanbrowsing-adult
 pass: cleanbrowsing-adult-doh
-pass: cleanbrowsing-adult-doh (1 retry)
 pass: cleanbrowsing-adult-ipv6
-pass: cleanbrowsing-family (2 retries)
+pass: cleanbrowsing-family
 pass: cleanbrowsing-family-doh
-pass: cleanbrowsing-family-doh (1 retry)
 pass: cleanbrowsing-family-ipv6
 pass: cleanbrowsing-security
 pass: cleanbrowsing-security-doh
-pass: cleanbrowsing-security-doh (1 retry)
 pass: cleanbrowsing-security-ipv6
 pass: cloudflare
 pass: cloudflare-family
@@ -310,6 +307,7 @@ pass: dnscry.pt-doh-indianapolis-ipv4
 pass: dnscry.pt-doh-indianapolis-ipv6
 pass: dnscry.pt-doh-islamabad-ipv4
 pass: dnscry.pt-doh-islamabad-ipv6
+pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-istanbul-ipv6
 pass: dnscry.pt-doh-jacksonville-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv6
@@ -398,6 +396,8 @@ pass: dnscry.pt-doh-sanjose-ipv4
 pass: dnscry.pt-doh-sanjose-ipv6
 pass: dnscry.pt-doh-santaclara-ipv4
 pass: dnscry.pt-doh-santaclara-ipv6
+pass: dnscry.pt-doh-saopaulo-ipv4
+pass: dnscry.pt-doh-saopaulo-ipv6
 pass: dnscry.pt-doh-seattle-ipv4
 pass: dnscry.pt-doh-seattle-ipv6
 pass: dnscry.pt-doh-seoul02-ipv4
@@ -503,6 +503,7 @@ pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-ikeja-ipv6
 pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-indianapolis-ipv6
+pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-istanbul-ipv6
 pass: dnscry.pt-jacksonville-ipv4
 pass: dnscry.pt-jacksonville-ipv6
@@ -590,6 +591,8 @@ pass: dnscry.pt-sanjose-ipv4
 pass: dnscry.pt-sanjose-ipv6
 pass: dnscry.pt-santaclara-ipv4
 pass: dnscry.pt-santaclara-ipv6
+pass: dnscry.pt-saopaulo-ipv4
+pass: dnscry.pt-saopaulo-ipv6
 pass: dnscry.pt-seattle-ipv4
 pass: dnscry.pt-seattle-ipv6
 pass: dnscry.pt-seoul02-ipv4
@@ -640,6 +643,8 @@ pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vancouver-ipv6
 pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-vienna-ipv6
+pass: dnscry.pt-vientiane-ipv4
+pass: dnscry.pt-vientiane-ipv6
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-vilnius-ipv6
 pass: dnscry.pt-warsaw-ipv4
@@ -660,15 +665,16 @@ pass: dnsforge.de-nofilter-ipv6
 pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
-pass: doh-cleanbrowsing-adult (1 retry)
+pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
-pass: doh-cleanbrowsing-security (2 retries)
+pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
 pass: doh.ibksturm
+pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: doh.tiarap.org-ipv6
@@ -684,8 +690,6 @@ pass: fdn-ipv6
 pass: google
 pass: google-ipv6
 pass: he
-pass: hqdns-doh
-pass: hqdns-doh-ipv6
 pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
@@ -757,7 +761,6 @@ pass: scaleway-fr
 pass: scaleway-fr-ipv6
 pass: searx-se-ipv4
 pass: searx-se-ipv6
-pass: serbica
 pass: sfw.scaleway-fr
 pass: switch
 pass: switch-ipv6
