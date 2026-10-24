@@ -311,7 +311,7 @@ pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-istanbul-ipv6
 pass: dnscry.pt-doh-jacksonville-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv6
-pass: dnscry.pt-doh-jakarta-ipv4 (1 retry)
+pass: dnscry.pt-doh-jakarta-ipv4
 pass: dnscry.pt-doh-jakarta-ipv6
 pass: dnscry.pt-doh-johannesburg-ipv4
 pass: dnscry.pt-doh-johannesburg-ipv6
@@ -359,7 +359,6 @@ pass: dnscry.pt-doh-mumbai02-ipv4
 pass: dnscry.pt-doh-mumbai02-ipv6
 pass: dnscry.pt-doh-munich-ipv4
 pass: dnscry.pt-doh-munich-ipv6
-pass: dnscry.pt-doh-naaldwijk-ipv4
 pass: dnscry.pt-doh-newcastle-ipv4
 pass: dnscry.pt-doh-newcastle-ipv6
 pass: dnscry.pt-doh-newyork-ipv4
@@ -554,7 +553,6 @@ pass: dnscry.pt-mumbai02-ipv4
 pass: dnscry.pt-mumbai02-ipv6
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-munich-ipv6
-pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-newcastle-ipv4
 pass: dnscry.pt-newcastle-ipv6
 pass: dnscry.pt-newyork-ipv4
