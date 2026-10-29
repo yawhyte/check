@@ -53,12 +53,7 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: controld-block-malware
-pass: controld-block-malware-ad
-pass: controld-block-malware-ad-social
-pass: controld-family-friendly
-pass: controld-uncensored
-pass: controld-unfiltered
+pass: comodo-02
 pass: cs-austria
 pass: cs-austria6
 pass: cs-barcelona
@@ -87,7 +82,7 @@ pass: cs-ga
 pass: cs-ga6
 pass: cs-hungary
 pass: cs-hungary6
-pass: cs-il (1 retry)
+pass: cs-il
 pass: cs-il6
 pass: cs-la
 pass: cs-la6
@@ -128,6 +123,7 @@ pass: cs-sydney
 pass: cs-sydney6
 pass: cs-tokyo
 pass: cs-tokyo6
+pass: cs-tx
 pass: cs-tx6
 pass: cs-vancouver
 pass: cs-vancouver6
@@ -166,7 +162,7 @@ pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-atlanta-ipv6
 pass: dnscry.pt-auckland-ipv4
 pass: dnscry.pt-auckland-ipv6
-pass: dnscry.pt-bengaluru-ipv4
+pass: dnscry.pt-bengaluru-ipv4 (1 retry)
 pass: dnscry.pt-bengaluru-ipv6
 pass: dnscry.pt-berkeleysprings-ipv4
 pass: dnscry.pt-berkeleysprings-ipv6
@@ -272,7 +268,7 @@ pass: dnscry.pt-doh-frankfurt02-ipv4
 pass: dnscry.pt-doh-frankfurt02-ipv6
 pass: dnscry.pt-doh-fremont02-ipv4
 pass: dnscry.pt-doh-fremont02-ipv6
-pass: dnscry.pt-doh-gdansk-ipv4 (1 retry)
+pass: dnscry.pt-doh-gdansk-ipv4
 pass: dnscry.pt-doh-gdansk-ipv6
 pass: dnscry.pt-doh-geneva-ipv4
 pass: dnscry.pt-doh-geneva-ipv6
@@ -308,7 +304,7 @@ pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-istanbul-ipv6
 pass: dnscry.pt-doh-jacksonville-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv6
-pass: dnscry.pt-doh-jakarta-ipv4 (1 retry)
+pass: dnscry.pt-doh-jakarta-ipv4
 pass: dnscry.pt-doh-jakarta-ipv6
 pass: dnscry.pt-doh-johannesburg-ipv4
 pass: dnscry.pt-doh-johannesburg-ipv6
@@ -342,7 +338,6 @@ pass: dnscry.pt-doh-marseille-ipv4
 pass: dnscry.pt-doh-marseille-ipv6
 pass: dnscry.pt-doh-melbourne-ipv4
 pass: dnscry.pt-doh-melbourne-ipv6
-pass: dnscry.pt-doh-miami-ipv4
 pass: dnscry.pt-doh-miami-ipv6
 pass: dnscry.pt-doh-milan-ipv4
 pass: dnscry.pt-doh-milan-ipv6
@@ -535,7 +530,6 @@ pass: dnscry.pt-marseille-ipv4
 pass: dnscry.pt-marseille-ipv6
 pass: dnscry.pt-melbourne-ipv4
 pass: dnscry.pt-melbourne-ipv6
-pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-miami-ipv6
 pass: dnscry.pt-milan-ipv4
 pass: dnscry.pt-milan-ipv6
@@ -658,7 +652,6 @@ pass: dnsforge.de-nofilter-ipv6
 pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
-pass: dnspod (1 retry)
 pass: doh-cleanbrowsing-adult
 pass: doh-cleanbrowsing-family
 pass: doh-cleanbrowsing-security
@@ -731,9 +724,9 @@ pass: quad9-dnscrypt-ip6-filter-ecs-pri
 pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
+pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
