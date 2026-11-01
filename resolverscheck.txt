@@ -53,7 +53,6 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -672,6 +671,7 @@ pass: doh.ffmuc.net-v6
 pass: doh.ibksturm
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
+pass: doh.tiarap.org
 pass: doh.tiarap.org-ipv6
 pass: dorriere-fr
 pass: dremaxx
