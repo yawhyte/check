@@ -53,7 +53,6 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -93,7 +92,6 @@ pass: cs-il
 pass: cs-il6
 pass: cs-la
 pass: cs-la6
-pass: cs-london
 pass: cs-london6
 pass: cs-manchester
 pass: cs-manchester6
@@ -599,7 +597,7 @@ pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-singapore02-ipv6
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
-pass: dnscry.pt-spokane-ipv4
+pass: dnscry.pt-spokane-ipv4 (1 retry)
 pass: dnscry.pt-spokane-ipv6
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
@@ -677,14 +675,14 @@ pass: dremaxx
 pass: dremaxx-family
 pass: dremaxx-family-ipv6
 pass: dremaxx-ipv6
-pass: ekinao-doh-ipv4 (1 retry)
+pass: ekinao-doh-ipv4
 pass: ekinao-doh-ipv6
 pass: fdn
 pass: fdn-ipv6
 pass: google
 pass: google-ipv6
 pass: he
-pass: ibksturm (2 retries)
+pass: ibksturm
 pass: iij
 pass: ksol.io-ns2-dnscrypt-ipv4
 pass: ksol.io-ns2-dnscrypt-ipv6
