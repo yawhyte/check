@@ -53,6 +53,7 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
+pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -263,7 +264,6 @@ pass: dnscry.pt-doh-dusseldorf03-ipv4
 pass: dnscry.pt-doh-dusseldorf03-ipv6
 pass: dnscry.pt-doh-ebenecity02-ipv4
 pass: dnscry.pt-doh-ebenecity02-ipv6
-pass: dnscry.pt-doh-eygelshoven-ipv4
 pass: dnscry.pt-doh-eygelshoven-ipv6
 pass: dnscry.pt-doh-flint-ipv4
 pass: dnscry.pt-doh-flint-ipv6
@@ -309,7 +309,7 @@ pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-istanbul-ipv6
 pass: dnscry.pt-doh-jacksonville-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv6
-pass: dnscry.pt-doh-jakarta-ipv4 (1 retry)
+pass: dnscry.pt-doh-jakarta-ipv4
 pass: dnscry.pt-doh-jakarta-ipv6
 pass: dnscry.pt-doh-johannesburg-ipv4
 pass: dnscry.pt-doh-johannesburg-ipv6
@@ -413,6 +413,7 @@ pass: dnscry.pt-doh-stockholm02-ipv4
 pass: dnscry.pt-doh-stockholm02-ipv6
 pass: dnscry.pt-doh-sydney02-ipv4
 pass: dnscry.pt-doh-sydney02-ipv6
+pass: dnscry.pt-doh-taipeh-ipv4
 pass: dnscry.pt-doh-taipeh-ipv6
 pass: dnscry.pt-doh-tallinn-ipv4
 pass: dnscry.pt-doh-tallinn-ipv6
@@ -459,7 +460,6 @@ pass: dnscry.pt-dusseldorf03-ipv4
 pass: dnscry.pt-dusseldorf03-ipv6
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
-pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-eygelshoven-ipv6
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
@@ -605,6 +605,7 @@ pass: dnscry.pt-stockholm02-ipv4
 pass: dnscry.pt-stockholm02-ipv6
 pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-sydney02-ipv6
+pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-taipeh-ipv6
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
