@@ -54,6 +54,7 @@ pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
 pass: comodo-02
+pass: comodo-02 (1 retry)
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -295,7 +296,6 @@ pass: dnscry.pt-doh-hongkong02-ipv4
 pass: dnscry.pt-doh-hongkong02-ipv6
 pass: dnscry.pt-doh-hongkong03-ipv4
 pass: dnscry.pt-doh-hongkong03-ipv6
-pass: dnscry.pt-doh-houston-ipv4
 pass: dnscry.pt-doh-houston-ipv6
 pass: dnscry.pt-doh-hudiksvall-ipv4
 pass: dnscry.pt-doh-hudiksvall-ipv6
@@ -309,7 +309,7 @@ pass: dnscry.pt-doh-istanbul-ipv4
 pass: dnscry.pt-doh-istanbul-ipv6
 pass: dnscry.pt-doh-jacksonville-ipv4
 pass: dnscry.pt-doh-jacksonville-ipv6
-pass: dnscry.pt-doh-jakarta-ipv4
+pass: dnscry.pt-doh-jakarta-ipv4 (1 retry)
 pass: dnscry.pt-doh-jakarta-ipv6
 pass: dnscry.pt-doh-johannesburg-ipv4
 pass: dnscry.pt-doh-johannesburg-ipv6
@@ -490,7 +490,6 @@ pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-hongkong02-ipv6
 pass: dnscry.pt-hongkong03-ipv4
 pass: dnscry.pt-hongkong03-ipv6
-pass: dnscry.pt-houston-ipv4
 pass: dnscry.pt-houston-ipv6
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-hudiksvall-ipv6
@@ -597,7 +596,7 @@ pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-singapore02-ipv6
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
-pass: dnscry.pt-spokane-ipv4 (1 retry)
+pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-spokane-ipv6
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
