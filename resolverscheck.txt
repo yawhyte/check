@@ -38,14 +38,8 @@ pass: cisco-familyshield-ipv6
 pass: cisco-ipv6
 pass: cisco-ipv6-doh
 pass: cisco-sandbox
-pass: cleanbrowsing-adult
-pass: cleanbrowsing-adult-doh
 pass: cleanbrowsing-adult-ipv6
-pass: cleanbrowsing-family
-pass: cleanbrowsing-family-doh
 pass: cleanbrowsing-family-ipv6
-pass: cleanbrowsing-security
-pass: cleanbrowsing-security-doh
 pass: cleanbrowsing-security-ipv6
 pass: cloudflare
 pass: cloudflare-family
@@ -659,9 +653,6 @@ pass: dnsforge.de-nofilter-ipv6
 pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
-pass: doh-cleanbrowsing-adult
-pass: doh-cleanbrowsing-family
-pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh.appliedprivacy.net
@@ -732,10 +723,8 @@ pass: quad9-dnscrypt-ip6-filter-pri
 pass: quad9-dnscrypt-ip6-nofilter-ecs-pri
 pass: quad9-dnscrypt-ip6-nofilter-pri
 pass: quad9-doh-ip4-port443-filter-ecs-pri
-pass: quad9-doh-ip4-port443-filter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-filter-pri
 pass: quad9-doh-ip4-port443-nofilter-ecs-pri
-pass: quad9-doh-ip4-port443-nofilter-ecs-pri (1 retry)
 pass: quad9-doh-ip4-port443-nofilter-pri
 pass: quad9-doh-ip6-port443-filter-ecs-pri
 pass: quad9-doh-ip6-port443-filter-pri
