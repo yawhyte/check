@@ -21,6 +21,8 @@ pass: alidns-doh
 pass: alidns-doh-ipv6
 pass: artikel10-doh-ipv4
 pass: artikel10-doh-ipv6
+pass: beatquantum
+pass: beatquantum-ipv6
 pass: blahdns-de-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
@@ -38,8 +40,14 @@ pass: cisco-familyshield-ipv6
 pass: cisco-ipv6
 pass: cisco-ipv6-doh
 pass: cisco-sandbox
+pass: cleanbrowsing-adult
+pass: cleanbrowsing-adult-doh
 pass: cleanbrowsing-adult-ipv6
+pass: cleanbrowsing-family
+pass: cleanbrowsing-family-doh
 pass: cleanbrowsing-family-ipv6
+pass: cleanbrowsing-security
+pass: cleanbrowsing-security-doh
 pass: cleanbrowsing-security-ipv6
 pass: cloudflare
 pass: cloudflare-family
@@ -47,7 +55,6 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: comss.one
 pass: controld-block-malware
 pass: controld-block-malware-ad
@@ -653,6 +660,9 @@ pass: dnsforge.de-nofilter-ipv6
 pass: dnshome-de
 pass: dnslow.me
 pass: dnspod
+pass: doh-cleanbrowsing-adult
+pass: doh-cleanbrowsing-family
+pass: doh-cleanbrowsing-security
 pass: doh-crypto-sx
 pass: doh-crypto-sx-ipv6
 pass: doh.appliedprivacy.net
@@ -682,6 +692,8 @@ pass: ksol.io-ns2-dnscrypt-ipv6
 pass: la-contre-voie
 pass: libredns
 pass: libredns-noads
+pass: moklav-dns
+pass: moklav-dns-ipv6
 pass: mullvad-adblock-doh
 pass: mullvad-adblock-doh-ipv6
 pass: mullvad-all-doh
