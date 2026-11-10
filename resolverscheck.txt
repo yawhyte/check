@@ -55,7 +55,6 @@ pass: cloudflare-family-ipv6
 pass: cloudflare-ipv6
 pass: cloudflare-security
 pass: cloudflare-security-ipv6
-pass: comodo-02
 pass: controld-block-malware
 pass: controld-block-malware-ad
 pass: controld-block-malware-ad-social
@@ -154,7 +153,7 @@ pass: dnsbunker
 pass: dnsbunker-ipv6
 pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-adelaide-ipv6
-pass: dnscry.pt-allendale-ipv4 (1 retry)
+pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-allendale-ipv6
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-allentown-ipv6
@@ -669,7 +668,7 @@ pass: doh.appliedprivacy.net
 pass: doh.ffmuc.net
 pass: doh.ffmuc.net-v6
 pass: doh.ibksturm
-pass: doh.tiar.app
+pass: doh.tiar.app (1 retry)
 pass: doh.tiar.app-doh
 pass: doh.tiarap.org
 pass: doh.tiarap.org-ipv6
