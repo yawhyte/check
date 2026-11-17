@@ -27,7 +27,6 @@ pass: blahdns-de-doh
 pass: bortzmeyer
 pass: bortzmeyer-ipv6
 pass: cira-family
-pass: cira-family (1 retry)
 pass: cira-family-ipv6
 pass: cira-private
 pass: cira-private-ipv6
@@ -268,6 +267,7 @@ pass: dnscry.pt-doh-dusseldorf03-ipv4
 pass: dnscry.pt-doh-dusseldorf03-ipv6
 pass: dnscry.pt-doh-ebenecity02-ipv4
 pass: dnscry.pt-doh-ebenecity02-ipv6
+pass: dnscry.pt-doh-eygelshoven-ipv4
 pass: dnscry.pt-doh-eygelshoven-ipv6
 pass: dnscry.pt-doh-flint-ipv4
 pass: dnscry.pt-doh-flint-ipv6
@@ -409,7 +409,7 @@ pass: dnscry.pt-doh-singapore02-ipv4
 pass: dnscry.pt-doh-singapore02-ipv6
 pass: dnscry.pt-doh-sofia-ipv4
 pass: dnscry.pt-doh-sofia-ipv6
-pass: dnscry.pt-doh-spokane-ipv4
+pass: dnscry.pt-doh-spokane-ipv4 (1 retry)
 pass: dnscry.pt-doh-spokane-ipv6
 pass: dnscry.pt-doh-stockholm-ipv4
 pass: dnscry.pt-doh-stockholm-ipv6
@@ -464,6 +464,7 @@ pass: dnscry.pt-dusseldorf03-ipv4
 pass: dnscry.pt-dusseldorf03-ipv6
 pass: dnscry.pt-ebenecity02-ipv4
 pass: dnscry.pt-ebenecity02-ipv6
+pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-eygelshoven-ipv6
 pass: dnscry.pt-flint-ipv4
 pass: dnscry.pt-flint-ipv6
@@ -512,6 +513,7 @@ pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-johannesburg-ipv6
 pass: dnscry.pt-johannesburg02-ipv4
 pass: dnscry.pt-johannesburg02-ipv6
+pass: dnscry.pt-johor-ipv4
 pass: dnscry.pt-johor-ipv6
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-kansascity-ipv6
@@ -600,7 +602,7 @@ pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-singapore02-ipv6
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
-pass: dnscry.pt-spokane-ipv4
+pass: dnscry.pt-spokane-ipv4 (1 retry)
 pass: dnscry.pt-spokane-ipv6
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
@@ -679,6 +681,7 @@ pass: dremaxx
 pass: dremaxx-family
 pass: dremaxx-family-ipv6
 pass: dremaxx-ipv6
+pass: ekinao-doh-ipv4
 pass: ekinao-doh-ipv6
 pass: fdn
 pass: fdn-ipv6
@@ -751,6 +754,7 @@ pass: safesurfer-doh-ipv6
 pass: safesurfer-doh-secondary-ipv4
 pass: safesurfer-doh-secondary-ipv6
 pass: saldns01-conoha-ipv4
+pass: saldns02-conoha-ipv4
 pass: saldns03-conoha-ipv4
 pass: scaleway-ams
 pass: scaleway-ams-ipv6
@@ -770,5 +774,6 @@ pass: yandex
 pass: yandex-ipv6
 pass: yandex-safe
 pass: yandex-safe-ipv6
-pass: yunzheng-dns64 (1 retry)
+pass: yunzheng
+pass: yunzheng-dns64
 pass: yunzheng-filtered
