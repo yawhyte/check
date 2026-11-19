@@ -1,4 +1,5 @@
 pass: a-and-a
+pass: a-and-a (1 retry)
 pass: a-and-a-ipv6
 pass: adfilter-adl
 pass: adfilter-adl-ipv6
@@ -423,6 +424,7 @@ pass: dnscry.pt-doh-tallinn-ipv4
 pass: dnscry.pt-doh-tallinn-ipv6
 pass: dnscry.pt-doh-tampa-ipv4
 pass: dnscry.pt-doh-tampa-ipv6
+pass: dnscry.pt-doh-taos-ipv4
 pass: dnscry.pt-doh-taos-ipv6
 pass: dnscry.pt-doh-tbilisi-ipv4
 pass: dnscry.pt-doh-tbilisi-ipv6
@@ -602,7 +604,7 @@ pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-singapore02-ipv6
 pass: dnscry.pt-sofia-ipv4
 pass: dnscry.pt-sofia-ipv6
-pass: dnscry.pt-spokane-ipv4
+pass: dnscry.pt-spokane-ipv4 (3 retries)
 pass: dnscry.pt-spokane-ipv6
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-stockholm-ipv6
@@ -616,6 +618,7 @@ pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-tallinn-ipv6
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-tampa-ipv6
+pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-taos-ipv6
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-tbilisi-ipv6
